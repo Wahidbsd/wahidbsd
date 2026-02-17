@@ -1,66 +1,69 @@
-# وحيد تشلسااوي – Onizuka of Code & Chelsea
-
-Konichiwa يا وحوش!  
-أنا اللي يلعب كورة في الشارع ويكتب كود في الليل  
-Chelsea Blue heart ♾️  
-Python | AI | DSA | GANs | Street Knowledge  
-
-"اللي ما يعرفش يبرمج... هيبرمجني أنا!" 👊
-
-https://github.com/WahidBsdفي نفس الوقت: واحد يتعلم كل ما يخص البرمجة بلا هوادة
-
-- العمر: 19 (لكن الروح عندها 40 سنة شارع)
-- الهوايات:
-  - كورة (تشيلسي فوق الكل)
-  - أنمي + Light Novels (GTO forever)
-  - برمجة وذكاء اصطناعي (Machine Learning street style)
-  - Gaming (PS mostly)
-  - Badminton (مش لعبة، حرب)
-
-<br>
-
-### اللي أتعلمه حالياً
-- Data Structures & Algorithms → brutal mode
-- Python + AI / ML / Deep Learning
-- كل حاجة تقدر تخليني أفهم الكود زي ما أفهم تكتيكات بوتر
-- Generative stuff, GANs, Transformers...
-
-<br>
-
-### Languages & Tools (Onizuka approved)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="35"/>
+  <img src="https://kimi-web-img.moonshot.cn/img/c8.alamy.com/33cb7c6c89fb5bf08fc62a26f442e99bcff37946.jpg" alt="Stamford Bridge Stadium" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 </p>
 
-<br>
-
-### Connect with وحيد التشلساوي
-
-<a href="mailto:your.email@gmail.com">
-  <img align="left" alt="Gmail" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin/">
-  <img align="left" alt="LinkedIn" width="160" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br><br>
+<h1 align="center" style="color: #034694; font-family: 'Arial Black', sans-serif;">
+  🔵 CHELSEA FOOTBALL CLUB ⚪
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahidBsd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <em>Keep The Blue Flag Flying High</em> 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+</p>
+
+---
+
+## 🏆 اللحظة التاريخية - دوري أبطال أوروبا 2012
+
+<p align="center">
+  <img src="https://kimi-web-img.moonshot.cn/img/media.tenor.com/0ccfc88c52e1a7c08f8a7a156f530068093a7f37.gif" alt="Drogba Champions League Celebration" width="600px" style="border-radius: 8px;">
+</p>
+
+<p align="center">
+  <strong>ديدييه دروغبا</strong> - الهدف القاتل في نهائي ميونخ 2012 🏆✨
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahidBsd&theme=dracula&hide_border=true" />
+  <em>"It's written in the stars!"</em>
 </p>
 
-<br>
+---
 
-<div align="center">
-  <strong>درس من أونيزوكا:</strong><br>
-  "مش مهم من وين جاي، المهم وين رايح... وأنا رايح ناحية الكود والـ Premier League trophy 💪🔵"
-</div>
+## 📅 مواعيد المباريات القادمة - موسم 2025/26
+
+### 🔥 المباريات المقبلة (فبراير - مارس 2026)
+
+| التاريخ | المباراة | الوقت (بتوقيت لندن) | المسابقة |
+|---------|---------|-------------------|----------|
+| **السبت 21 فبراير** | تشيلسى 🆚 بيرنلي | 15:00 | الدوري الإنجليزي |
+| **الأحد 1 مارس** | أرسنال 🆚 تشيلسى | 16:30 | الدوري الإنجليزي |
+| **الأربعاء 4 مارس** | أستون فيلا 🆚 تشيلسى | 19:30 | الدوري الإنجليزي |
+| **السبت 14 مارس** | تشيلسى 🆚 نيوكاسل | 17:30 | الدوري الإنجليزي |
+| **السبت 21 مارس** | إيفرتون 🆚 تشيلسى | 17:30 | الدوري الإنجليزي |
+
+### 🗓️ مباريات مهمة لاحقاً
+
+| التاريخ | المباراة | المكان |
+|---------|---------|--------|
+| 11 أبريل | تشيلسى 🆚 مانشستر سيتي | Stamford Bridge (H) |
+| 18 أبريل | تشيلسى 🆚 مانشستر يونايتد | Stamford Bridge (H) |
+| 2 مايو | تشيلسى 🆚 نوتينجهام فورست | Stamford Bridge (H) |
+| 9 مايو | ليفربول 🆚 تشيلسى | Anfield (A) |
+| 17 مايو | تشيلسى 🆚 توتنهام | Stamford Bridge (H) |
+| 24 مايو | سندرلاند 🆚 تشيلسى | Stadium of Light (A) |
+
+> ⚠️ **ملاحظة:** المواعيد قابلة للتغيير بسبب البث التلفزيوني أو المشاركات الأوروبية.
+
+---
+
+## 🏟️ معلومات عن ستامفورد بريدج
+
+- **السعة:** 40,343 متفرج
+- **الافتتاح:** 1877
+- **العنوان:** Fulham Road, London SW6 1HS
+- **الملقب:** The Bridge
+
+---
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg" width="100" alt="Chelsea FC Logo">
+  <br><br>
+  <strong>KTBFFH 💙</strong>
+</p>
