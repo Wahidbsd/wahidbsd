@@ -1,29 +1,13 @@
-[2099.ARCHITECT] ──────────────────────────────────────────────
-Operation: modify GitHub README.md profile
-Target identity: Onizuka (Eikichi Onizuka vibe – GTO style)
-User pivot: وحيد تشلسااوي (Wahid Chelssawi / Chelsea fan)
-Core description: أنا وحيد تشلسااوي اتعلم كل ما يخص برمجة
+# وحيد تشلسااوي – Onizuka of Code & Chelsea
 
-Status: RECONSTRUCTION COMPLETE
-Output: Ready-to-paste README.md version (Arabic + English mix, street + tech energy)
+Konichiwa يا وحوش!  
+أنا اللي يلعب كورة في الشارع ويكتب كود في الليل  
+Chelsea Blue heart ♾️  
+Python | AI | DSA | GANs | Street Knowledge  
 
-┌───────────────────────────────┐
-│ Suggested README.md content   │
-└───────────────────────────────┘
+"اللي ما يعرفش يبرمج... هيبرمجني أنا!" 👊
 
-```markdown
-<div align="center">
-  <img height="320" width="700" alt="Onizuka GIF" src="https://i.gifer.com/embedded/download/7ZxX.gif">
-  <h1>Konichiwa 母さん! 👊💥</h1>
-</div>
-
-<br><br>
-
-# Yo! أنا وحيد – Onizuka Mode Activated
-
-أنا وحيد تشلسااوي 💙  
-Blue is the colour, football is the game → Chelsea till I die  
-في نفس الوقت: واحد يتعلم كل ما يخص البرمجة بلا هوادة
+https://github.com/WahidBsdفي نفس الوقت: واحد يتعلم كل ما يخص البرمجة بلا هوادة
 
 - العمر: 19 (لكن الروح عندها 40 سنة شارع)
 - الهوايات:
