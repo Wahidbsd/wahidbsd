@@ -1,0 +1,27 @@
+#EXTM3U
+
+# ====================== LX ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/9v2k8p.png" group-title="LX",LX Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
+
+# ====================== ALWAN ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/1f3m7r.png" group-title="ALWAN",Alwan Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
+
+# ====================== FOREVER ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/x8p9qj.png" group-title="FOREVER",Forever Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/forever.m3u
+
+# ====================== FRANCE 🇫🇷 ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/7k5v2n.png" group-title="FRANCE",France Sport Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
+
+# ====================== TOD ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/4p8h6t.png" group-title="TOD",TOD Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/8K.m3u
+
+# ====================== FRANCE WAHID 🇫🇷 ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/7k5v2n.png" group-title="FRANCEW",France WAHID Playlist
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/frznce.m3u
+
+# 
