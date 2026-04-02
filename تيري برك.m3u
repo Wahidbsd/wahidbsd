@@ -33,6 +33,6 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/99999.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/7k5v2n.png" group-title="back fr",back up fr
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/fc75ace654_PTS5jb.m3u
 
-# ====================== EMPTY GROUP 2 ======================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW2",Coming Soon
-http://example.com/stream2
+# ====================== BACK UP BEIN 2 ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/9v2k8p.png" group-title="KAKAGOOSE",KAKAGOOSE SPORT
+https://raw.githubusercontent.com/kakagoosse856/1221554/2f2262c6f852f3d7a90e1fc53612136f75c4b0ba/channels/all_sports.m3u8
