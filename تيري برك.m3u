@@ -29,9 +29,9 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/frznce.m3u
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/99999.m3u
 
 
-# ====================== EMPTY GROUP 1 ======================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW1",Coming Soon
-http://example.com/stream1
+# ====================== BACK UP FR 1 ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/7k5v2n.png" group-title="back fr",back up fr
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/fc75ace654_PTS5jb.m3u
 
 # ====================== EMPTY GROUP 2 ======================
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEW2",Coming Soon
