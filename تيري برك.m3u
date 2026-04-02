@@ -36,3 +36,9 @@ https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/fc75ace654
 # ====================== BACK UP BEIN 2 ======================
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/9v2k8p.png" group-title="KAKAGOOSE",KAKAGOOSE SPORT
 https://raw.githubusercontent.com/kakagoosse856/1221554/2f2262c6f852f3d7a90e1fc53612136f75c4b0ba/channels/all_sports.m3u8
+
+# ====================== MY HD  ======================
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.catbox.moe/9v2k8p.png" group-title="MY HD",MY HD
+https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
+
+
