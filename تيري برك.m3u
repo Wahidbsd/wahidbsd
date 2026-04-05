@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/thqmina.m3u
 # ====================== MY HD ======================
 #EXTINF:-1 group-title="MY HD" tvg-logo="https://files.catbox.moe/9v2k8p.png",MY HD
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
-
+https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png
 # ====================== BEIN MOVIE ======================
 #EXTINF:-1 group-title="bein moviesHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/BeIN_H%26E.svg/revision/latest?cb=20200828164606",BEIN MOVIES
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
