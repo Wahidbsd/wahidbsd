@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/forever.m3u
 
 # ====================== FRANCE ======================
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://files.catbox.moe/7k5v2n.png",France Sport Playlist
+#EXTINF:-1 group-title="FRANCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",France Sport Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
 
 # ====================== TOD 8K ======================
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/8K.m3u
 
 # ====================== FRANCE WAHID ======================
-#EXTINF:-1 group-title="FRANCE WAHID" tvg-logo="https://files.catbox.moe/7k5v2n.png",France Wahid Playlist
+#EXTINF:-1 group-title="FRANCE WAHID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",France Wahid Playlist
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/frznce.m3u
 
 # ====================== WAHID 999 ======================
@@ -29,11 +29,11 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/frznce.m3u
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/99999.m3u
 
 # ====================== BACKUP FR ======================
-#EXTINF:-1 group-title="BACKUP FR" tvg-logo="https://files.catbox.moe/7k5v2n.png",Backup France
+#EXTINF:-1 group-title="BACKUP FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",Backup France
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/fc75ace654_PTS5jb.m3u
 
 # ====================== BACKUP SPORTS ======================
-#EXTINF:-1 group-title="SPORTS BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-zFAHwh_8BStVnVZR0SxDx59pCbTb9cgijRVu1a8-eaiZR47QMqkcO8&s=10",tod morad Sports
+#EXTINF:-1 group-title="SPORTS BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",tod morad Sports
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/thqmina.m3u
 
 # ====================== MY HD ======================
