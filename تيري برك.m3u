@@ -1,49 +1,45 @@
-i#EXTM3U
+#EXTM3U
 
 # ====================== LX ======================
-#EXTINF:-1 group-title="LX" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw",LX Playlist
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="LX",LX Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
 
 # ====================== ALWAN ======================
-#EXTINF:-1 group-title="ALWAN" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg",Alwan Playlist
+#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="ALWAN",Alwan Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
 
 # ====================== FOREVER ======================
-#EXTINF:-1 group-title="FOREVER" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",Forever Playlist
+#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="FOREVER",Forever Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/forever.m3u
 
 # ====================== FRANCE ======================
-#EXTINF:-1 group-title="FRANCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",France Sport Playlist
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="FRANCE",France Sport Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
 
 # ====================== TOD 8K ======================
-#EXTINF:-1 group-title="TOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-zFAHwh_8BStVnVZR0SxDx59pCbTb9cgijRVu1a8-eaiZR47QMqkcO8&s=10",TOD 8K Playlist
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-zFAHwh_8BStVnVZR0SxDx59pCbTb9cgijRVu1a8-eaiZR47QMqkcO8&s=10" group-title="TOD",TOD 8K Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/8K.m3u
 
 # ====================== FRANCE WAHID ======================
-#EXTINF:-1 group-title="FRANCE WAHID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",France Wahid Playlist
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="FRANCE WAHID",France Wahid Playlist
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/frznce.m3u
 
-# ====================== WAhid DZ 999 ======================
-#EXTINF:-1 group-title="ALG " tvg-logo="http://148.251.133.153:8181/logo/cat/171.png",ALGERIA 999
+# ====================== ALGERIA ======================
+#EXTINF:-1 tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALG",ALGERIA 999
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m3u
 
-# ====================== BACKUP lynxx ======================
-#EXTINF:-1 group-title="BACKUP FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" ,lynx France
+# ====================== BACKUP ======================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="BACKUP FR",Lynx France
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/lynxfayd.m3u
 
-# ====================== palestine SPORTS ======================
-#EXTINF:-1 group-title="SPORTS BACKUP" tvg-logo="https://i.imgur.com/1xERxmB.png",Fajr Sports
+# ====================== SPORTS ======================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="SPORTS BACKUP",Fajr Sports
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/palestine.m3u
 
 # ====================== MY HD ======================
-#EXTINF:-1 group-title="MY HD" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",MY HD
+#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="MY HD",MY HD
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
-https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png
 
-# ====================== BEIN MOVIE ======================
-#EXTINF:-1 group-title="bein moviesHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BEIN MOVIES
+# ====================== BEIN MOVIES ======================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="BEIN MOVIES HD",BEIN MOVIES
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
-
-
-
