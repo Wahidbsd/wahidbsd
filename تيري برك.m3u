@@ -32,14 +32,15 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m
 #EXTINF:-1 group-title="BACKUP FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",Backup France
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/fc75ace654_PTS5jb.m3u
 
-# ====================== BACKUP SPORTS ======================
+# ====================== palestine SPORTS ======================
 #EXTINF:-1 group-title="SPORTS BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10",tod morad Sports
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/thqmina.m3u
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/palestine.m3u
 
 # ====================== MY HD ======================
 #EXTINF:-1 group-title="MY HD" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png",MY HD
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png
+
 # ====================== BEIN MOVIE ======================
 #EXTINF:-1 group-title="bein moviesHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png",BEIN MOVIES
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
