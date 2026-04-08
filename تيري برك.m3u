@@ -1,11 +1,11 @@
 #EXTM3U
 
 # ====================== LX ======================
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="LX",LX Playlist
+#EXTINF:-1 tvg-logo="https://goo.su/5heBXFj" group-title="LX",LX Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
 
 # ====================== ALWAN ======================
-#EXTINF:-1 tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="ALWAN",Alwan Playlist
+#EXTINF:-1 tvg-logo="https://goo.su/mKnKSPz" group-title="ALWAN",Alwan Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
 
 # ====================== FOREVER ======================
@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/forever.m3u
 
 # ====================== FRANCE ======================
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="FRANCE",France Sport Playlist
+#EXTINF:-1 tvg-logo="https://goo.su/sW8K" group-title="FRANCE",France Sport Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
 
 # ====================== TOD 8K ======================
