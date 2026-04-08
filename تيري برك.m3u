@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/forever.m
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/NOVA.m3u
 
 # ====================== TOD 8K ======================
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-zFAHwh_8BStVnVZR0SxDx59pCbTb9cgijRVu1a8-eaiZR47QMqkcO8&s=10" group-title="TOD",TOD 8K Playlist
+#EXTINF:-1 tvg-logo="https://goo.su/PldJ" group-title="TOD",TOD 8K Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/8K.m3u
 
 # ====================== FRANCE WAHID ======================
@@ -41,5 +41,5 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/palestine
 https://raw.githubusercontent.com/raid35/channel-links/main/myhd.m3u
 
 # ====================== BEIN MOVIES ======================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="BEIN MOVIES HD",BEIN MOVIES
+#EXTINF:-1 tvg-logo="https://goo.su/UMdDU" group-title="BEIN MOVIES HD",BEIN MOVIES
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
