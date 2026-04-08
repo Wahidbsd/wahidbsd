@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
 # ====================== FRANCE WAHID ======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="FRANCE WAHID",France Wahid Playlist
-https://goo.su/RVwROs
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m3u
 
 # ====================== ALGERIA ======================
 #EXTINF:-1 tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALG",ALGERIA 999
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
 
 # ====================== BACKUP lynx ======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="BACKUP FR",Lynx France
-https://goo.su/8Bv5lU
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/lynxfayd.m3u
 
 # ====================== SPORTS ======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="SPORTS BACKUP",Fajr Sports
