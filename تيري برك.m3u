@@ -26,11 +26,11 @@ https://goo.su/RVwROs
 
 # ====================== ALGERIA ======================
 #EXTINF:-1 tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALG",ALGERIA 999
-https://goo.su/RVwROs
+https://goo.su/zkOVvx
 
-# ====================== BACKUP ======================
+# ====================== BACKUP lynx ======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="BACKUP FR",Lynx France
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/lynxfayd.m3u
+https://goo.su/8Bv5lU
 
 # ====================== SPORTS ======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="SPORTS BACKUP",Fajr Sports
