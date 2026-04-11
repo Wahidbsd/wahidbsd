@@ -5,11 +5,12 @@
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
 
 # ====================== ALWAN ======================
-#EXTINF:-1 tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ALWEN TV", Alwan Sport 1 SD
-https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
+#EXTINF:-1 tvg-id="alwn" tvg-name="ALWAN" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="ALWAN",
+https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 
 # ====================== FOREVER ======================
-#EXTINF:-1 tvg-logo="https://d.top4top.io/p_3339nvbfo1.png" group-title="FOREVER",Forever Playlist
+#EXTINF:-1 tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ALWEN TV", Alwan Sport 1 SD
+http://pro.netmos.ovh:7355/31543775557725826/U09ZEDdu@6X!PeD/182852" group-title="FOREVER",Forever Playlist
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 
 # ====================== FRANCE ======================
