@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
 # ====================== TOD 8K ======================
-#EXTINF:-1 https://ferrot.org/ferrot.png" group-title="TOD",TOD 8K Playlist
+#EXTINF:-1 tvg-logo="https://ferrot.org/ferrot.png" group-title="TOD",TOD 8K Playlist
 https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
 # ====================== FRANCE WAHID ======================
