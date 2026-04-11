@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ====================== LX ======================
-#EXTINF:-1 tvg-logo="https://goo.su/5heBXFj" group-title="LX",LX Playlist
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="LX",LX Playlist
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
 
 # ====================== ALWAN ======================
