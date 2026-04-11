@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
 
 # ====================== TOD 8K ======================
-#EXTINF:-1 tvg-logo="https://goo.su/PldJ" group-title="TOD",TOD 8K Playlist
+#EXTINF:-1 tvg-logo="sha256:20ffe3a528d490f96a78720e72967c51c9c417c97e29f17798fb8ac685c40870" group-title="TOD",TOD 8K Playlist
 https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
 
 # ====================== FRANCE WAHID ======================
