@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
 https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 
 # ====================== FOREVER ======================
-##EXTINF:-1 tvg-id="forever" tvg-name="AR: forever" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png", 
+#EXTINF:-1 tvg-id="forever" tvg-name="AR: forever" tvg-logo="https://i.postimg.cc/BZ8wkLzh/bein.png",Forever
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
 # ====================== FRANCE ======================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="FRANCE",France Sport Playlist
