@@ -46,3 +46,7 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
 # ====================== N O 🇨🇦V A ======================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="NOV",NOVA F
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
+
+====================== kurdish ======================
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/61616ea5-eac2-4154-99fa-7813ceea55da.png" group-title="kurdish",kurdish
+https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/9086b62b21dcfe022cf3d97978a8306f81727680/from_json.m3u
