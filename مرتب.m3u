@@ -1,0 +1,57 @@
+#EXTM3U
+
+# ====================== LX ======================
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="LX",LX Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/LX.m3u
+
+# ====================== ALWAN ======================
+#EXTINF:-1 tvg-id="alwn" tvg-name="ALWAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="ALWAN",ALWAN SP
+https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
+
+# ====================== FOREVER ======================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="FOREVER",Forever Playlist
+https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
+
+# ====================== FRANCE ======================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="FRANCE",France Sport Playlist
+https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
+
+# ====================== TOD 8K ======================
+#EXTINF:-1 tvg-logo="https://ferrot.org/ferrot.png" group-title="TOD",TOD 8K Playlist
+https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
+
+# ====================== FRANCE WAHID ======================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="FRANCE WAHID",France Wahid Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m3u
+
+# ====================== ALGERIA ======================
+#EXTINF:-1 tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALG",ALGERIA 999
+https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
+
+# ====================== BACKUP FR ======================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="BACKUP FR",Lynx France
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/lynxfayd.m3u
+
+# ====================== SPORTS ======================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="SPORTS BACKUP",Fajr Sports
+https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
+
+# ====================== MY HD ======================
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="MY HD",MY HD
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
+
+# ====================== BEIN MOVIES ======================
+#EXTINF:-1 tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="BEIN MOVIES HD",BEIN MOVIES
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
+
+# ====================== NOVA ======================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="NOV",NOVA F
+https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
+
+# ====================== KURDISH ======================
+#EXTINF:-1 tvg-logo="http://widget.ottplayer.tv/upictures/61616ea5-eac2-4154-99fa-7813ceea55da.png" group-title="KURDISH",Kurdish Playlist
+https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/9086b62b21dcfe022cf3d97978a8306f81727680/from_json.m3u
+
+# ====================== FOOT ======================
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="FOOT",Football Playlist
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/foot.m3u
