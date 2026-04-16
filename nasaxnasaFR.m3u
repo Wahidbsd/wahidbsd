@@ -1,0 +1,495 @@
+#EXTM3U
+
+# ============================================================
+# FR | FRANCE HEVC H265
+# ============================================================
+#EXTINF:-1 tvg-id="401776" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/sixTER-HEVC.png" group-title="FR | HEVC", FR: 6TER HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401776
+#EXTINF:-1 tvg-id="401775" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ACTION-HEVC.png" group-title="FR | HEVC", FR: ACTION HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401775
+#EXTINF:-1 tvg-id="401774" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ALTICE-STUDIO-HEVC.PNG" group-title="FR | HEVC", FR: ALTICE STUDIO HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401774
+#EXTINF:-1 tvg-id="401773" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ARTE.png" group-title="FR | HEVC", FR: ARTE HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401773
+#EXTINF:-1 tvg-id="401798" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-CINEMA.png" group-title="FR | HEVC", FR: CANAL+ CINEMA HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401798
+#EXTINF:-1 tvg-id="401797" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-DOCS.png" group-title="FR | HEVC", FR: CANAL+ DOCS HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401797
+#EXTINF:-1 tvg-id="401796" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-FOOT.png" group-title="FR | HEVC", FR: CANAL+ FOOT HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401796
+#EXTINF:-1 tvg-id="401795" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANA-%20FORMULA1.PNG" group-title="FR | HEVC", FR: CANAL+ FORMULA1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401795
+#EXTINF:-1 tvg-id="401794" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-GRAND-ECRAN.png" group-title="FR | HEVC", FR: CANAL+ GRAND ECRAN HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401794
+#EXTINF:-1 tvg-id="401793" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="FR | HEVC", FR: CANAL+ HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401793
+#EXTINF:-1 tvg-id="401792" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-KIDS.png" group-title="FR | HEVC", FR: CANAL+ KIDS HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401792
+#EXTINF:-1 tvg-id="401791" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANA-%20MOTOGP.PNG" group-title="FR | HEVC", FR: CANAL+ MOTOGP HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401791
+#EXTINF:-1 tvg-id="401790" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-PREMIER%20LEAGUE.png" group-title="FR | HEVC", FR: CANAL+ PREMIER LEAGUE HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401790
+#EXTINF:-1 tvg-id="401789" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SERIES.png" group-title="FR | HEVC", FR: CANAL+ SERIES HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401789
+#EXTINF:-1 tvg-id="401788" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT-360-HEVC.png" group-title="FR | HEVC", FR: CANAL+ SPORT 360 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401788
+#EXTINF:-1 tvg-id="401787" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT.png" group-title="FR | HEVC", FR: CANAL+ SPORT HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401787
+#EXTINF:-1 tvg-id="401786" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-TOP14.png" group-title="FR | HEVC", FR: CANAL+ TOP14 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401786
+#EXTINF:-1 tvg-id="401777" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CHERIE%2025.png" group-title="FR | HEVC", FR: CHERIE 25 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401777
+#EXTINF:-1 tvg-id="401785" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLASSIC.PNG" group-title="FR | HEVC", FR: CINE+ CLASSIC HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401785
+#EXTINF:-1 tvg-id="401784" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLUB-HEVC.png" group-title="FR | HEVC", FR: CINE+ CLUB HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401784
+#EXTINF:-1 tvg-id="401783" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-EMOTION.png" group-title="FR | HEVC", FR: CINE+ EMOTION HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401783
+#EXTINF:-1 tvg-id="401782" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-FAMIZ.png" group-title="FR | HEVC", FR: CINE+ FAMIZ HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401782
+#EXTINF:-1 tvg-id="401781" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-PREMIER.png" group-title="FR | HEVC", FR: CINE+ PREMIER HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401781
+#EXTINF:-1 tvg-id="401772" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CRIME-DISTRICT-HEVC.PNG" group-title="FR | HEVC", FR: CRIME DISTRICT HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401772
+#EXTINF:-1 tvg-id="401771" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CSTAR.PNG" group-title="FR | HEVC", FR: CSTAR HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401771
+#EXTINF:-1 tvg-id="401802" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%202.png" group-title="FR | HEVC", FR: FRANCE 2 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401802
+#EXTINF:-1 tvg-id="401801" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%203.png" group-title="FR | HEVC", FR: FRANCE 3 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401801
+#EXTINF:-1 tvg-id="401800" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE%204.png" group-title="FR | HEVC", FR: FRANCE 4 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401800
+#EXTINF:-1 tvg-id="401799" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FRANCE-5.png" group-title="FR | HEVC", FR: FRANCE 5 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401799
+#EXTINF:-1 tvg-id="401770" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/M6.png" group-title="FR | HEVC", FR: M6 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401770
+#EXTINF:-1 tvg-id="401769" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/M6-INTERNATIONAL.png" group-title="FR | HEVC", FR: M6 INTERNATIONAL HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401769
+#EXTINF:-1 tvg-id="401768" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NOVELAS-TV-HEVC.png" group-title="FR | HEVC", FR: NOVELAS TV HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401768
+#EXTINF:-1 tvg-id="401767" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NRJ12.png" group-title="FR | HEVC", FR: NRJ12 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401767
+#EXTINF:-1 tvg-id="401780" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-CHOC.png" group-title="FR | HEVC", FR: OCS CHOC HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401780
+#EXTINF:-1 tvg-id="401779" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS-CITY-HEVC.png" group-title="FR | HEVC", FR: OCS CITY HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401779
+#EXTINF:-1 tvg-id="401778" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/OCS%20GEANT.png" group-title="FR | HEVC", FR: OCS GEANT HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401778
+#EXTINF:-1 tvg-id="401766" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PARAMOUNT-DECALE-HEVC.png" group-title="FR | HEVC", FR: PARAMOUNT CHANNEL HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401766
+#EXTINF:-1 tvg-id="401765" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PARAMOUNT-DECALE-HEVC.png" group-title="FR | HEVC", FR: PARAMOUNT DECALE HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401765
+#EXTINF:-1 tvg-id="401764" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/POLAR.png" group-title="FR | HEVC", FR: POLAR+ HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401764
+#EXTINF:-1 tvg-id="401763" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TCM-CINEMA.png" group-title="FR | HEVC", FR: TCM CINEMA HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401763
+#EXTINF:-1 tvg-id="401806" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1.png" group-title="FR | HEVC", FR: TF1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401806
+#EXTINF:-1 tvg-id="401805" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TF1-SERIES-FILMS.png" group-title="FR | HEVC", FR: TF1 SERIES FILMS HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401805
+#EXTINF:-1 tvg-id="401804" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TFX-HEVC.PNG" group-title="FR | HEVC", FR: TFX HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401804
+#EXTINF:-1 tvg-id="401762" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TMC-PLUS-ONE.PNG" group-title="FR | HEVC", FR: TMC +1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401762
+#EXTINF:-1 tvg-id="401761" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TMC.png" group-title="FR | HEVC", FR: TMC HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401761
+#EXTINF:-1 tvg-id="401803" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/W9.png" group-title="FR | HEVC", FR: W9 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401803
+#EXTINF:-1 tvg-id="401760" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/WARNER%20TV.png" group-title="FR | HEVC", FR: WARNER TV HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401760
+
+# ============================================================
+# FR | DOUCMENTARY TV
+# ============================================================
+#EXTINF:-1 tvg-id="401716" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISCOVERY.png" group-title="FR | DOCUMENTARY", FR: DISCOVERY CHANNEL HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401716
+#EXTINF:-1 tvg-id="401715" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISCOVERY-INVESTIGATION.png" group-title="FR | DOCUMENTARY", FR: DISCOVERY INVESTIGATION HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401715
+#EXTINF:-1 tvg-id="401714" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/DISCOVERY-SCIENCE.png" group-title="FR | DOCUMENTARY", FR: DISCOVERY SCIENCE HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401714
+#EXTINF:-1 tvg-id="401717" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NAT-GEO.png" group-title="FR | DOCUMENTARY", FR: NAT GEO HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401717
+#EXTINF:-1 tvg-id="401718" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/NAT-GEO-WILD.png" group-title="FR | DOCUMENTARY", FR: NAT GEO WILD HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401718
+#EXTINF:-1 tvg-id="401721" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PLANETE-plus-a-e.png" group-title="FR | DOCUMENTARY", FR: PLANETE+ A&E HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401721
+#EXTINF:-1 tvg-id="401720" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PLANETE-plus-CI.png" group-title="FR | DOCUMENTARY", FR: PLANETE+ CI HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401720
+#EXTINF:-1 tvg-id="401719" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/PLANETE-plus.png" group-title="FR | DOCUMENTARY", FR: PLANETE+ HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401719
+
+# ============================================================
+# FR | CINEMA VIP
+# ============================================================
+#EXTINF:-1 tvg-id="401656" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/13EME-RUE.png" group-title="FR | VIP", VIP FR: 13eme RUE FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401656
+#EXTINF:-1 tvg-id="401655" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AB1.png" group-title="FR | VIP", VIP FR: AB 1 FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401655
+#EXTINF:-1 tvg-id="401654" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/ACTION-HEVC.png" group-title="FR | VIP", VIP FR: Action FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401654
+#EXTINF:-1 tvg-id="401653" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLASSIC.PNG" group-title="FR | VIP", VIP FR: Ciné+ Classic FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401653
+#EXTINF:-1 tvg-id="401652" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLUB-HEVC.png" group-title="FR | VIP", VIP FR: Ciné+ Club FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401652
+#EXTINF:-1 tvg-id="401651" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-EMOTION.png" group-title="FR | VIP", VIP FR: Ciné+ Emotion FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401651
+#EXTINF:-1 tvg-id="401650" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-FAMIZ.png" group-title="FR | VIP", VIP FR: Ciné+ Famiz FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401650
+#EXTINF:-1 tvg-id="401649" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/COMEDIE-plus.png" group-title="FR | VIP", VIP FR: Comedie+ FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401649
+#EXTINF:-1 tvg-id="401648" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/Comedy-Central.png" group-title="FR | VIP", VIP FR: Comedy Central FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401648
+#EXTINF:-1 tvg-id="401647" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CRIME-DISTRICT-HEVC.PNG" group-title="FR | VIP", VIP FR: Crime District FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401647
+#EXTINF:-1 tvg-id="401642" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/SYFY.png" group-title="FR | VIP", VIP FR: SYFY FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401642
+#EXTINF:-1 tvg-id="401641" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/S%C3%A9rie-Club.png" group-title="FR | VIP", VIP FR: Série Club FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401641
+#EXTINF:-1 tvg-id="401640" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TCM-Cin%C3%A9ma.png" group-title="FR | VIP", VIP FR: TCM Cinéma FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401640
+#EXTINF:-1 tvg-id="401639" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TLC.png" group-title="FR | VIP", VIP FR: TLC
+http://scf.it.com:8080/nasaxnasa/7378574ce/401639
+#EXTINF:-1 tvg-id="401638" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/Warner-TV.png" group-title="FR | VIP", VIP FR: Warner TV FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401638
+#EXTINF:-1 tvg-id="401637" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/Warner-TV-Next.png" group-title="FR | VIP", VIP FR: Warner TV Next FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401637
+
+# ============================================================
+# FR | CINEMA - UHD
+# ============================================================
+#EXTINF:-1 tvg-id="401636" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="FR | CINEMA UHD", FR: CANAL+ 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401636
+#EXTINF:-1 tvg-id="401634" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-CINEMA.png" group-title="FR | CINEMA UHD", FR: CANAL+ CINEMA 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401634
+#EXTINF:-1 tvg-id="401633" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-CINEMA.png" group-title="FR | CINEMA UHD", FR: CANAL+ CINEMA HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401633
+#EXTINF:-1 tvg-id="401630" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus-FAMILY.png" group-title="FR | CINEMA UHD", FR: CANAL+ FAMILY 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401630
+#EXTINF:-1 tvg-id="401629" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus-FAMILY.png" group-title="FR | CINEMA UHD", FR: CANAL+ FAMILY HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401629
+#EXTINF:-1 tvg-id="401635" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="FR | CINEMA UHD", FR: CANAL+ HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401635
+#EXTINF:-1 tvg-id="401632" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SERIES.png" group-title="FR | CINEMA UHD", FR: CANAL+ SERIES 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401632
+#EXTINF:-1 tvg-id="401631" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SERIES.png" group-title="FR | CINEMA UHD", FR: CANAL+ SERIES HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401631
+#EXTINF:-1 tvg-id="401620" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLASSIC.PNG" group-title="FR | CINEMA UHD", FR: CINE+ CLASSIC 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401620
+#EXTINF:-1 tvg-id="401619" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLASSIC.PNG" group-title="FR | CINEMA UHD", FR: CINE+ CLASSIC HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401619
+#EXTINF:-1 tvg-id="401622" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLUB-HEVC.png" group-title="FR | CINEMA UHD", FR: CINE+ CLUB 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401622
+#EXTINF:-1 tvg-id="401621" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-CLUB-HEVC.png" group-title="FR | CINEMA UHD", FR: CINE+ CLUB HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401621
+#EXTINF:-1 tvg-id="401618" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-EMOTION.png" group-title="FR | CINEMA UHD", FR: CINE+ EMOTION 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401618
+#EXTINF:-1 tvg-id="401617" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-EMOTION.png" group-title="FR | CINEMA UHD", FR: CINE+ EMOTION HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401617
+#EXTINF:-1 tvg-id="401624" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-FAMIZ.png" group-title="FR | CINEMA UHD", FR: CINE+ FAMIZ 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401624
+#EXTINF:-1 tvg-id="401623" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-FAMIZ.png" group-title="FR | CINEMA UHD", FR: CINE+ FAMIZ HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401623
+#EXTINF:-1 tvg-id="401625" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-plus-FRISSON.png" group-title="FR | CINEMA UHD", FR: CINE+ FRISSION HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401625
+#EXTINF:-1 tvg-id="401626" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-plus-FRISSON.png" group-title="FR | CINEMA UHD", FR: CINE+ FRISSON 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401626
+#EXTINF:-1 tvg-id="401628" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-PREMIER.png" group-title="FR | CINEMA UHD", FR: CINE+ PREMIER 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401628
+#EXTINF:-1 tvg-id="401627" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CINE-PREMIER.png" group-title="FR | CINEMA UHD", FR: CINE+ PRIMER HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401627
+#EXTINF:-1 tvg-id="401616" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/POLAR-plus.png" group-title="FR | CINEMA UHD", FR: POLAR+ 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401616
+#EXTINF:-1 tvg-id="401615" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/POLAR-plus.png" group-title="FR | CINEMA UHD", FR: POLAR+ HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401615
+
+# ============================================================
+# FR | NETFLIX 4K
+# ============================================================
+#EXTINF:-1 tvg-id="153680" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX ACTION ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153680
+#EXTINF:-1 tvg-id="153681" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX ADVENTURE ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153681
+#EXTINF:-1 tvg-id="153682" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX COMEDY ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153682
+#EXTINF:-1 tvg-id="153683" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX DOCUMENTARY ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153683
+#EXTINF:-1 tvg-id="153684" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX DRAMA ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153684
+#EXTINF:-1 tvg-id="153685" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX FANTASY ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153685
+#EXTINF:-1 tvg-id="153686" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX HORROR ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153686
+#EXTINF:-1 tvg-id="153687" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX KIDS ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153687
+#EXTINF:-1 tvg-id="153688" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX ROMANCE ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153688
+#EXTINF:-1 tvg-id="153689" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX SCI-FI ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153689
+#EXTINF:-1 tvg-id="153690" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR | NETFLIX SPORTS ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153690
+#EXTINF:-1 tvg-id="153691" tvg-logo="https://i.postimg.cc/VkTzs84Y/netflix22333.png" group-title="FR | NETFLIX", FR |NETFLIX THRILLER ✦
+http://scf.it.com:8080/nasaxnasa/7378574ce/153691
+
+# ============================================================
+# FR | SPORTS HEVC H265
+# ============================================================
+#EXTINF:-1 tvg-id="402078" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF%20CANAL-SPORT-1.png" group-title="FR | SPORTS HEVC", FR: AF CANAL+ SPORT 1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402078
+#EXTINF:-1 tvg-id="402077" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-SPORT-2.png" group-title="FR | SPORTS HEVC", FR: AF CANAL+ SPORT 2 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402077
+#EXTINF:-1 tvg-id="402076" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-SPORT-3.png" group-title="FR | SPORTS HEVC", FR: AF CANAL+ SPORT 3 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402076
+#EXTINF:-1 tvg-id="402075" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-plus-SPORT-4.png" group-title="FR | SPORTS HEVC", FR: AF CANAL+ SPORT 4 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402075
+#EXTINF:-1 tvg-id="402074" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AF-CANAL-plus-SPORT%205.png" group-title="FR | SPORTS HEVC", FR: AF CANAL+ SPORT 5 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402074
+#EXTINF:-1 tvg-id="402060" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AUTOMOTO.png" group-title="FR | SPORTS HEVC", FR: AUTOMOTO HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402060
+#EXTINF:-1 tvg-id="402073" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | SPORTS HEVC", FR: BEIN SPORTS 1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402073
+#EXTINF:-1 tvg-id="402072" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-2.png" group-title="FR | SPORTS HEVC", FR: BEIN SPORTS 2 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402072
+#EXTINF:-1 tvg-id="402071" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | SPORTS HEVC", FR: BEIN SPORTS 3 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402071
+#EXTINF:-1 tvg-id="402059" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EQUIDIA%20LIVE.png" group-title="FR | SPORTS HEVC", FR: EQUIDIA LIVE HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402059
+#EXTINF:-1 tvg-id="402067" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT%201.png" group-title="FR | SPORTS HEVC", FR: EUROSPORT 1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402067
+#EXTINF:-1 tvg-id="402066" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT-2.png" group-title="FR | SPORTS HEVC", FR: EUROSPORT 2 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402066
+#EXTINF:-1 tvg-id="402065" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT-360-1.png" group-title="FR | SPORTS HEVC", FR: EUROSPORT 360 1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402065
+#EXTINF:-1 tvg-id="402064" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/EUROSPORT-360-1.png" group-title="FR | SPORTS HEVC", FR: EUROSPORT 360 2 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402064
+#EXTINF:-1 tvg-id="402058" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FOOT-plus.png" group-title="FR | SPORTS HEVC", FR: FOOT+ 24/24 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402058
+#EXTINF:-1 tvg-id="402056" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-plus-HEVC.png" group-title="FR | SPORTS HEVC", FR: GOLF+ HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402056
+#EXTINF:-1 tvg-id="402057" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-CHANNEL.png" group-title="FR | SPORTS HEVC", FR: GOLF CHANNEL HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402057
+#EXTINF:-1 tvg-id="402055" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/INFOSPORT-plus.png" group-title="FR | SPORTS HEVC", FR: INFOSPORT+ HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402055
+#EXTINF:-1 tvg-id="402063" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-1.png" group-title="FR | SPORTS HEVC", FR: MULTISPORTS 1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402063
+#EXTINF:-1 tvg-id="402062" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-2.png" group-title="FR | SPORTS HEVC", FR: MULTISPORTS 2 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402062
+#EXTINF:-1 tvg-id="402061" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-3.png" group-title="FR | SPORTS HEVC", FR: MULTISPORTS 3 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402061
+#EXTINF:-1 tvg-id="402070" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="FR | SPORTS HEVC", FR: RMC SPORT 1 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402070
+#EXTINF:-1 tvg-id="402069" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="FR | SPORTS HEVC", FR: RMC SPORT 2 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402069
+#EXTINF:-1 tvg-id="402068" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="FR | SPORTS HEVC", FR: RMC SPORT LIVE 3 HEVC
+http://scf.it.com:8080/nasaxnasa/7378574ce/402068
+
+# ============================================================
+# FR | BEIN SPORT UHD 4K
+# ============================================================
+#EXTINF:-1 tvg-id="401541" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="FR | BEIN SPORT", FR: BEIN MAX 4 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401541
+#EXTINF:-1 tvg-id="401540" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="FR | BEIN SPORT", FR: BEIN MAX 5 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401540
+#EXTINF:-1 tvg-id="401539" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="FR | BEIN SPORT", FR: BEIN MAX 6 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401539
+#EXTINF:-1 tvg-id="401538" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="FR | BEIN SPORT", FR: BEIN MAX 7 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401538
+#EXTINF:-1 tvg-id="401537" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="FR | BEIN SPORT", FR: BEIN MAX 8 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401537
+#EXTINF:-1 tvg-id="401536" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="FR | BEIN SPORT", FR: BEIN MAX 9 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401536
+#EXTINF:-1 tvg-id="401535" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="FR | BEIN SPORT", FR: BEIN MAX 10 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401535
+#EXTINF:-1 tvg-id="401583" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 1 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401583
+#EXTINF:-1 tvg-id="401582" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 1 FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401582
+#EXTINF:-1 tvg-id="401581" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 1 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401581
+#EXTINF:-1 tvg-id="401546" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 1 HD.
+http://scf.it.com:8080/nasaxnasa/7378574ce/401546
+#EXTINF:-1 tvg-id="401579" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 1 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401579
+#EXTINF:-1 tvg-id="401580" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 1 UHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401580
+#EXTINF:-1 tvg-id="401578" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 2 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401578
+#EXTINF:-1 tvg-id="401577" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 2 FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401577
+#EXTINF:-1 tvg-id="401576" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 2 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401576
+#EXTINF:-1 tvg-id="401545" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-2.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 2 HD.
+http://scf.it.com:8080/nasaxnasa/7378574ce/401545
+#EXTINF:-1 tvg-id="401574" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 2 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401574
+#EXTINF:-1 tvg-id="401575" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 2 UHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401575
+#EXTINF:-1 tvg-id="401573" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 3 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401573
+#EXTINF:-1 tvg-id="401572" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 3 FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401572
+#EXTINF:-1 tvg-id="401571" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 3 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401571
+#EXTINF:-1 tvg-id="401544" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 3 HD.
+http://scf.it.com:8080/nasaxnasa/7378574ce/401544
+#EXTINF:-1 tvg-id="401569" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 3 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401569
+#EXTINF:-1 tvg-id="401570" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS FR 3 UHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401570
+#EXTINF:-1 tvg-id="401568" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 4 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401568
+#EXTINF:-1 tvg-id="401543" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 4 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401543
+#EXTINF:-1 tvg-id="401567" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 4 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401567
+#EXTINF:-1 tvg-id="401566" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-4.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 4 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401566
+#EXTINF:-1 tvg-id="401565" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 5 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401565
+#EXTINF:-1 tvg-id="401564" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 5 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401564
+#EXTINF:-1 tvg-id="401542" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 5 HD.
+http://scf.it.com:8080/nasaxnasa/7378574ce/401542
+#EXTINF:-1 tvg-id="401563" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 5 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401563
+#EXTINF:-1 tvg-id="401559" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 6
+http://scf.it.com:8080/nasaxnasa/7378574ce/401559
+#EXTINF:-1 tvg-id="401562" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 6 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401562
+#EXTINF:-1 tvg-id="401561" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 6 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401561
+#EXTINF:-1 tvg-id="401560" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 6 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401560
+#EXTINF:-1 tvg-id="401558" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 7 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401558
+#EXTINF:-1 tvg-id="401557" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 7 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401557
+#EXTINF:-1 tvg-id="401556" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 7 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401556
+#EXTINF:-1 tvg-id="401555" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 8 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401555
+#EXTINF:-1 tvg-id="401554" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 8 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401554
+#EXTINF:-1 tvg-id="401553" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 8 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401553
+#EXTINF:-1 tvg-id="401552" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 9 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401552
+#EXTINF:-1 tvg-id="401551" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 9 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401551
+#EXTINF:-1 tvg-id="401550" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 9 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401550
+#EXTINF:-1 tvg-id="401549" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 10 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401549
+#EXTINF:-1 tvg-id="401548" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 10 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401548
+#EXTINF:-1 tvg-id="401547" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="FR | BEIN SPORT", FR: BEIN SPORTS MAX 10 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/401547
+
+# ============================================================
+# FR | BEIN SPORTS VIP
+# ============================================================
+#EXTINF:-1 tvg-id="401534" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-1.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS 1 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401534
+#EXTINF:-1 tvg-id="401533" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-2.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS 2 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401533
+#EXTINF:-1 tvg-id="401532" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-SPORTS-3.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS 3 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401532
+#EXTINF:-1 tvg-id="401531" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-5.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS MAX 5 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401531
+#EXTINF:-1 tvg-id="401530" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-6.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS MAX 6 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401530
+#EXTINF:-1 tvg-id="401529" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-7.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS MAX 7 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401529
+#EXTINF:-1 tvg-id="401528" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-8.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS MAX 8 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401528
+#EXTINF:-1 tvg-id="401527" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-9.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS MAX 9 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401527
+#EXTINF:-1 tvg-id="401526" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/BEIN-MAX-10.png" group-title="FR | BEIN VIP", VIP FR: beIN SPORTS MAX 10 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/401526
+
+# ============================================================
+# FR | SPORTS UHD 4K
+# ============================================================
+#EXTINF:-1 tvg-id="402080" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/AUTOMOTO.png" group-title="FR | SPORTS UHD", FR: AUTOMOTO HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402080
+#EXTINF:-1 tvg-id="402088" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT-360-HEVC.png" group-title="FR | SPORTS UHD", FR: CANAL+ 360 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402088
+#EXTINF:-1 tvg-id="402087" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-plus.png" group-title="FR | SPORTS UHD", FR: CANAL+ CHAMPIONS LEAGUE HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402087
+#EXTINF:-1 tvg-id="402089" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-FOOT.png" group-title="FR | SPORTS UHD", FR: CANAL+ FOOT HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402089
+#EXTINF:-1 tvg-id="402090" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/CANAL-SPORT.png" group-title="FR | SPORTS UHD", FR: CANAL+ SPORT HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402090
+#EXTINF:-1 tvg-id="402084" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/FOOT-plus.png" group-title="FR | SPORTS UHD", FR: FOOT 24/24 + HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402084
+#EXTINF:-1 tvg-id="402082" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-plus-HEVC.png" group-title="FR | SPORTS UHD", FR: GOLF+ HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402082
+#EXTINF:-1 tvg-id="402083" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/GOLF-CHANNEL.png" group-title="FR | SPORTS UHD", FR: GOLF CHANNEL HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402083
+#EXTINF:-1 tvg-id="402081" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/INFOSPORT-plus.png" group-title="FR | SPORTS UHD", FR: INFOSPORT+ HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402081
+#EXTINF:-1 tvg-id="402079" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/MULTISPORTS-6.png" group-title="FR | SPORTS UHD", FR: MULTISPORTS 6 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402079
+#EXTINF:-1 tvg-id="402085" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/SPORT-EN-FRANCE.png" group-title="FR | SPORTS UHD", FR: SPORT EN FRANCE
+http://scf.it.com:8080/nasaxnasa/7378574ce/402085
+#EXTINF:-1 tvg-id="402086" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/TRACE-SPORT-STARS.png" group-title="FR | SPORTS UHD", FR: TRACE SPORT STARS SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402086
+
+# ============================================================
+# FR | RMC SPORT UHD
+# ============================================================
+#EXTINF:-1 tvg-id="402052" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="FR | RMC SPORT", FR: RMC SPORT 1 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402052
+#EXTINF:-1 tvg-id="402037" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="FR | RMC SPORT", FR: RMC SPORT 1 FHD ACCESS
+http://scf.it.com:8080/nasaxnasa/7378574ce/402037
+#EXTINF:-1 tvg-id="402051" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="FR | RMC SPORT", FR: RMC SPORT 1 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402051
+#EXTINF:-1 tvg-id="402053" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="FR | RMC SPORT", FR: RMC SPORT 1 HD+
+http://scf.it.com:8080/nasaxnasa/7378574ce/402053
+#EXTINF:-1 tvg-id="402050" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="FR | RMC SPORT", FR: RMC SPORT 1 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402050
+#EXTINF:-1 tvg-id="402049" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="FR | RMC SPORT", FR: RMC SPORT 2 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402049
+#EXTINF:-1 tvg-id="402044" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="FR | RMC SPORT", FR: RMC SPORT 2 FHD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402044
+#EXTINF:-1 tvg-id="402046" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="FR | RMC SPORT", FR: RMC SPORT 2 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402046
+#EXTINF:-1 tvg-id="402047" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="FR | RMC SPORT", FR: RMC SPORT 2 HD+
+http://scf.it.com:8080/nasaxnasa/7378574ce/402047
+#EXTINF:-1 tvg-id="402045" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="FR | RMC SPORT", FR: RMC SPORT 2 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402045
+#EXTINF:-1 tvg-id="402042" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="FR | RMC SPORT", FR: RMC SPORT 3 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402042
+#EXTINF:-1 tvg-id="402041" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="FR | RMC SPORT", FR: RMC SPORT 3 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402041
+#EXTINF:-1 tvg-id="402040" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="FR | RMC SPORT", FR: RMC SPORT 3 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402040
+#EXTINF:-1 tvg-id="402038" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="FR | RMC SPORT", FR: RMC SPORT 4 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402038
+#EXTINF:-1 tvg-id="402036" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="FR | RMC SPORT", FR: RMC SPORT 4 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402036
+#EXTINF:-1 tvg-id="402035" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="FR | RMC SPORT", FR: RMC SPORT 4 SD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402035
+#EXTINF:-1 tvg-id="402054" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-1.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 1 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402054
+#EXTINF:-1 tvg-id="402048" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-2.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 2 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402048
+#EXTINF:-1 tvg-id="402043" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-LIVE-3.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 3 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402043
+#EXTINF:-1 tvg-id="402039" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-4.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 4 HD
+http://scf.it.com:8080/nasaxnasa/7378574ce/402039
+#EXTINF:-1 tvg-id="402034" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-5.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 5 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402034
+#EXTINF:-1 tvg-id="402033" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-6.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 6 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402033
+#EXTINF:-1 tvg-id="402032" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-7.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 7 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402032
+#EXTINF:-1 tvg-id="402031" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-8.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 8 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402031
+#EXTINF:-1 tvg-id="402030" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-9.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 9 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402030
+#EXTINF:-1 tvg-id="402029" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-10.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 10 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402029
+#EXTINF:-1 tvg-id="402028" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-11.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 11 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402028
+#EXTINF:-1 tvg-id="402027" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/FRANCE/RMC-SPORT-12.png" group-title="FR | RMC SPORT", FR: RMC SPORT LIVE 12 4K
+http://scf.it.com:8080/nasaxnasa/7378574ce/402027
