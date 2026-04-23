@@ -33,9 +33,7 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/lynxfayd.m3u
 
 # ====================== SPORTS ======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="SPORTS BACKUP",Fajr Sports
-https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
-
-# ====================== MY HD ======================
+https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3uH# ====================== MY HD ======================
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="MY HD",MY HD
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
@@ -54,3 +52,8 @@ https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/9086b62b21dcf
 ====================== F⚽⚽T======================
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="F⚽⚽T",FOOT
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/foot.m3u
+
+# ====================== DEJLA\FURAT ====================
+#EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="DEJLA\FURAT ",DEJLA\FURAT
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/%D8%B3%D9%88%D8%B1%D9%8A%D9%83%D8%A7%D9%84.m3u
+
