@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
 # ====================== FOREVER ======================
 #EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="FOREVER",Forever Playlist
 https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
+
 # ====================== FRANCE ======================
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="FRANCE",France Sport Playlist
 https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
@@ -27,13 +28,15 @@ https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u
 #EXTINF:-1 tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="100MIN",100MIN
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/MAGRVJFSLF_dgRM2q.m3u
 
-# ====================== BACKUP lynx ======================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="BACKUP FR",Lynx France
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/lynxfayd.m3u
+# ====================== sajed d lick  ======================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="sajed d lick",sajed d lick
+https://raw.githubusercontent.com/sager002/tv/refs/heads/main/channels.m3u
 
 # ====================== SPORTS ======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="SPORTS BACKUP",Fajr Sports
-https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3uH# ====================== MY HD ======================
+https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
+
+# ====================== MY HD ======================
 #EXTINF:-1 tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="MY HD",MY HD
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
