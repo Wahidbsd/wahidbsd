@@ -1,40 +1,24 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 xui-id="47" tvg-id="" tvg-name="|AR| Alwan Sport 1 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 1 FHD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPgB_sZpoBvU9vuNqHpEoZc/ts
-#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="|AR| Alwan Sport 2 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 2 FHD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoL1ARndh0GEt9ZY6uQ8DGL8/ts
-#EXTINF:-1 xui-id="49" tvg-id="" tvg-name="|AR| Alwan Sport 3 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 3 FHD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoD8XyJxQFwfY5EjMzyWFi1M/ts
-#EXTINF:-1 xui-id="50" tvg-id="" tvg-name="|AR| Alwan Sport 4 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 4 FHD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoO_u8BD2eX33wyw6u2Qeu_c/ts
-#EXTINF:-1 xui-id="51" tvg-id="" tvg-name="|AR| Alwan Sport 5 FHD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 5 FHD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoKhbMqwDSyDLucz_IhxDP8E/ts
-#EXTINF:-1 xui-id="53" tvg-id="" tvg-name="|AR| Alwan Sport 1 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 1 HD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoIYUb6_nQnH0wj406kkROfw/ts
-#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="|AR| Alwan Sport 2 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 2 HD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoNfp8TBNGY_p5d-Bgu5iMic/ts
-#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="|AR| Alwan Sport 3 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 3 HD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoDLgQYjEAIVZGGnV7HdP5M8/ts
-#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="|AR| Alwan Sport 4 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 4 HD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoLR_3IY4ZcSHV_DJUBN8Efw/ts
-#EXTINF:-1 xui-id="57" tvg-id="" tvg-name="|AR| Alwan Sport 5 HD VIP" tvg-logo="" group-title="ALWAN SPORT",|AR| Alwan Sport 5 HD VIP
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoA-rWgtyqb-uRaP5sFYUCZg/ts
-#EXTINF:-1 xui-id="66" tvg-id="" tvg-name="|AR| THMANYAH 1 HD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 1 HD
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoGCnv651DzeziTAberLVj14/ts
-#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="|AR| THMANYAH 1 FHD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 1 FHD
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPN03wn3lG7TIRyGBY1tmog/ts
-#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="|AR| THMANYAH 2 HD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 2 HD
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoGSTQ8ulgXXiwFGhGbnwHjU/ts
-#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="|AR| THMANYAH 2 FHD" tvg-logo="" group-title="SPORTS ARAB",|AR| THMANYAH 2 FHD
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoI72O8Y--qkot0h4AifQ-pw/ts
-#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="|AR| BEIN Sport News UHD" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport News UHD
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoGns9fPI6MD5smt45i5hYXo/ts
-#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="|AR| BEIN Sport UHD 1" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 1
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoG4T0G2zsHn0pFNufc5mPfY/ts
-#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="|AR| BEIN Sport UHD 2" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 2
-http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoJip6xJhQKY7SPMgK2FbLzc/ts
-#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="|AR| BEIN Sport UHD 3" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 3
+#EXTINF:-1 tvg-name="AL-FAJER TV 1 HD" tvg-logo="http://tayaara.store:80/images/marvel/1716985163331.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 1 HD
+http://marveltv.info/live/36889/147835/262166.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 2 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985169172.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 2 FHD
+http://marveltv.info/live/36889/147835/262163.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 3 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985180242.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 3 FHD
+http://marveltv.info/live/36889/147835/262160.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 4 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985192379.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 4 FHD
+http://marveltv.info/live/36889/147835/262157.ts
+#EXTINF:-1 tvg-name="AL-FAJER TV 5 FHD" tvg-logo="http://tayaara.store:80/images/marvel/1716985203400.jpg" group-title="AL FAJER  CHANNELS",AL-FAJER TV 5 FHD
+http://marveltv.info/live/36889/147835/262154.ts
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://i.imgur.com/i6Y7beR.jpg" group-title="General",Ajyal TV
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 1
+http://u.goldeniptv.com:2052/live/ahmad/123456/187641.ts
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 2
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/187642.ts
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="Undefined",Raya 3
+http://u.goldeniptv.com:2052/live/rashad1/rashad1/187643.ts
+#EXTINF:-1 tvg-id="Raya1.ps" tvg-logo="https://kolalnastv.com/uploads/logo/logo_65563ec7390605-31141792.png" group-title="Undefined",kolalnas
+https://htvint.mada.ps/kolalnas/index.m3u8#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="|AR| BEIN Sport UHD 3" tvg-logo="" group-title="BEIN SPORT HIGH",|AR| BEIN Sport UHD 3
 http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPMY3HBSDdFr751-0lyx394/ts
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="aljazeera HD" tvg-logo="" group-title="INFOS",aljazeera HD
 http://goat2027.alwanvipsaw.store:80/play/eD6W0gNad-DlbZCEm1TdoPGqKKT40sXgGp_rWIFBOF0/ts
