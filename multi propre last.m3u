@@ -1,0 +1,61 @@
+#EXTM3U
+
+# ====================== LX ======================
+#EXTINF:-1 tvg-name="LX Playlist" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="Playlists",LX Playlist
+https://raw.githubusercontent.com/raid35/channel-links/main/LX.m3u
+
+# ====================== ALWAN ======================
+#EXTINF:-1 tvg-id="alwan" tvg-name="Alwan Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBO2-k51Fq0L1SukejhAVQgp_mVbDWfHqLw&s" group-title="Arabic",Alwan Channels
+https://raw.githubusercontent.com/raid35/channel-links/main/ALWAN1.m3u
+
+# ====================== FOREVER ======================
+#EXTINF:-1 tvg-name="Forever Playlist" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="General",Forever Playlist
+https://raw.githubusercontent.com/raid35/channel-links/main/forever.m3u
+
+# ====================== FRANCE ======================
+#EXTINF:-1 tvg-name="France Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="Sports",France Sports
+https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
+
+# ====================== TOD ======================
+#EXTINF:-1 tvg-name="TOD 8K" tvg-logo="https://ferrot.org/ferrot.png" group-title="Sports",TOD 8K
+https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
+
+# ====================== LILIUZ ======================
+#EXTINF:-1 tvg-name="Liliuz Football" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Sports",Liliuz Football
+https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
+
+# ====================== 100MIN ======================
+#EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
+https://raw.githubusercontent.com/Wahidbsd/usmh/Main/MAGRVJFSLF_dgRM2q.m3u
+
+# ====================== SAJED ======================
+#EXTINF:-1 tvg-name="Sajed TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="General",Sajed TV
+https://raw.githubusercontent.com/sager002/tv/main/channels.m3u
+
+# ====================== FAJR ======================
+#EXTINF:-1 tvg-name="Fajr Sports" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Sports",Fajr Sports
+https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
+
+# ====================== MY HD ======================
+#EXTINF:-1 tvg-name="My HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Entertainment",My HD Channels
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
+
+# ====================== BEIN MOVIES ======================
+#EXTINF:-1 tvg-name="BeIN Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="Movies",BeIN Movies
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
+
+# ====================== NOVA ======================
+#EXTINF:-1 tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="Entertainment",Nova Channels
+https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
+
+# ====================== KURDISH ======================
+#EXTINF:-1 tvg-name="Kurdish Channels" tvg-logo="http://widget.ottplayer.tv/upictures/61616ea5-eac2-4154-99fa-7813ceea55da.png" group-title="Kurdish",Kurdish Channels
+https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/main/from_json.m3u
+
+# ====================== FOOT ======================
+#EXTINF:-1 tvg-name="Football Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Sports",Football Channels
+https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
+
+# ====================== DEJLA/FURAT ======================
+#EXTINF:-1 tvg-name="Dejla & Furat" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Arabic",Dejla & Furat
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/Main/%D8%B3%D9%88%D8%B1%D9%8A%D9%83%D8%A7%D9%84.m3u
