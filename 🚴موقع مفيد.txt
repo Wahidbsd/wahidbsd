@@ -3,3 +3,4 @@
 # https://arix.alamna.live/player/
 https://go8knm.optikl.ink/viberandcyper/api.php
 # https://www.snapdown.in/
+https://dijla.site:8090/get.php?username=Dijla&password=1baggdad&type=m3u_plus&output=ts
