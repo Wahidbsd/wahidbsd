@@ -59,3 +59,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/foot.m3u
 # ====================== DEJLA/FURAT ======================
 #EXTINF:-1 tvg-name="Dejla & Furat" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Arabic",Dejla & Furat
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/Main/%D8%B3%D9%88%D8%B1%D9%8A%D9%83%D8%A7%D9%84.m3u
+
+# ====================== MATCHWAHID ======================
+#EXTINF:-1 tvg-name="Football Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="MATCHWAHID",MATCH WAHID SITE
+https://github.com/Wahidbsd/usmh/blob/Main/matchwahid.m3u
