@@ -5,3 +5,4 @@ http://go8knm.optikl.ink/Testnega8/index.php
 # https://www.snapdown.in/
 https://dijla.site:8090/get.php?username=Dijla&password=1baggdad&type=m3u_plus&output=ts
 # http://1bagdad.optikl.ink
+https://go8knm.optikl.ink/Tod/index.php
