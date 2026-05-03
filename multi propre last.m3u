@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/main/from_jso
 #EXTINF:-1 tvg-name="Football Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Sports",Football Channels
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bagdad1.m3u
 
-# ====================== DEJLA/FURAT ======================
+# ====================== D/FURAT ======================
 #EXTINF:-1 tvg-name="Dejla & Furat" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Arabic",Dejla & Furat
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bagdad1.m3u
 
@@ -72,6 +72,4 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m
 #EXTINF:-1 tvg-name="osn disc" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="OSN",O S N DI
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
-# ====================== Bagdad2 ======================
-#EXTINF:-1 tvg-name="bagdad 2" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="bagdad 2",bagdad2 
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bagdad1.m3u
+
