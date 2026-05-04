@@ -1,0 +1,563 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="beINSports 1 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs1.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 1 VAGA-G
+http://gospeed.info:8080/52shor/24918s/1
+#EXTINF:-1 tvg-id="2" tvg-name="beINSports 2 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs2.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 2 VAGA-G
+http://gospeed.info:8080/52shor/24918s/2
+#EXTINF:-1 tvg-id="3" tvg-name="beINSports 3 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs3.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 3 VAGA-G
+http://gospeed.info:8080/52shor/24918s/3
+#EXTINF:-1 tvg-id="4" tvg-name="beINSports 4 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs4.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 4 VAGA-G
+http://gospeed.info:8080/52shor/24918s/4
+#EXTINF:-1 tvg-id="5" tvg-name="beINSports 5 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs5.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 5 VAGA-G
+http://gospeed.info:8080/52shor/24918s/5
+#EXTINF:-1 tvg-id="6" tvg-name="beINSports 6 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs6.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 6 VAGA-G
+http://gospeed.info:8080/52shor/24918s/6
+#EXTINF:-1 tvg-id="7" tvg-name="beINSports 7 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs7.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 7 VAGA-G
+http://gospeed.info:8080/52shor/24918s/7
+#EXTINF:-1 tvg-id="8" tvg-name="beINSports 8 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs8.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 8 VAGA-G
+http://gospeed.info:8080/52shor/24918s/8
+#EXTINF:-1 tvg-id="9" tvg-name="beINSports 9 VAGA-G" tvg-logo="http://speedimag.online/image/ch/bein/bs9.png" group-title="beIN SPORTS [VG-G] 1.5M", beINSports 9 VAGA-G
+http://gospeed.info:8080/52shor/24918s/9
+#EXTINF:-1 tvg-id="13" tvg-name="beINSports 1 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs1.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 1 VAGA-F
+http://gospeed.info:8080/52shor/24918s/13
+#EXTINF:-1 tvg-id="14" tvg-name="beINSports 2 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs2.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 2 VAGA-F
+http://gospeed.info:8080/52shor/24918s/14
+#EXTINF:-1 tvg-id="15" tvg-name="beINSports 3 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs3.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 3 VAGA-F
+http://gospeed.info:8080/52shor/24918s/15
+#EXTINF:-1 tvg-id="16" tvg-name="beINSports 4 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs4.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 4 VAGA-F
+http://gospeed.info:8080/52shor/24918s/16
+#EXTINF:-1 tvg-id="17" tvg-name="beINSports 5 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs5.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 5 VAGA-F
+http://gospeed.info:8080/52shor/24918s/17
+#EXTINF:-1 tvg-id="18" tvg-name="beINSports 6 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs6.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 6 VAGA-F
+http://gospeed.info:8080/52shor/24918s/18
+#EXTINF:-1 tvg-id="19" tvg-name="beINSports 7 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs7.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 7 VAGA-F
+http://gospeed.info:8080/52shor/24918s/19
+#EXTINF:-1 tvg-id="20" tvg-name="beINSports 8 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs8.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 8 VAGA-F
+http://gospeed.info:8080/52shor/24918s/20
+#EXTINF:-1 tvg-id="21" tvg-name="beINSports 9 VAGA-F" tvg-logo="http://speedimag.online/image/ch/bein/bs9.png" group-title="beIN SPORTS [VG-F] 1.5M", beINSports 9 VAGA-F
+http://gospeed.info:8080/52shor/24918s/21
+#EXTINF:-1 tvg-id="99" tvg-name="beINSports 1 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs1.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 1 HD-G
+http://gospeed.info:8080/52shor/24918s/99
+#EXTINF:-1 tvg-id="100" tvg-name="beINSports 2 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs2.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 2 HD-G
+http://gospeed.info:8080/52shor/24918s/100
+#EXTINF:-1 tvg-id="101" tvg-name="beINSports 3 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs3.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 3 HD-G
+http://gospeed.info:8080/52shor/24918s/101
+#EXTINF:-1 tvg-id="102" tvg-name="beINSports 4 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs4.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 4 HD-G
+http://gospeed.info:8080/52shor/24918s/102
+#EXTINF:-1 tvg-id="103" tvg-name="beINSports 5 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs5.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 5 HD-G
+http://gospeed.info:8080/52shor/24918s/103
+#EXTINF:-1 tvg-id="104" tvg-name="beINSports 6 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs6.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 6 HD-G
+http://gospeed.info:8080/52shor/24918s/104
+#EXTINF:-1 tvg-id="105" tvg-name="beINSports 7 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs7.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 7 HD-G
+http://gospeed.info:8080/52shor/24918s/105
+#EXTINF:-1 tvg-id="106" tvg-name="beINSports 8 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs8.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 8 HD-G
+http://gospeed.info:8080/52shor/24918s/106
+#EXTINF:-1 tvg-id="107" tvg-name="beINSports 9 HD-G" tvg-logo="http://speedimag.online/image/ch/bein/bs9.png" group-title="beIN SPORTS [HD-G] 2.5M", beINSports 9 HD-G
+http://gospeed.info:8080/52shor/24918s/107
+#EXTINF:-1 tvg-id="111" tvg-name="beINSports1 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs1.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports1 HD-F
+http://gospeed.info:8080/52shor/24918s/111
+#EXTINF:-1 tvg-id="112" tvg-name="beINSports2 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs2.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports2 HD-F
+http://gospeed.info:8080/52shor/24918s/112
+#EXTINF:-1 tvg-id="113" tvg-name="beINSports3 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs3.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports3 HD-F
+http://gospeed.info:8080/52shor/24918s/113
+#EXTINF:-1 tvg-id="114" tvg-name="beINSports4 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs4.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports4 HD-F
+http://gospeed.info:8080/52shor/24918s/114
+#EXTINF:-1 tvg-id="115" tvg-name="beINSports5 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs5.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports5 HD-F
+http://gospeed.info:8080/52shor/24918s/115
+#EXTINF:-1 tvg-id="116" tvg-name="beINSports6 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs6.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports6 HD-F
+http://gospeed.info:8080/52shor/24918s/116
+#EXTINF:-1 tvg-id="117" tvg-name="beINSports7 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs7.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports7 HD-F
+http://gospeed.info:8080/52shor/24918s/117
+#EXTINF:-1 tvg-id="118" tvg-name="beINSports8 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs8.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports8 HD-F
+http://gospeed.info:8080/52shor/24918s/118
+#EXTINF:-1 tvg-id="119" tvg-name="beINSports9 HD-F" tvg-logo="http://speedimag.online/image/ch/bein/bs9.png" group-title="beIN SPORTS [HD-F] 2.5M", beINSports9 HD-F
+http://gospeed.info:8080/52shor/24918s/119
+#EXTINF:-1 tvg-id="123" tvg-name="beINSports 1 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs1.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 1 4K-G
+http://gospeed.info:8080/52shor/24918s/123
+#EXTINF:-1 tvg-id="124" tvg-name="beINSports 2 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs2.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 2 4K-G
+http://gospeed.info:8080/52shor/24918s/124
+#EXTINF:-1 tvg-id="125" tvg-name="beINSports 3 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs3.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 3 4K-G
+http://gospeed.info:8080/52shor/24918s/125
+#EXTINF:-1 tvg-id="126" tvg-name="beINSports 4 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs4.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 4 4K-G
+http://gospeed.info:8080/52shor/24918s/126
+#EXTINF:-1 tvg-id="127" tvg-name="beINSports 5 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs5.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 5 4K-G
+http://gospeed.info:8080/52shor/24918s/127
+#EXTINF:-1 tvg-id="128" tvg-name="beINSports 6 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs6.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 6 4K-G
+http://gospeed.info:8080/52shor/24918s/128
+#EXTINF:-1 tvg-id="129" tvg-name="beINSports 7 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs7.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 7 4K-G
+http://gospeed.info:8080/52shor/24918s/129
+#EXTINF:-1 tvg-id="130" tvg-name="beINSports 8 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs8.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 8 4K-G
+http://gospeed.info:8080/52shor/24918s/130
+#EXTINF:-1 tvg-id="131" tvg-name="beINSports 9 4K-G" tvg-logo="http://speedimag.online/image/ch/bein/bs9.png" group-title="beIN SPORTS [4K-G] 4M", beINSports 9 4K-G
+http://gospeed.info:8080/52shor/24918s/131
+#EXTINF:-1 tvg-id="350" tvg-name="Alwan:Sport 1 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 1 HD
+http://gospeed.info:8080/52shor/24918s/350
+#EXTINF:-1 tvg-id="351" tvg-name="Alwan:Sport 2 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 2 HD
+http://gospeed.info:8080/52shor/24918s/351
+#EXTINF:-1 tvg-id="352" tvg-name="Alwan:Sport 3 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 3 HD
+http://gospeed.info:8080/52shor/24918s/352
+#EXTINF:-1 tvg-id="353" tvg-name="Alwan:Sport 4 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 4 HD
+http://gospeed.info:8080/52shor/24918s/353
+#EXTINF:-1 tvg-id="354" tvg-name="Alwan:Sport 5 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 5 HD
+http://gospeed.info:8080/52shor/24918s/354
+#EXTINF:-1 tvg-id="355" tvg-name="Alwan:Sport 6 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 6 HD
+http://gospeed.info:8080/52shor/24918s/355
+#EXTINF:-1 tvg-id="356" tvg-name="Alwan:Sport 7 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 7 HD
+http://gospeed.info:8080/52shor/24918s/356
+#EXTINF:-1 tvg-id="357" tvg-name="Alwan:Sport 8 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 8 HD
+http://gospeed.info:8080/52shor/24918s/357
+#EXTINF:-1 tvg-id="358" tvg-name="Alwan:Sport 9 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 9 HD
+http://gospeed.info:8080/52shor/24918s/358
+#EXTINF:-1 tvg-id="359" tvg-name="Alwan:Sport 10 HD" tvg-logo="" group-title="ALWAN SPORT HD", Alwan:Sport 10 HD
+http://gospeed.info:8080/52shor/24918s/359
+#EXTINF:-1 tvg-id="340" tvg-name="Alwan:Sport 1 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 1 H265
+http://gospeed.info:8080/52shor/24918s/340
+#EXTINF:-1 tvg-id="341" tvg-name="Alwan:Sport 2 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 2 H265
+http://gospeed.info:8080/52shor/24918s/341
+#EXTINF:-1 tvg-id="342" tvg-name="Alwan:Sport 3 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 3 H265
+http://gospeed.info:8080/52shor/24918s/342
+#EXTINF:-1 tvg-id="343" tvg-name="Alwan:Sport 4 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 4 H265
+http://gospeed.info:8080/52shor/24918s/343
+#EXTINF:-1 tvg-id="344" tvg-name="Alwan:Sport 5 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 5 H265
+http://gospeed.info:8080/52shor/24918s/344
+#EXTINF:-1 tvg-id="345" tvg-name="Alwan:Sport 6 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 6 H265
+http://gospeed.info:8080/52shor/24918s/345
+#EXTINF:-1 tvg-id="346" tvg-name="Alwan:Sport 7 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 7 H265
+http://gospeed.info:8080/52shor/24918s/346
+#EXTINF:-1 tvg-id="347" tvg-name="Alwan:Sport 8 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 8 H265
+http://gospeed.info:8080/52shor/24918s/347
+#EXTINF:-1 tvg-id="348" tvg-name="Alwan:Sport 9 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 9 H265
+http://gospeed.info:8080/52shor/24918s/348
+#EXTINF:-1 tvg-id="349" tvg-name="Alwan:Sport 10 H265" tvg-logo="" group-title="ALWAN SPORT H265 4K ", Alwan:Sport 10 H265
+http://gospeed.info:8080/52shor/24918s/349
+#EXTINF:-1 tvg-id="460" tvg-name="[Shahid]Sport1 Vega" tvg-logo="" group-title="SHAHID SPORTS  [VG] 1.5M", [Shahid]Sport1 Vega
+http://gospeed.info:8080/52shor/24918s/460
+#EXTINF:-1 tvg-id="461" tvg-name="[Shahid]Sport2 Vega" tvg-logo="" group-title="SHAHID SPORTS  [VG] 1.5M", [Shahid]Sport2 Vega
+http://gospeed.info:8080/52shor/24918s/461
+#EXTINF:-1 tvg-id="462" tvg-name="[Shahid]Sport3 Vega" tvg-logo="" group-title="SHAHID SPORTS  [VG] 1.5M", [Shahid]Sport3 Vega
+http://gospeed.info:8080/52shor/24918s/462
+#EXTINF:-1 tvg-id="463" tvg-name="[Shahid]Sport4 Vega" tvg-logo="" group-title="SHAHID SPORTS  [VG] 1.5M", [Shahid]Sport4 Vega
+http://gospeed.info:8080/52shor/24918s/463
+#EXTINF:-1 tvg-id="464" tvg-name="[Shahid]Sport5 Vega" tvg-logo="" group-title="SHAHID SPORTS  [VG] 1.5M", [Shahid]Sport5 Vega
+http://gospeed.info:8080/52shor/24918s/464
+#EXTINF:-1 tvg-id="455" tvg-name="[Shahid]Sport1 HD" tvg-logo="" group-title="SHAHID SPORTS [HD] 4M", [Shahid]Sport1 HD
+http://gospeed.info:8080/52shor/24918s/455
+#EXTINF:-1 tvg-id="456" tvg-name="[Shahid]Sport2 HD" tvg-logo="" group-title="SHAHID SPORTS [HD] 4M", [Shahid]Sport2 HD
+http://gospeed.info:8080/52shor/24918s/456
+#EXTINF:-1 tvg-id="457" tvg-name="[Shahid]Sport3 HD" tvg-logo="" group-title="SHAHID SPORTS [HD] 4M", [Shahid]Sport3 HD
+http://gospeed.info:8080/52shor/24918s/457
+#EXTINF:-1 tvg-id="458" tvg-name="[Shahid]Sport4 HD" tvg-logo="" group-title="SHAHID SPORTS [HD] 4M", [Shahid]Sport4 HD
+http://gospeed.info:8080/52shor/24918s/458
+#EXTINF:-1 tvg-id="459" tvg-name="[Shahid]Sport5 HD" tvg-logo="" group-title="SHAHID SPORTS [HD] 4M", [Shahid]Sport5 HD
+http://gospeed.info:8080/52shor/24918s/459
+#EXTINF:-1 tvg-id="450" tvg-name="[Shahid]Sport1 4K" tvg-logo="" group-title="SHAHID SPORTS [4K] 6M", [Shahid]Sport1 4K
+http://gospeed.info:8080/52shor/24918s/450
+#EXTINF:-1 tvg-id="451" tvg-name="[Shahid]Sport2 4K" tvg-logo="" group-title="SHAHID SPORTS [4K] 6M", [Shahid]Sport2 4K
+http://gospeed.info:8080/52shor/24918s/451
+#EXTINF:-1 tvg-id="452" tvg-name="[Shahid]Sport3 4K" tvg-logo="" group-title="SHAHID SPORTS [4K] 6M", [Shahid]Sport3 4K
+http://gospeed.info:8080/52shor/24918s/452
+#EXTINF:-1 tvg-id="453" tvg-name="[Shahid]Sport4 4K" tvg-logo="" group-title="SHAHID SPORTS [4K] 6M", [Shahid]Sport4 4K
+http://gospeed.info:8080/52shor/24918s/453
+#EXTINF:-1 tvg-id="454" tvg-name="[Shahid]Sport5 4K" tvg-logo="" group-title="SHAHID SPORTS [4K] 6M", [Shahid]Sport5 4K
+http://gospeed.info:8080/52shor/24918s/454
+#EXTINF:-1 tvg-id="135" tvg-name="beINSports 1 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs1.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 1 8K-F
+http://gospeed.info:8080/52shor/24918s/135
+#EXTINF:-1 tvg-id="136" tvg-name="beINSports 2 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs2.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 2 8K-F
+http://gospeed.info:8080/52shor/24918s/136
+#EXTINF:-1 tvg-id="137" tvg-name="beINSports 3 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs3.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 3 8K-F
+http://gospeed.info:8080/52shor/24918s/137
+#EXTINF:-1 tvg-id="138" tvg-name="beINSports 4 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs4.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 4 8K-F
+http://gospeed.info:8080/52shor/24918s/138
+#EXTINF:-1 tvg-id="139" tvg-name="beINSports 5 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs5.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 5 8K-F
+http://gospeed.info:8080/52shor/24918s/139
+#EXTINF:-1 tvg-id="140" tvg-name="beINSports 6 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs6.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 6 8K-F
+http://gospeed.info:8080/52shor/24918s/140
+#EXTINF:-1 tvg-id="141" tvg-name="beINSports 7 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs7.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 7 8K-F
+http://gospeed.info:8080/52shor/24918s/141
+#EXTINF:-1 tvg-id="142" tvg-name="beINSports 8 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs8.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 8 8K-F
+http://gospeed.info:8080/52shor/24918s/142
+#EXTINF:-1 tvg-id="143" tvg-name="beINSports 9 8K-F" tvg-logo="http://speedimag.online/image/ch/bein/bs9.png" group-title="beIN SPORTS [8K-F] 6M", beINSports 9 8K-F
+http://gospeed.info:8080/52shor/24918s/143
+#EXTINF:-1 tvg-id="87" tvg-name="beINSports 1 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs1.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 1 H265
+http://gospeed.info:8080/52shor/24918s/87
+#EXTINF:-1 tvg-id="88" tvg-name="beINSports 2 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs2.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 2 H265
+http://gospeed.info:8080/52shor/24918s/88
+#EXTINF:-1 tvg-id="89" tvg-name="beINSports 3 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs3.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 3 H265
+http://gospeed.info:8080/52shor/24918s/89
+#EXTINF:-1 tvg-id="90" tvg-name="beINSports 4 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs4.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 4 H265
+http://gospeed.info:8080/52shor/24918s/90
+#EXTINF:-1 tvg-id="91" tvg-name="beINSports 5 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs5.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 5 H265
+http://gospeed.info:8080/52shor/24918s/91
+#EXTINF:-1 tvg-id="92" tvg-name="beINSports 6 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs6.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 6 H265
+http://gospeed.info:8080/52shor/24918s/92
+#EXTINF:-1 tvg-id="93" tvg-name="beINSports 7 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs7.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 7 H265
+http://gospeed.info:8080/52shor/24918s/93
+#EXTINF:-1 tvg-id="94" tvg-name="beINSports 8 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs8.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 8 H265
+http://gospeed.info:8080/52shor/24918s/94
+#EXTINF:-1 tvg-id="95" tvg-name="beINSports 9 H265" tvg-logo="http://speedimag.online/image/ch/bein/bs9.png" group-title="beIN SPORTS [HEVC] 8M", beINSports 9 H265
+http://gospeed.info:8080/52shor/24918s/95
+#EXTINF:-1 tvg-id="168407" tvg-name="Bein Movies HD1" tvg-logo="" group-title="BEIN MOVIES HD", Bein Movies HD1
+http://gospeed.info:8080/52shor/24918s/168407
+#EXTINF:-1 tvg-id="168406" tvg-name="Bein Movies HD2" tvg-logo="" group-title="BEIN MOVIES HD", Bein Movies HD2
+http://gospeed.info:8080/52shor/24918s/168406
+#EXTINF:-1 tvg-id="168405" tvg-name="Bein Movies HD3" tvg-logo="" group-title="BEIN MOVIES HD", Bein Movies HD3
+http://gospeed.info:8080/52shor/24918s/168405
+#EXTINF:-1 tvg-id="168404" tvg-name="Bein Movies HD4" tvg-logo="" group-title="BEIN MOVIES HD", Bein Movies HD4
+http://gospeed.info:8080/52shor/24918s/168404
+#EXTINF:-1 tvg-id="168403" tvg-name="Bein Series HD1" tvg-logo="" group-title="BEIN MOVIES HD", Bein Series HD1
+http://gospeed.info:8080/52shor/24918s/168403
+#EXTINF:-1 tvg-id="168402" tvg-name="Bein Series HD2" tvg-logo="" group-title="BEIN MOVIES HD", Bein Series HD2
+http://gospeed.info:8080/52shor/24918s/168402
+#EXTINF:-1 tvg-id="168401" tvg-name="Bein Drama HD1" tvg-logo="" group-title="BEIN MOVIES HD", Bein Drama HD1
+http://gospeed.info:8080/52shor/24918s/168401
+#EXTINF:-1 tvg-id="168400" tvg-name="BeIN HGTV HD" tvg-logo="" group-title="BEIN MOVIES HD", BeIN HGTV HD
+http://gospeed.info:8080/52shor/24918s/168400
+#EXTINF:-1 tvg-id="168399" tvg-name="Bein Star Action HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Star Action HD
+http://gospeed.info:8080/52shor/24918s/168399
+#EXTINF:-1 tvg-id="168398" tvg-name="BeIN Star Films HD" tvg-logo="" group-title="BEIN MOVIES HD", BeIN Star Films HD
+http://gospeed.info:8080/52shor/24918s/168398
+#EXTINF:-1 tvg-id="168397" tvg-name="BeIN Star Life HD" tvg-logo="" group-title="BEIN MOVIES HD", BeIN Star Life HD
+http://gospeed.info:8080/52shor/24918s/168397
+#EXTINF:-1 tvg-id="168396" tvg-name="Bein Star Movies HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Star Movies HD
+http://gospeed.info:8080/52shor/24918s/168396
+#EXTINF:-1 tvg-id="168395" tvg-name="Bein Star Series HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Star Series HD
+http://gospeed.info:8080/52shor/24918s/168395
+#EXTINF:-1 tvg-id="168394" tvg-name="Bein Star World HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Star World HD
+http://gospeed.info:8080/52shor/24918s/168394
+#EXTINF:-1 tvg-id="168393" tvg-name="Bein TCM HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein TCM HD
+http://gospeed.info:8080/52shor/24918s/168393
+#EXTINF:-1 tvg-id="168392" tvg-name="Bein Fatafeat HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Fatafeat HD
+http://gospeed.info:8080/52shor/24918s/168392
+#EXTINF:-1 tvg-id="168391" tvg-name="Bein Gourmet HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Gourmet HD
+http://gospeed.info:8080/52shor/24918s/168391
+#EXTINF:-1 tvg-id="168390" tvg-name="Bein Food Network HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Food Network HD
+http://gospeed.info:8080/52shor/24918s/168390
+#EXTINF:-1 tvg-id="168389" tvg-name="Bein BBC Earth HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein BBC Earth HD
+http://gospeed.info:8080/52shor/24918s/168389
+#EXTINF:-1 tvg-id="168388" tvg-name="Bein Nat Geo HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Nat Geo HD
+http://gospeed.info:8080/52shor/24918s/168388
+#EXTINF:-1 tvg-id="168387" tvg-name="Bein Nat geo Wild HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Nat geo Wild HD
+http://gospeed.info:8080/52shor/24918s/168387
+#EXTINF:-1 tvg-id="168386" tvg-name="Bein Travel HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Travel HD
+http://gospeed.info:8080/52shor/24918s/168386
+#EXTINF:-1 tvg-id="168385" tvg-name="Bein Baraem HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Baraem HD
+http://gospeed.info:8080/52shor/24918s/168385
+#EXTINF:-1 tvg-id="168384" tvg-name="Bein jeem HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein jeem HD
+http://gospeed.info:8080/52shor/24918s/168384
+#EXTINF:-1 tvg-id="168383" tvg-name="Bein Cartoonito HD" tvg-logo="" group-title="BEIN MOVIES HD", Bein Cartoonito HD
+http://gospeed.info:8080/52shor/24918s/168383
+#EXTINF:-1 tvg-id="154" tvg-name="AD STARZ Play 1 LOW" tvg-logo="http://speedimag.online/image/ch/sport/AD01.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 1 LOW
+http://gospeed.info:8080/52shor/24918s/154
+#EXTINF:-1 tvg-id="155" tvg-name="AD STARZ Play 2 LOW" tvg-logo="http://speedimag.online/image/ch/sport/AD02.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 2 LOW
+http://gospeed.info:8080/52shor/24918s/155
+#EXTINF:-1 tvg-id="156" tvg-name="AD STARZ Play 3 LOW" tvg-logo="http://speedimag.online/image/ch/sport/starz.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 3 LOW
+http://gospeed.info:8080/52shor/24918s/156
+#EXTINF:-1 tvg-id="157" tvg-name="AD STARZ Play 1 SD" tvg-logo="http://speedimag.online/image/ch/sport/AD01.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 1 SD
+http://gospeed.info:8080/52shor/24918s/157
+#EXTINF:-1 tvg-id="158" tvg-name="AD STARZ Play 2 SD" tvg-logo="http://speedimag.online/image/ch/sport/AD02.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 2 SD
+http://gospeed.info:8080/52shor/24918s/158
+#EXTINF:-1 tvg-id="159" tvg-name="AD STARZ Play 3 SD" tvg-logo="http://speedimag.online/image/ch/sport/starz.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 3 SD
+http://gospeed.info:8080/52shor/24918s/159
+#EXTINF:-1 tvg-id="160" tvg-name="AD STARZ Play 1 VEGA" tvg-logo="http://speedimag.online/image/ch/sport/AD01.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 1 VEGA
+http://gospeed.info:8080/52shor/24918s/160
+#EXTINF:-1 tvg-id="161" tvg-name="AD STARZ Play 2 VEGA" tvg-logo="http://speedimag.online/image/ch/sport/AD02.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 2 VEGA
+http://gospeed.info:8080/52shor/24918s/161
+#EXTINF:-1 tvg-id="162" tvg-name="AD STARZ Play 3 VEGA" tvg-logo="http://speedimag.online/image/ch/sport/starz.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 3 VEGA
+http://gospeed.info:8080/52shor/24918s/162
+#EXTINF:-1 tvg-id="163" tvg-name="AD STARZ Play 1 HD" tvg-logo="http://speedimag.online/image/ch/sport/AD01.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 1 HD
+http://gospeed.info:8080/52shor/24918s/163
+#EXTINF:-1 tvg-id="164" tvg-name="AD STARZ Play 2 HD" tvg-logo="http://speedimag.online/image/ch/sport/AD02.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 2 HD
+http://gospeed.info:8080/52shor/24918s/164
+#EXTINF:-1 tvg-id="165" tvg-name="AD STARZ Play 3 HD" tvg-logo="http://speedimag.online/image/ch/sport/starz.png" group-title="AD SPORTS PREMIUM", AD STARZ Play 3 HD
+http://gospeed.info:8080/52shor/24918s/165
+#EXTINF:-1 tvg-id="261" tvg-name="OSN:Yahala Bil Arabi HD" tvg-logo="http://speedimag.online/image/ch/OSN/Yahala Bil Arabi HD.png" group-title="OSN NETWORK HD", OSN:Yahala Bil Arabi HD
+http://gospeed.info:8080/52shor/24918s/261
+#EXTINF:-1 tvg-id="262" tvg-name="OSN:Yahala HD" tvg-logo="http://speedimag.online/image/ch/OSN/Yahala HD.png" group-title="OSN NETWORK HD", OSN:Yahala HD
+http://gospeed.info:8080/52shor/24918s/262
+#EXTINF:-1 tvg-id="263" tvg-name="OSN:Yahala Aflam HD" tvg-logo="http://speedimag.online/image/ch/OSN/Yahala Aflam HD.png" group-title="OSN NETWORK HD", OSN:Yahala Aflam HD
+http://gospeed.info:8080/52shor/24918s/263
+#EXTINF:-1 tvg-id="274" tvg-name="OSN:Alfa Cinema 1 HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa Cinema 1 HD.png" group-title="OSN NETWORK HD", OSN:Alfa Cinema 1 HD
+http://gospeed.info:8080/52shor/24918s/274
+#EXTINF:-1 tvg-id="273" tvg-name="OSN:Alfa Cinema 2 HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa Cinema 2 HD.png" group-title="OSN NETWORK HD", OSN:Alfa Cinema 2 HD
+http://gospeed.info:8080/52shor/24918s/273
+#EXTINF:-1 tvg-id="272" tvg-name="OSN:Alfa Musalsalat 1 HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa Musalsalat 1 HD.png" group-title="OSN NETWORK HD", OSN:Alfa Musalsalat 1 HD
+http://gospeed.info:8080/52shor/24918s/272
+#EXTINF:-1 tvg-id="271" tvg-name="OSN:Alfa Musalsalat 2 HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa Musalsalat 2 HD.png" group-title="OSN NETWORK HD", OSN:Alfa Musalsalat 2 HD
+http://gospeed.info:8080/52shor/24918s/271
+#EXTINF:-1 tvg-id="277" tvg-name="OSN:Alfa Alyoum HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa Alyoum HD.png" group-title="OSN NETWORK HD", OSN:Alfa Alyoum HD
+http://gospeed.info:8080/52shor/24918s/277
+#EXTINF:-1 tvg-id="275" tvg-name="OSN:Alfa Al Safwa HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa Al Safwa HD.png" group-title="OSN NETWORK HD", OSN:Alfa Al Safwa HD
+http://gospeed.info:8080/52shor/24918s/275
+#EXTINF:-1 tvg-id="276" tvg-name="OSN:Alfa AlFann HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa AlFann HD.png" group-title="OSN NETWORK HD", OSN:Alfa AlFann HD
+http://gospeed.info:8080/52shor/24918s/276
+#EXTINF:-1 tvg-id="270" tvg-name="OSN:Alfa Music Now HD" tvg-logo="http://speedimag.online/image/ch/OSN/Alfa Music Now HD.png" group-title="OSN NETWORK HD", OSN:Alfa Music Now HD
+http://gospeed.info:8080/52shor/24918s/270
+#EXTINF:-1 tvg-id="265" tvg-name="OSN:Action HD" tvg-logo="http://speedimag.online/image/ch/OSN/Action HD.png" group-title="OSN NETWORK HD", OSN:Action HD
+http://gospeed.info:8080/52shor/24918s/265
+#EXTINF:-1 tvg-id="260" tvg-name="OSN:OSN Movies Horror HD" tvg-logo="http://speedimag.online/image/ch/OSN/Movies Horror HD.png" group-title="OSN NETWORK HD", OSN:OSN Movies Horror HD
+http://gospeed.info:8080/52shor/24918s/260
+#EXTINF:-1 tvg-id="267" tvg-name="OSN:Movies Premiere HD" tvg-logo="http://speedimag.online/image/ch/OSN/Movies Premiere HD.png" group-title="OSN NETWORK HD", OSN:Movies Premiere HD
+http://gospeed.info:8080/52shor/24918s/267
+#EXTINF:-1 tvg-id="266" tvg-name="OSN:Movies Hollywood HD" tvg-logo="http://speedimag.online/image/ch/OSN/Movies Hollywood HD.png" group-title="OSN NETWORK HD", OSN:Movies Hollywood HD
+http://gospeed.info:8080/52shor/24918s/266
+#EXTINF:-1 tvg-id="264" tvg-name="OSN:Crime HD" tvg-logo="http://speedimag.online/image/ch/OSN/Crime HD.png" group-title="OSN NETWORK HD", OSN:Crime HD
+http://gospeed.info:8080/52shor/24918s/264
+#EXTINF:-1 tvg-id="268" tvg-name="OSN:Family HD" tvg-logo="http://speedimag.online/image/ch/OSN/Family HD.png" group-title="OSN NETWORK HD", OSN:Family HD
+http://gospeed.info:8080/52shor/24918s/268
+#EXTINF:-1 tvg-id="297" tvg-name="OSN:Comedy HD" tvg-logo="http://speedimag.online/image/ch/OSN/Comedy HD.png" group-title="OSN NETWORK HD", OSN:Comedy HD
+http://gospeed.info:8080/52shor/24918s/297
+#EXTINF:-1 tvg-id="299" tvg-name="OSN:Showcase HD" tvg-logo="http://speedimag.online/image/ch/OSN/Showcase HD.png" group-title="OSN NETWORK HD", OSN:Showcase HD
+http://gospeed.info:8080/52shor/24918s/299
+#EXTINF:-1 tvg-id="294" tvg-name="OSN:Crime Investigation HD" tvg-logo="http://speedimag.online/image/ch/OSN/Crime Investigation HD.png" group-title="OSN NETWORK HD", OSN:Crime Investigation HD
+http://gospeed.info:8080/52shor/24918s/294
+#EXTINF:-1 tvg-id="298" tvg-name="OSN:Showcase Classic HD" tvg-logo="http://speedimag.online/image/ch/OSN/Showcase Classic HD.png" group-title="OSN NETWORK HD", OSN:Showcase Classic HD
+http://gospeed.info:8080/52shor/24918s/298
+#EXTINF:-1 tvg-id="289" tvg-name="OSN:News HD" tvg-logo="http://speedimag.online/image/ch/OSN/News HD.png" group-title="OSN NETWORK HD", OSN:News HD
+http://gospeed.info:8080/52shor/24918s/289
+#EXTINF:-1 tvg-id="296" tvg-name="OSN:TV One HD" tvg-logo="http://speedimag.online/image/ch/OSN/TV One HD.png" group-title="OSN NETWORK HD", OSN:TV One HD
+http://gospeed.info:8080/52shor/24918s/296
+#EXTINF:-1 tvg-id="295" tvg-name="OSN:TLC HD" tvg-logo="http://speedimag.online/image/ch/OSN/TLC HD.png" group-title="OSN NETWORK HD", OSN:TLC HD
+http://gospeed.info:8080/52shor/24918s/295
+#EXTINF:-1 tvg-id="292" tvg-name="OSN:Now HD" tvg-logo="http://speedimag.online/image/ch/OSN/Now HD.png" group-title="OSN NETWORK HD", OSN:Now HD
+http://gospeed.info:8080/52shor/24918s/292
+#EXTINF:-1 tvg-id="290" tvg-name="OSN:Meezze HD" tvg-logo="http://speedimag.online/image/ch/OSN/Meezze HD.png" group-title="OSN NETWORK HD", OSN:Meezze HD
+http://gospeed.info:8080/52shor/24918s/290
+#EXTINF:-1 tvg-id="269" tvg-name="OSN:Kids HD" tvg-logo="http://speedimag.online/image/ch/OSN/Kids HD.png" group-title="OSN NETWORK HD", OSN:Kids HD
+http://gospeed.info:8080/52shor/24918s/269
+#EXTINF:-1 tvg-id="278" tvg-name="OSN:Nickelodeon HD" tvg-logo="http://speedimag.online/image/ch/OSN/Nickelodeon HD.png" group-title="OSN NETWORK HD", OSN:Nickelodeon HD
+http://gospeed.info:8080/52shor/24918s/278
+#EXTINF:-1 tvg-id="279" tvg-name="OSN:Kids Zone HD" tvg-logo="http://speedimag.online/image/ch/OSN/Kids Zone HD.png" group-title="OSN NETWORK HD", OSN:Kids Zone HD
+http://gospeed.info:8080/52shor/24918s/279
+#EXTINF:-1 tvg-id="280" tvg-name="OSN:Nick Toon HD" tvg-logo="http://speedimag.online/image/ch/OSN/Nick Toon HD.png" group-title="OSN NETWORK HD", OSN:Nick Toon HD
+http://gospeed.info:8080/52shor/24918s/280
+#EXTINF:-1 tvg-id="281" tvg-name="OSN:Nick Jr HD" tvg-logo="http://speedimag.online/image/ch/OSN/Nick Jr HD.png" group-title="OSN NETWORK HD", OSN:Nick Jr HD
+http://gospeed.info:8080/52shor/24918s/281
+#EXTINF:-1 tvg-id="282" tvg-name="OSN:Moonbug Kids HD" tvg-logo="http://speedimag.online/image/ch/OSN/Moonbug Kids HD.png" group-title="OSN NETWORK HD", OSN:Moonbug Kids HD
+http://gospeed.info:8080/52shor/24918s/282
+#EXTINF:-1 tvg-id="283" tvg-name="OSN:Cartoon Network HD" tvg-logo="http://speedimag.online/image/ch/OSN/Cartoon Network HD.png" group-title="OSN NETWORK HD", OSN:Cartoon Network HD
+http://gospeed.info:8080/52shor/24918s/283
+#EXTINF:-1 tvg-id="284" tvg-name="OSN:H2 HD" tvg-logo="http://speedimag.online/image/ch/OSN/H2 HD.png" group-title="OSN NETWORK HD", OSN:H2 HD
+http://gospeed.info:8080/52shor/24918s/284
+#EXTINF:-1 tvg-id="285" tvg-name="OSN:History HD" tvg-logo="http://speedimag.online/image/ch/OSN/History HD.png" group-title="OSN NETWORK HD", OSN:History HD
+http://gospeed.info:8080/52shor/24918s/285
+#EXTINF:-1 tvg-id="291" tvg-name="OSN:Fatafeat HD" tvg-logo="http://speedimag.online/image/ch/OSN/Fatafeat HD.png" group-title="OSN NETWORK HD", OSN:Fatafeat HD
+http://gospeed.info:8080/52shor/24918s/291
+#EXTINF:-1 tvg-id="293" tvg-name="OSN:E! HD" tvg-logo="http://speedimag.online/image/ch/OSN/E! HD.png" group-title="OSN NETWORK HD", OSN:E! HD
+http://gospeed.info:8080/52shor/24918s/293
+#EXTINF:-1 tvg-id="288" tvg-name="OSN:Animal HD" tvg-logo="http://speedimag.online/image/ch/OSN/Animal HD.png" group-title="OSN NETWORK HD", OSN:Animal HD
+http://gospeed.info:8080/52shor/24918s/288
+#EXTINF:-1 tvg-id="286" tvg-name="OSN:Discovery ID HD" tvg-logo="http://speedimag.online/image/ch/OSN/Discovery ID HD.png" group-title="OSN NETWORK HD", OSN:Discovery ID HD
+http://gospeed.info:8080/52shor/24918s/286
+#EXTINF:-1 tvg-id="287" tvg-name="OSN:Discovery HD" tvg-logo="http://speedimag.online/image/ch/OSN/Discovery HD.png" group-title="OSN NETWORK HD", OSN:Discovery HD
+http://gospeed.info:8080/52shor/24918s/287
+#EXTINF:-1 tvg-id="1555" tvg-name="Fr|France 5 HD" tvg-logo="http://vod-logo.net/photos/fd43bd9acb7065ac93e4f178b5a1668a.png" group-title="FRANCE CHANNELS", Fr|France 5 HD
+http://gospeed.info:8080/52shor/24918s/1555
+#EXTINF:-1 tvg-id="1554" tvg-name="Fr|France 4 HD" tvg-logo="http://vod-logo.net/photos/fd044e8ca10b5fd88db2dd2b04cb9cc2.png" group-title="FRANCE CHANNELS", Fr|France 4 HD
+http://gospeed.info:8080/52shor/24918s/1554
+#EXTINF:-1 tvg-id="1553" tvg-name="Fr|France 3 HD" tvg-logo="http://vod-logo.net/photos/b9f580a9f66e045c94268093f30a923c.png" group-title="FRANCE CHANNELS", Fr|France 3 HD
+http://gospeed.info:8080/52shor/24918s/1553
+#EXTINF:-1 tvg-id="1552" tvg-name="Fr|France 2 HD" tvg-logo="http://vod-logo.net/photos/40f2448bc7665981686952a1dab878cc.png" group-title="FRANCE CHANNELS", Fr|France 2 HD
+http://gospeed.info:8080/52shor/24918s/1552
+#EXTINF:-1 tvg-id="1551" tvg-name="Fr|France Info HD" tvg-logo="http://vod-logo.net/photos/7ca906934576f4d4ab2207b3c3e47625.png" group-title="FRANCE CHANNELS", Fr|France Info HD
+http://gospeed.info:8080/52shor/24918s/1551
+#EXTINF:-1 tvg-id="1550" tvg-name="Fr|France 24" tvg-logo="http://vod-logo.net/photos/f3af5ad282b0e8fe6a91ffcc57df5793.png" group-title="FRANCE CHANNELS", Fr|France 24
+http://gospeed.info:8080/52shor/24918s/1550
+#EXTINF:-1 tvg-id="1549" tvg-name="Fr|TV5 Monde" tvg-logo="http://vod-logo.net/photos/bf1f92ed8526c3a346f5e7305232e855.jpg" group-title="FRANCE CHANNELS", Fr|TV5 Monde
+http://gospeed.info:8080/52shor/24918s/1549
+#EXTINF:-1 tvg-id="1548" tvg-name="Fr|CNews HD" tvg-logo="http://vod-logo.net/photos/9a62c0a771b1c6b3297a12d9b857b265.png" group-title="FRANCE CHANNELS", Fr|CNews HD
+http://gospeed.info:8080/52shor/24918s/1548
+#EXTINF:-1 tvg-id="1566" tvg-name="Fr|Action HD" tvg-logo="http://vod-logo.net/photos/76773a1a6f003e2a22e1aaa160142675.jpg" group-title="FRANCE CHANNELS", Fr|Action HD
+http://gospeed.info:8080/52shor/24918s/1566
+#EXTINF:-1 tvg-id="1565" tvg-name="Fr|Canal+ Kids HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-kids-fr.png" group-title="FRANCE CHANNELS", Fr|Canal+ Kids HD
+http://gospeed.info:8080/52shor/24918s/1565
+#EXTINF:-1 tvg-id="1564" tvg-name="Fr|Canal+ Cinema HD" tvg-logo="http://vod-logo.net/photos/818e38516b729fb1040d01c0e03e6956.png" group-title="FRANCE CHANNELS", Fr|Canal+ Cinema HD
+http://gospeed.info:8080/52shor/24918s/1564
+#EXTINF:-1 tvg-id="1563" tvg-name="Fr|Canal+ Decale HD" tvg-logo="http://vod-logo.net/photos/0834e524354967059c1dca1b76861fbe.png" group-title="FRANCE CHANNELS", Fr|Canal+ Decale HD
+http://gospeed.info:8080/52shor/24918s/1563
+#EXTINF:-1 tvg-id="1562" tvg-name="Fr|Canal+ Family HD" tvg-logo="http://vod-logo.net/photos/aaecfd0e5903f0c9583360c2b82b7d09.png" group-title="FRANCE CHANNELS", Fr|Canal+ Family HD
+http://gospeed.info:8080/52shor/24918s/1562
+#EXTINF:-1 tvg-id="1561" tvg-name="Fr|Canal+ Series HD" tvg-logo="http://vod-logo.net/photos/69728b7afe0d6d400b5b7e70fced8442.png" group-title="FRANCE CHANNELS", Fr|Canal+ Series HD
+http://gospeed.info:8080/52shor/24918s/1561
+#EXTINF:-1 tvg-id="1560" tvg-name="Fr|Canal+ HD" tvg-logo="http://vod-logo.net/photos/335c707713ccfed9ba5f3ed5067df631.png" group-title="FRANCE CHANNELS", Fr|Canal+ HD
+http://gospeed.info:8080/52shor/24918s/1560
+#EXTINF:-1 tvg-id="1559" tvg-name="Fr|RTL 9 HD" tvg-logo="http://vod-logo.net/photos/3d85021a958c780f312e62fb074d91b8.jpg" group-title="FRANCE CHANNELS", Fr|RTL 9 HD
+http://gospeed.info:8080/52shor/24918s/1559
+#EXTINF:-1 tvg-id="1558" tvg-name="Fr|TFX HD" tvg-logo="http://vod-logo.net/photos/8ef770bf0978147be277103dfea060bd.png" group-title="FRANCE CHANNELS", Fr|TFX HD
+http://gospeed.info:8080/52shor/24918s/1558
+#EXTINF:-1 tvg-id="1557" tvg-name="Fr|Arte HD" tvg-logo="http://vod-logo.net/photos/1d0110ae5180d83105f9dc709f4d01c2.png" group-title="FRANCE CHANNELS", Fr|Arte HD
+http://gospeed.info:8080/52shor/24918s/1557
+#EXTINF:-1 tvg-id="1556" tvg-name="Fr|TF1 HD" tvg-logo="http://vod-logo.net/photos/f628476dee3db7b785c753efadb73d43.png" group-title="FRANCE CHANNELS", Fr|TF1 HD
+http://gospeed.info:8080/52shor/24918s/1556
+#EXTINF:-1 tvg-id="1602" tvg-name="Fr|W9 HD" tvg-logo="http://vod-logo.net/photos/189be1d27d84c06c92763e7e04ec61b8.png" group-title="FRANCE CHANNELS", Fr|W9 HD
+http://gospeed.info:8080/52shor/24918s/1602
+#EXTINF:-1 tvg-id="1601" tvg-name="Fr|6Ter HD" tvg-logo="http://vod-logo.net/photos/0f5de340bb55a26243544b3001560f0a.png" group-title="FRANCE CHANNELS", Fr|6Ter HD
+http://gospeed.info:8080/52shor/24918s/1601
+#EXTINF:-1 tvg-id="1600" tvg-name="Fr|AB1 HD" tvg-logo="http://vod-logo.net/photos/2fd6349be21a1c9d2a14e20516de4031.png" group-title="FRANCE CHANNELS", Fr|AB1 HD
+http://gospeed.info:8080/52shor/24918s/1600
+#EXTINF:-1 tvg-id="1599" tvg-name="Fr|RMC Story HD" tvg-logo="http://vod-logo.net/photos/d4955a05981f23d073b7effd2ff6116b.png" group-title="FRANCE CHANNELS", Fr|RMC Story HD
+http://gospeed.info:8080/52shor/24918s/1599
+#EXTINF:-1 tvg-id="1598" tvg-name="Fr|Boing HD" tvg-logo="http://vod-logo.net/photos/01567433cb2768862d6837d21e8f6bb0.jpg" group-title="FRANCE CHANNELS", Fr|Boing HD
+http://gospeed.info:8080/52shor/24918s/1598
+#EXTINF:-1 tvg-id="1597" tvg-name="Fr|AB3 HD" tvg-logo="http://vod-logo.net/photos/11b0239d304ae11c0e25adb92725aa06.png" group-title="FRANCE CHANNELS", Fr|AB3 HD
+http://gospeed.info:8080/52shor/24918s/1597
+#EXTINF:-1 tvg-id="1596" tvg-name="Fr|C8 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_8.png" group-title="FRANCE CHANNELS", Fr|C8 HD
+http://gospeed.info:8080/52shor/24918s/1596
+#EXTINF:-1 tvg-id="1595" tvg-name="Fr|SyFy HD" tvg-logo="http://www.vod-logo.net/photos/ab8409742e520ccde7dc2f2770eee888.jpg" group-title="FRANCE CHANNELS", Fr|SyFy HD
+http://gospeed.info:8080/52shor/24918s/1595
+#EXTINF:-1 tvg-id="1594" tvg-name="Fr|Trek HD" tvg-logo="http://vod-logo.net/photos/ed558e46e592982878a7dd1a2e64b6cf.png" group-title="FRANCE CHANNELS", Fr|Trek HD
+http://gospeed.info:8080/52shor/24918s/1594
+#EXTINF:-1 tvg-id="1593" tvg-name="Fr|Game One HD" tvg-logo="http://vod-logo.net/photos/daa49f1a5fd8e547014e8017337fbb4c.png" group-title="FRANCE CHANNELS", Fr|Game One HD
+http://gospeed.info:8080/52shor/24918s/1593
+#EXTINF:-1 tvg-id="1592" tvg-name="Fr|Gulli HD" tvg-logo="http://vod-logo.net/photos/dea63da4bb05a558ee22ededdabf43a9.png" group-title="FRANCE CHANNELS", Fr|Gulli HD
+http://gospeed.info:8080/52shor/24918s/1592
+#EXTINF:-1 tvg-id="1627" tvg-name="Fr|OCS Choc HD" tvg-logo="http://vod-logo.net/photos/5c3a61ef288837221ffaa9a22e6e3157.png" group-title="FRANCE CHANNELS", Fr|OCS Choc HD
+http://gospeed.info:8080/52shor/24918s/1627
+#EXTINF:-1 tvg-id="1626" tvg-name="Fr|OCS Geants HD" tvg-logo="http://vod-logo.net/photos/fae0229655eb525a00528611ed10418d.png" group-title="FRANCE CHANNELS", Fr|OCS Geants HD
+http://gospeed.info:8080/52shor/24918s/1626
+#EXTINF:-1 tvg-id="1625" tvg-name="Fr|OCS City HD" tvg-logo="http://vod-logo.net/photos/64dd073d4284621dbfe467fca8066511.png" group-title="FRANCE CHANNELS", Fr|OCS City HD
+http://gospeed.info:8080/52shor/24918s/1625
+#EXTINF:-1 tvg-id="1624" tvg-name="Fr|OCS Max HD" tvg-logo="http://vod-logo.net/photos/91435382438c855f7a1f9f404d16a6ee.png" group-title="FRANCE CHANNELS", Fr|OCS Max HD
+http://gospeed.info:8080/52shor/24918s/1624
+#EXTINF:-1 tvg-id="1623" tvg-name="Fr|13eme Rue HD" tvg-logo="http://vod-logo.net/photos/cc5850ee2863730d645016b90b24de59.png" group-title="FRANCE CHANNELS", Fr|13eme Rue HD
+http://gospeed.info:8080/52shor/24918s/1623
+#EXTINF:-1 tvg-id="1622" tvg-name="Fr|Ushuaia HD" tvg-logo="http://vod-logo.net/photos/a7639a2fe16ea29291d1f9e62ebe76dc.png" group-title="FRANCE CHANNELS", Fr|Ushuaia HD
+http://gospeed.info:8080/52shor/24918s/1622
+#EXTINF:-1 tvg-id="1621" tvg-name="Fr|Tiji HD" tvg-logo="http://vod-logo.net/photos/803a7c902d7a87e09bef1f7049108fa1.png" group-title="FRANCE CHANNELS", Fr|Tiji HD
+http://gospeed.info:8080/52shor/24918s/1621
+#EXTINF:-1 tvg-id="1653" tvg-name="Fr|Baby TV" tvg-logo="http://www.vod-logo.net/photos/704519ca93198af27fd8839eb729ad66.png" group-title="FRANCE CHANNELS", Fr|Baby TV
+http://gospeed.info:8080/52shor/24918s/1653
+#EXTINF:-1 tvg-id="1652" tvg-name="Fr|Nollywood TV" tvg-logo="http://vod-logo.net/photos/b3fd86f685178bf83f3c0874039e2798.png" group-title="FRANCE CHANNELS", Fr|Nollywood TV
+http://gospeed.info:8080/52shor/24918s/1652
+#EXTINF:-1 tvg-id="1651" tvg-name="Fr|MCM HD" tvg-logo="http://vod-logo.net/photos/2be11b1f40e3b9733c1e87749dbe3edd.png" group-title="FRANCE CHANNELS", Fr|MCM HD
+http://gospeed.info:8080/52shor/24918s/1651
+#EXTINF:-1 tvg-id="1650" tvg-name="Fr|A La Carte 5 HD" tvg-logo="http://vod-logo.net/photos/cb0b5277d6e4ea8e84472f762ce2ce58.png" group-title="FRANCE CHANNELS", Fr|A La Carte 5 HD
+http://gospeed.info:8080/52shor/24918s/1650
+#EXTINF:-1 tvg-id="1649" tvg-name="Fr|A La Carte 4 HD" tvg-logo="http://vod-logo.net/photos/891a968f439ab822471e5e8c403feba0.jpg" group-title="FRANCE CHANNELS", Fr|A La Carte 4 HD
+http://gospeed.info:8080/52shor/24918s/1649
+#EXTINF:-1 tvg-id="1648" tvg-name="Fr|A La Carte 3 HD" tvg-logo="http://vod-logo.net/photos/b4fdd58ae694c17518d6ded8316e9eba.jpg" group-title="FRANCE CHANNELS", Fr|A La Carte 3 HD
+http://gospeed.info:8080/52shor/24918s/1648
+#EXTINF:-1 tvg-id="1647" tvg-name="Fr|A La Carte 2 HD" tvg-logo="" group-title="FRANCE CHANNELS", Fr|A La Carte 2 HD
+http://gospeed.info:8080/52shor/24918s/1647
+#EXTINF:-1 tvg-id="1646" tvg-name="Fr|A La Carte 1 HD" tvg-logo="http://vod-logo.net/photos/8c1b3b0558875d09ef1a7bf005a153b8.jpg" group-title="FRANCE CHANNELS", Fr|A La Carte 1 HD
+http://gospeed.info:8080/52shor/24918s/1646
+#EXTINF:-1 tvg-id="1645" tvg-name="Fr|TVM 3 HD" tvg-logo="http://vod-logo.net/photos/4d2aef014c58dd6f045197096b3f172a.png" group-title="FRANCE CHANNELS", Fr|TVM 3 HD
+http://gospeed.info:8080/52shor/24918s/1645
+#EXTINF:-1 tvg-id="1644" tvg-name="Fr|RFM TV HD" tvg-logo="http://vod-logo.net/photos/b7331e66d30574a22b22ae7ed11ffa9d.png" group-title="FRANCE CHANNELS", Fr|RFM TV HD
+http://gospeed.info:8080/52shor/24918s/1644
+#EXTINF:-1 tvg-id="1643" tvg-name="Fr|LFM TV HD" tvg-logo="http://vod-logo.net/photos/7abad90fa5680dfef576af9baa28c5f3.png" group-title="FRANCE CHANNELS", Fr|LFM TV HD
+http://gospeed.info:8080/52shor/24918s/1643
+#EXTINF:-1 tvg-id="1642" tvg-name="Fr|NRJ Hits HD" tvg-logo="http://vod-logo.net/photos/4905a1dd783593c4c13f60e0c7175e9d.png" group-title="FRANCE CHANNELS", Fr|NRJ Hits HD
+http://gospeed.info:8080/52shor/24918s/1642
+#EXTINF:-1 tvg-id="1641" tvg-name="Fr|Luxe TV" tvg-logo="http://vod-logo.net/photos/b634a4594f529f9b303784de5641be1c.png" group-title="FRANCE CHANNELS", Fr|Luxe TV
+http://gospeed.info:8080/52shor/24918s/1641
+#EXTINF:-1 tvg-id="1640" tvg-name="Fr|Canal News HD" tvg-logo="http://vod-logo.net/photos/9a62c0a771b1c6b3297a12d9b857b265.png" group-title="FRANCE CHANNELS", Fr|Canal News HD
+http://gospeed.info:8080/52shor/24918s/1640
+#EXTINF:-1 tvg-id="1639" tvg-name="Fr|NRJ 12 FHD" tvg-logo="" group-title="FRANCE CHANNELS", Fr|NRJ 12 FHD
+http://gospeed.info:8080/52shor/24918s/1639
+#EXTINF:-1 tvg-id="1638" tvg-name="Fr|Warner HD" tvg-logo="http://vod-logo.net/photos/2e7a7316268b811da669445b51a628c2.png" group-title="FRANCE CHANNELS", Fr|Warner HD
+http://gospeed.info:8080/52shor/24918s/1638
+#EXTINF:-1 tvg-id="1637" tvg-name="Fr|Altice Studio HD" tvg-logo="http://vod-logo.net/photos/c19166c2680a58755e9d752d77fde666.png" group-title="FRANCE CHANNELS", Fr|Altice Studio HD
+http://gospeed.info:8080/52shor/24918s/1637
+#EXTINF:-1 tvg-id="1636" tvg-name="Fr|Serie Club HD" tvg-logo="http://vod-logo.net/photos/f4bd2d6abf4f2e1dd0654ee5b141ac50.png" group-title="FRANCE CHANNELS", Fr|Serie Club HD
+http://gospeed.info:8080/52shor/24918s/1636
+#EXTINF:-1 tvg-id="1635" tvg-name="Fr|Polar+ HD" tvg-logo="" group-title="FRANCE CHANNELS", Fr|Polar+ HD
+http://gospeed.info:8080/52shor/24918s/1635
+#EXTINF:-1 tvg-id="1634" tvg-name="Fr|Crime District HD" tvg-logo="http://vod-logo.net/photos/ae6354b59304ea5ca34482d5004415b0.png" group-title="FRANCE CHANNELS", Fr|Crime District HD
+http://gospeed.info:8080/52shor/24918s/1634
+#EXTINF:-1 tvg-id="1633" tvg-name="Fr|TCM Cinema HD" tvg-logo="http://vod-logo.net/photos/4b275155e4e147ef7d25971f7992fb25.png" group-title="FRANCE CHANNELS", Fr|TCM Cinema HD
+http://gospeed.info:8080/52shor/24918s/1633
+#EXTINF:-1 tvg-id="1632" tvg-name="Fr|Cine+ Polar HD" tvg-logo="http://vod-logo.net/photos/2e5a6dbb40841dd4ec0b7ebe0cbadfcf.png" group-title="FRANCE CHANNELS", Fr|Cine+ Polar HD
+http://gospeed.info:8080/52shor/24918s/1632
+#EXTINF:-1 tvg-id="1631" tvg-name="Fr|Cine+ Classic HD" tvg-logo="http://vod-logo.net/photos/a9a7489dd925d690a9b0cee905c43c60.png" group-title="FRANCE CHANNELS", Fr|Cine+ Classic HD
+http://gospeed.info:8080/52shor/24918s/1631
+#EXTINF:-1 tvg-id="1630" tvg-name="Fr|Cine+ Famiz HD" tvg-logo="http://vod-logo.net/photos/864423e4bd5b7eefa6888390fb6f9762.png" group-title="FRANCE CHANNELS", Fr|Cine+ Famiz HD
+http://gospeed.info:8080/52shor/24918s/1630
+#EXTINF:-1 tvg-id="1629" tvg-name="Fr|Cine+ Emotion HD" tvg-logo="http://vod-logo.net/photos/2d22d53abafdec09b0c274dc14de3040.png" group-title="FRANCE CHANNELS", Fr|Cine+ Emotion HD
+http://gospeed.info:8080/52shor/24918s/1629
+#EXTINF:-1 tvg-id="1628" tvg-name="Fr|Cine+ Premiere HD" tvg-logo="http://vod-logo.net/photos/4d021530a3deb81fec8d519556247b6c.png" group-title="FRANCE CHANNELS", Fr|Cine+ Premiere HD
+http://gospeed.info:8080/52shor/24918s/1628
+#EXTINF:-1 tvg-id="1620" tvg-name="Fr|Mangas HD" tvg-logo="http://vod-logo.net/photos/97f64d22b14ac92b842192a2193f70a9.png" group-title="FRANCE CHANNELS", Fr|Mangas HD
+http://gospeed.info:8080/52shor/24918s/1620
+#EXTINF:-1 tvg-id="1619" tvg-name="Fr|Disney Channel HD" tvg-logo="http://vod-logo.net/photos/34c8ce3d78f326780757d7dbbdaf5ffe.png" group-title="FRANCE CHANNELS", Fr|Disney Channel HD
+http://gospeed.info:8080/52shor/24918s/1619
+#EXTINF:-1 tvg-id="1618" tvg-name="Fr|Disney Junior HD" tvg-logo="http://vod-logo.net/photos/6d81c4632427d382a8d565ff880b0702.png" group-title="FRANCE CHANNELS", Fr|Disney Junior HD
+http://gospeed.info:8080/52shor/24918s/1618
+#EXTINF:-1 tvg-id="1617" tvg-name="Fr|Canal J HD" tvg-logo="http://vod-logo.net/photos/f351ff3762e6db6d2cb42b4840a30c2d.png" group-title="FRANCE CHANNELS", Fr|Canal J HD
+http://gospeed.info:8080/52shor/24918s/1617
+#EXTINF:-1 tvg-id="1616" tvg-name="Fr|Piwi+ HD" tvg-logo="http://vod-logo.net/photos/023973bad9515ad3a083ad3af382e9ef.png" group-title="FRANCE CHANNELS", Fr|Piwi+ HD
+http://gospeed.info:8080/52shor/24918s/1616
+#EXTINF:-1 tvg-id="1615" tvg-name="Fr|Nickelodeon 4 Teen HD" tvg-logo="http://vod-logo.net/photos/737e8a08aed38fac230eab96c89bf655.png" group-title="FRANCE CHANNELS", Fr|Nickelodeon 4 Teen HD
+http://gospeed.info:8080/52shor/24918s/1615
+#EXTINF:-1 tvg-id="1614" tvg-name="Fr|Nickelodeon HD" tvg-logo="http://vod-logo.net/photos/5288cd62482e906aa21ac0a4d204fd51.png" group-title="FRANCE CHANNELS", Fr|Nickelodeon HD
+http://gospeed.info:8080/52shor/24918s/1614
+#EXTINF:-1 tvg-id="1613" tvg-name="Fr|Planete+ HD" tvg-logo="http://vod-logo.net/photos/84b5054702588b41d129db07691b52c0.png" group-title="FRANCE CHANNELS", Fr|Planete+ HD
+http://gospeed.info:8080/52shor/24918s/1613
+#EXTINF:-1 tvg-id="1612" tvg-name="Fr|Boomerang HD" tvg-logo="http://vod-logo.net/photos/f7e269cc67956a2fbabae6a6ad73607e.png" group-title="FRANCE CHANNELS", Fr|Boomerang HD
+http://gospeed.info:8080/52shor/24918s/1612
+#EXTINF:-1 tvg-id="1611" tvg-name="Fr|Discovery Family HD" tvg-logo="http://vod-logo.net/photos/44df56fda7eb412cda0d388b46a904a1.png" group-title="FRANCE CHANNELS", Fr|Discovery Family HD
+http://gospeed.info:8080/52shor/24918s/1611
+#EXTINF:-1 tvg-id="1610" tvg-name="Fr|Discovery Science HD" tvg-logo="http://vod-logo.net/photos/730ae3b30f5c1d9e6b6443854f248015.png" group-title="FRANCE CHANNELS", Fr|Discovery Science HD
+http://gospeed.info:8080/52shor/24918s/1610
+#EXTINF:-1 tvg-id="1609" tvg-name="Fr|Discovery Channel HD" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" group-title="FRANCE CHANNELS", Fr|Discovery Channel HD
+http://gospeed.info:8080/52shor/24918s/1609
+#EXTINF:-1 tvg-id="1608" tvg-name="Fr|BFM Grand Lille" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/24/c8/a7/24c8a716-855d-b441-a1d4-44940c13f0e5/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="FRANCE CHANNELS", Fr|BFM Grand Lille
+http://gospeed.info:8080/52shor/24918s/1608
+#EXTINF:-1 tvg-id="1607" tvg-name="Fr|BFM Paris" tvg-logo="http://vod-logo.net/photos/5ba97dcb21090f29343a2dceef69d699.png" group-title="FRANCE CHANNELS", Fr|BFM Paris
+http://gospeed.info:8080/52shor/24918s/1607
+#EXTINF:-1 tvg-id="1606" tvg-name="Fr|BFM Business HD" tvg-logo="http://vod-logo.net/photos/371c1bd7f88b59f219840c4b15c0376c.png" group-title="FRANCE CHANNELS", Fr|BFM Business HD
+http://gospeed.info:8080/52shor/24918s/1606
+#EXTINF:-1 tvg-id="1605" tvg-name="Fr|BFM TV HD" tvg-logo="http://vod-logo.net/photos/c062e26d297820699d1327d3a2d7d869.png" group-title="FRANCE CHANNELS", Fr|BFM TV HD
+http://gospeed.info:8080/52shor/24918s/1605
+#EXTINF:-1 tvg-id="1604" tvg-name="Fr|Comedie+ HD" tvg-logo="http://vod-logo.net/photos/96eafb555c495d28cc521db21c03796a.png" group-title="FRANCE CHANNELS", Fr|Comedie+ HD
+http://gospeed.info:8080/52shor/24918s/1604
+#EXTINF:-1 tvg-id="1603" tvg-name="Fr|Cherie 25 HD" tvg-logo="http://vod-logo.net/photos/6caa85d90e75cdab4e2cc35e5c1ec47a.png" group-title="FRANCE CHANNELS", Fr|Cherie 25 HD
+http://gospeed.info:8080/52shor/24918s/1603
+#EXTINF:-1 tvg-id="1591" tvg-name="Fr|One TV HD" tvg-logo="http://vod-logo.net/photos/c655d2458ef33b941a561dd482af3cb1.png" group-title="FRANCE CHANNELS", Fr|One TV HD
+http://gospeed.info:8080/52shor/24918s/1591
+#EXTINF:-1 tvg-id="1590" tvg-name="Fr|LCP HD" tvg-logo="http://vod-logo.net/photos/4bd6b758f3220a1892d7c73d447dd3ca.png" group-title="FRANCE CHANNELS", Fr|LCP HD
+http://gospeed.info:8080/52shor/24918s/1590
+#EXTINF:-1 tvg-id="1589" tvg-name="Fr|M6 Music HD" tvg-logo="http://vod-logo.net/photos/3ce2ea2d6a5e7b83b30a96de701ac21f.png" group-title="FRANCE CHANNELS", Fr|M6 Music HD
+http://gospeed.info:8080/52shor/24918s/1589
+#EXTINF:-1 tvg-id="1588" tvg-name="Fr|NRJ 12 HD" tvg-logo="http://vod-logo.net/photos/59dde8f0abae4a4be923ef4cd6a70805.png" group-title="FRANCE CHANNELS", Fr|NRJ 12 HD
+http://gospeed.info:8080/52shor/24918s/1588
+#EXTINF:-1 tvg-id="1587" tvg-name="Fr|Paris Premiere HD" tvg-logo="http://vod-logo.net/photos/0903a11ba41263e18d2fc5089e857837.png" group-title="FRANCE CHANNELS", Fr|Paris Premiere HD
+http://gospeed.info:8080/52shor/24918s/1587
+#EXTINF:-1 tvg-id="1586" tvg-name="Fr|RMC Decouverte HD" tvg-logo="http://vod-logo.net/photos/57ff009838c1b0808b7c06c603c5d8c4.png" group-title="FRANCE CHANNELS", Fr|RMC Decouverte HD
+http://gospeed.info:8080/52shor/24918s/1586
+#EXTINF:-1 tvg-id="1585" tvg-name="Fr|Seasons HD" tvg-logo="http://vod-logo.net/photos/af000b831b0d878d3d7ee901d00f4479.png" group-title="FRANCE CHANNELS", Fr|Seasons HD
+http://gospeed.info:8080/52shor/24918s/1585
+#EXTINF:-1 tvg-id="1584" tvg-name="Fr|TV Breizh HD" tvg-logo="http://vod-logo.net/photos/b5c2f64c75f9a7487484ff56af0a3c4e.png" group-title="FRANCE CHANNELS", Fr|TV Breizh HD
+http://gospeed.info:8080/52shor/24918s/1584
+#EXTINF:-1 tvg-id="1583" tvg-name="Fr|Mezzo HD" tvg-logo="http://vod-logo.net/photos/c076a54dd3d39a4d2d43db1c9e32b36c.png" group-title="FRANCE CHANNELS", Fr|Mezzo HD
+http://gospeed.info:8080/52shor/24918s/1583
+#EXTINF:-1 tvg-id="1582" tvg-name="Fr|RTS Deux HD" tvg-logo="http://vod-logo.net/photos/4cf2b94513f92e85e18e63bf03bc90bb.png" group-title="FRANCE CHANNELS", Fr|RTS Deux HD
+http://gospeed.info:8080/52shor/24918s/1582
+#EXTINF:-1 tvg-id="1581" tvg-name="Fr|RTS Un HD" tvg-logo="http://vod-logo.net/photos/ce0e4ce20b81b654789eca2bca3640ed.png" group-title="FRANCE CHANNELS", Fr|RTS Un HD
+http://gospeed.info:8080/52shor/24918s/1581
+#EXTINF:-1 tvg-id="1580" tvg-name="Fr|Trace Urban HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace-ayiti-fr.png" group-title="FRANCE CHANNELS", Fr|Trace Urban HD
+http://gospeed.info:8080/52shor/24918s/1580
+#EXTINF:-1 tvg-id="1579" tvg-name="Fr|MTV Hits HD" tvg-logo="http://vod-logo.net/photos/350a55016f816febccc0d22debdba120.jpg" group-title="FRANCE CHANNELS", Fr|MTV Hits HD
+http://gospeed.info:8080/52shor/24918s/1579
+#EXTINF:-1 tvg-id="1578" tvg-name="Fr|MTV France HD" tvg-logo="http://vod-logo.net/photos/ce07a238b0b7bf56fe5932f13403fb9c.png" group-title="FRANCE CHANNELS", Fr|MTV France HD
+http://gospeed.info:8080/52shor/24918s/1578
+#EXTINF:-1 tvg-id="1577" tvg-name="Fr|MTV LIVE HD" tvg-logo="http://vod-logo.net/photos/f584f13983193380ddbc817a3fb0f945.png" group-title="FRANCE CHANNELS", Fr|MTV LIVE HD
+http://gospeed.info:8080/52shor/24918s/1577
+#EXTINF:-1 tvg-id="1576" tvg-name="Fr|MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTV_HD_Logo_2013.svg/1200px-MTV_HD_Logo_2013.svg.png" group-title="FRANCE CHANNELS", Fr|MTV HD
+http://gospeed.info:8080/52shor/24918s/1576
+#EXTINF:-1 tvg-id="1575" tvg-name="Fr|Canal 9 HD" tvg-logo="http://vod-logo.net/photos/a72f419fd864dfe746e45351f17aaa7b.png" group-title="FRANCE CHANNELS", Fr|Canal 9 HD
+http://gospeed.info:8080/52shor/24918s/1575
+#EXTINF:-1 tvg-id="1574" tvg-name="Fr|Canal 8 HD" tvg-logo="http://vod-logo.net/photos/ffb8b923ba644e54621f8de22293abc4.png" group-title="FRANCE CHANNELS", Fr|Canal 8 HD
+http://gospeed.info:8080/52shor/24918s/1574
+#EXTINF:-1 tvg-id="1573" tvg-name="Fr|CanalPlay 10 HD" tvg-logo="http://vod-logo.net/photos/ba51a179a023b1681f956dfba6836e44.png" group-title="FRANCE CHANNELS", Fr|CanalPlay 10 HD
+http://gospeed.info:8080/52shor/24918s/1573
+#EXTINF:-1 tvg-id="1572" tvg-name="Fr|CanalPlay 9 HD" tvg-logo="http://vod-logo.net/photos/ba51a179a023b1681f956dfba6836e44.png" group-title="FRANCE CHANNELS", Fr|CanalPlay 9 HD
+http://gospeed.info:8080/52shor/24918s/1572
+#EXTINF:-1 tvg-id="1571" tvg-name="Fr|CanalPlay 5 HD" tvg-logo="http://vod-logo.net/photos/ba51a179a023b1681f956dfba6836e44.png" group-title="FRANCE CHANNELS", Fr|CanalPlay 5 HD
+http://gospeed.info:8080/52shor/24918s/1571
+#EXTINF:-1 tvg-id="1570" tvg-name="Fr|CanalPlay 4 HD" tvg-logo="http://vod-logo.net/photos/ba51a179a023b1681f956dfba6836e44.png" group-title="FRANCE CHANNELS", Fr|CanalPlay 4 HD
+http://gospeed.info:8080/52shor/24918s/1570
+#EXTINF:-1 tvg-id="1569" tvg-name="Fr|CanalPlay 3 HD" tvg-logo="http://vod-logo.net/photos/ba51a179a023b1681f956dfba6836e44.png" group-title="FRANCE CHANNELS", Fr|CanalPlay 3 HD
+http://gospeed.info:8080/52shor/24918s/1569
+#EXTINF:-1 tvg-id="1568" tvg-name="Fr|CanalPlay 2 HD" tvg-logo="http://vod-logo.net/photos/b963080e0212edfcdbc8e2c5c0e592b3.png" group-title="FRANCE CHANNELS", Fr|CanalPlay 2 HD
+http://gospeed.info:8080/52shor/24918s/1568
+#EXTINF:-1 tvg-id="1567" tvg-name="Fr|CanalPlay 1 HD" tvg-logo="http://vod-logo.net/photos/ba51a179a023b1681f956dfba6836e44.png" group-title="FRANCE CHANNELS", Fr|CanalPlay 1 HD
+http://gospeed.info:8080/52shor/24918s/1567
