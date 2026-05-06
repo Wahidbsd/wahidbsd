@@ -76,3 +76,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 #EXTINF:-1 tvg-name="sta Lion" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="Lion",Lion
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/lionstatic.m3u
 
+# ====================== Lion greek ======================
+#EXTINF:-1 tvg-name="lion greeek" tvg-logo="https://ferrot.org/ferrot.png" group-title="lion greek", lion greek
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/lionfrance%20greek.m3u
