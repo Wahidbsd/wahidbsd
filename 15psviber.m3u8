@@ -849,3 +849,109 @@ http://ps.vibertv.cyou:8080/live/15/15/402132.m3u8
 http://ps.vibertv.cyou:8080/live/15/15/402137.m3u8
 #EXTINF:-1 group-title="FR | FRANCE TV",FR: CHASSE PECHE HD
 http://ps.vibertv.cyou:8080/live/
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: DISCOVERY CHANNEL HD
+http://ps.vibertv.cyou:8080/live/15/15/401716.m3u8
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: DISCOVERY INVESTIGATION HD
+http://ps.vibertv.cyou:8080/live/15/15/401715.m3u8
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: DISCOVERY SCIENCE HD
+http://ps.vibertv.cyou:8080/live/15/15/401714.m3u8
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: NAT GEO HD
+http://ps.vibertv.cyou:8080/live/15/15/401717.m3u8
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: NAT GEO WILD HD
+http://ps.vibertv.cyou:8080/live/15/15/401718.m3u8
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: PLANETE+ A&E HD
+http://ps.vibertv.cyou:8080/live/15/15/401721.m3u8
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: PLANETE+ CI HD
+http://ps.vibertv.cyou:8080/live/15/15/401720.m3u8
+#EXTINF:-1 group-title="FR | DOUCMENTARY TV",FR: PLANETE+ HD
+http://ps.vibertv.cyou:8080/live/15/15/401719.m3u8
+
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: 13eme RUE FHD
+http://ps.vibertv.cyou:8080/live/15/15/401656.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: AB 1 FHD
+http://ps.vibertv.cyou:8080/live/15/15/401655.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Action FHD
+http://ps.vibertv.cyou:8080/live/15/15/401654.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Ciné+ Classic FHD
+http://ps.vibertv.cyou:8080/live/15/15/401653.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Ciné+ Club FHD
+http://ps.vibertv.cyou:8080/live/15/15/401652.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Ciné+ Emotion FHD
+http://ps.vibertv.cyou:8080/live/15/15/401651.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Ciné+ Famiz FHD
+http://ps.vibertv.cyou:8080/live/15/15/401650.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Comedie+ FHD
+http://ps.vibertv.cyou:8080/live/15/15/401649.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Comedy Central FHD
+http://ps.vibertv.cyou:8080/live/15/15/401648.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Crime District FHD
+http://ps.vibertv.cyou:8080/live/15/15/401647.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: SYFY FHD
+http://ps.vibertv.cyou:8080/live/15/15/401642.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Série Club FHD
+http://ps.vibertv.cyou:8080/live/15/15/401641.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: TCM Cinéma FHD
+http://ps.vibertv.cyou:8080/live/15/15/401640.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: TLC
+http://ps.vibertv.cyou:8080/live/15/15/401639.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Warner TV FHD
+http://ps.vibertv.cyou:8080/live/15/15/401638.m3u8
+#EXTINF:-1 group-title="FR | CINEMA VIP",VIP FR: Warner TV Next FHD
+http://ps.vibertv.cyou:8080/live/15/15/401637.m3u8
+
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 1 4K
+http://ps.vibertv.cyou:8080/live/15/15/402052.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 1 FHD ACCESS
+http://ps.vibertv.cyou:8080/live/15/15/402037.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 1 HD
+http://ps.vibertv.cyou:8080/live/15/15/402051.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 1 HD+
+http://ps.vibertv.cyou:8080/live/15/15/402053.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 1 SD
+http://ps.vibertv.cyou:8080/live/15/15/402050.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 2 4K
+http://ps.vibertv.cyou:8080/live/15/15/402049.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 2 FHD
+http://ps.vibertv.cyou:8080/live/15/15/402044.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 2 HD
+http://ps.vibertv.cyou:8080/live/15/15/402046.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 2 HD+
+http://ps.vibertv.cyou:8080/live/15/15/402047.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 2 SD
+http://ps.vibertv.cyou:8080/live/15/15/402045.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 3 4K
+http://ps.vibertv.cyou:8080/live/15/15/402042.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 3 HD
+http://ps.vibertv.cyou:8080/live/15/15/402041.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 3 SD
+http://ps.vibertv.cyou:8080/live/15/15/402040.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 4 4K
+http://ps.vibertv.cyou:8080/live/15/15/402038.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 4 HD
+http://ps.vibertv.cyou:8080/live/15/15/402036.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT 4 SD
+http://ps.vibertv.cyou:8080/live/15/15/402035.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 1 HD
+http://ps.vibertv.cyou:8080/live/15/15/402054.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 2 HD
+http://ps.vibertv.cyou:8080/live/15/15/402048.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 3 HD
+http://ps.vibertv.cyou:8080/live/15/15/402043.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 4 HD
+http://ps.vibertv.cyou:8080/live/15/15/402039.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 5 4K
+http://ps.vibertv.cyou:8080/live/15/15/402034.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 6 4K
+http://ps.vibertv.cyou:8080/live/15/15/402033.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 7 4K
+http://ps.vibertv.cyou:8080/live/15/15/402032.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 8 4K
+http://ps.vibertv.cyou:8080/live/15/15/402031.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 9 4K
+http://ps.vibertv.cyou:8080/live/15/15/402030.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 10 4K
+http://ps.vibertv.cyou:8080/live/15/15/402029.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 11 4K
+http://ps.vibertv.cyou:8080/live/15/15/402028.m3u8
+#EXTINF:-1 group-title="FR | RMC SPORT⚽UHD",FR: RMC SPORT LIVE 12 4K
+http://ps.vibertv.cyou:8080/live/15/15/402027.m3u8
