@@ -84,6 +84,9 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20
 #EXTINF:-1 tvg-name="VIBER 15" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="VIBER",VIBER ps
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/15psviber.m3u8
 
+# ====================== ضوئي ======================
+#EXTINF:-1 tvg-name="iraqibeiin " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="iraqibein",Iraqibein
+https://raw.githubusercontent.com/mazenghannam16/my-iptv-lists/361d6336317b9c6c8e81087531693964fbc8fd8f/beiniraq.m3u
 
 
 
