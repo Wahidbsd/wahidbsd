@@ -48,16 +48,8 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
 #EXTINF:-1 tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="Entertainment",Nova Channels
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
-# ====================== KURDISH ======================
-#EXTINF:-1 tvg-name="Kurdish Channels" tvg-logo="http://widget.ottplayer.tv/upictures/61616ea5-eac2-4154-99fa-7813ceea55da.png" group-title="Kurdish",Kurdish Channels
-https://raw.githubusercontent.com/6ebeng/Kurdish-Playlist-IPTV-M3U/main/from_json.m3u
-
 # ====================== FOOT ======================
 #EXTINF:-1 tvg-name="Football Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Sports",Football Channels
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bagdad1.m3u
-
-# ====================== D/FURAT ======================
-#EXTINF:-1 tvg-name="Dejla & Furat" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Arabic",Dejla & Furat
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bagdad1.m3u
 
 # ====================== Cobay ======================
@@ -79,10 +71,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9P
 # ====================== ibo nesus ======================
 #EXTINF:-1 tvg-name="ibo nexus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="ibo",ibo neUs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
-
-# ====================== Viber 15 ======================
-#EXTINF:-1 tvg-name="VIBER 15" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="VIBER",VIBER ps
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/15psviber.m3u8
 
 # ====================== ضوئي ======================
 #EXTINF:-1 tvg-name="iraqibeiin " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="iraqibein",Iraqibein
