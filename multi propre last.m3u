@@ -28,9 +28,9 @@ https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
 https://raw.githubusercontent.com/Wahidbsd/usmh/Main/MAGRVJFSLF_dgRM2q.m3u
 
-# ====================== SAJED ======================
-#EXTINF:-1 tvg-name="Sajed TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="General",Sajed TV
-https://raw.githubusercontent.com/sager002/tv/main/channels.m3u
+# ====================== Mizoux ======================
+#EXTINF:-1 tvg-name="mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="mizoux",mizoux TV
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
 
 # ====================== FAJR ======================
 #EXTINF:-1 tvg-name="Fajr Sports" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Sports",Fajr Sports
