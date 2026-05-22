@@ -1,35 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="beIN Sports 1" group-title="BEIN SPORTS",beIN Sports 1
+
+#EXTINF:-1 tvg-id="1" tvg-name="beIN Sports 1" group-title="IPTV CHANNELS",beIN Sports 1
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="beIN Sports 2" group-title="BEIN SPORTS",beIN Sports 2
+#EXTINF:-1 tvg-id="2" tvg-name="beIN Sports 2" group-title="IPTV CHANNELS",beIN Sports 2
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein2.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="beIN Sports 3" group-title="BEIN SPORTS",beIN Sports 3
+#EXTINF:-1 tvg-id="3" tvg-name="beIN Sports 3" group-title="IPTV CHANNELS",beIN Sports 3
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein3.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="beIN Sports 4" group-title="BEIN SPORTS",beIN Sports 4
+#EXTINF:-1 tvg-id="4" tvg-name="beIN Sports 4" group-title="IPTV CHANNELS",beIN Sports 4
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein4.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="beIN Sports 5" group-title="BEIN SPORTS",beIN Sports 5
+#EXTINF:-1 tvg-id="5" tvg-name="beIN Sports 5" group-title="IPTV CHANNELS",beIN Sports 5
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein5.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="beIN Sports 6" group-title="BEIN SPORTS",beIN Sports 6
+#EXTINF:-1 tvg-id="6" tvg-name="beIN Sports 6" group-title="IPTV CHANNELS",beIN Sports 6
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein6.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="beIN Sports 7" group-title="BEIN SPORTS",beIN Sports 7
+#EXTINF:-1 tvg-id="7" tvg-name="beIN Sports 7" group-title="IPTV CHANNELS",beIN Sports 7
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein7.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="beIN Sports 8" group-title="BEIN SPORTS",beIN Sports 8
+#EXTINF:-1 tvg-id="8" tvg-name="beIN Sports 8" group-title="IPTV CHANNELS",beIN Sports 8
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein8.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="beIN Sports 9" group-title="BEIN SPORTS",beIN Sports 9
+#EXTINF:-1 tvg-id="9" tvg-name="beIN Sports 9" group-title="IPTV CHANNELS",beIN Sports 9
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein9.m3u8
-EXTINF:-1 tvg-id="9" tvg-name="wahid Sports 2" group-title="Wahid SPORTS",alwan wahid 2
+#EXTINF:-1 tvg-id="2" tvg-name="Wahid Sports 2" group-title="IPTV CHANNELS",Wahid Sports 2
 https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="ALWAN 3" group-title="ALWAN",ALWAN 3
+#EXTINF:-1 tvg-id="3" tvg-name="ALWAN 3" group-title="IPTV CHANNELS",ALWAN 3
 https://stream.camcloud.stream/stream/456de69d002b/playlist.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="ALWAN 4" group-title="ALWAN",ALWAN 4
+#EXTINF:-1 tvg-id="4" tvg-name="ALWAN 4" group-title="IPTV CHANNELS",ALWAN 4
 https://stream.camcloud.stream/stream/fd1979023964/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="ALWAN 5" group-title="ALWAN",ALWAN 5
+#EXTINF:-1 tvg-id="5" tvg-name="ALWAN 5" group-title="IPTV CHANNELS",ALWAN 5
 https://stream.camcloud.stream/stream/6478d42a682b/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="ALWAN 6" group-title="ALWAN",ALWAN 6
+#EXTINF:-1 tvg-id="6" tvg-name="ALWAN 6" group-title="IPTV CHANNELS",ALWAN 6
 https://stream.camcloud.stream/stream/4daee3f6e9e7/playlist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="ALWAN 7" group-title="ALWAN",ALWAN 7
+#EXTINF:-1 tvg-id="7" tvg-name="ALWAN 7" group-title="IPTV CHANNELS",ALWAN 7
 https://stream.camcloud.stream/stream/c28b01f8c96e/playlist.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="ALWAN 8" group-title="ALWAN",ALWAN 8
+#EXTINF:-1 tvg-id="8" tvg-name="ALWAN 8" group-title="IPTV CHANNELS",ALWAN 8
 https://stream.camcloud.stream/stream/c28b01f8c96e/playlist.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="ALWAN 9" group-title="ALWAN",ALWAN 9
+#EXTINF:-1 tvg-id="9" tvg-name="ALWAN 9" group-title="IPTV CHANNELS",ALWAN 9
 https://stream.camcloud.stream/stream/bb7d90bf39d8/playlist.m3u8
