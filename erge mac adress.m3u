@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ CANAL+ DOCS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941630&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ CANAL+ DOCS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941631&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ CRIME DISTRICT FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941628&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ CRIME DISTRICT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941629&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NATIONAL GEO FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941638&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NATIONAL GEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941639&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NATIONAL GEO
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941640&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NAT GEO WILD FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941641&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941642&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NAT GEO WILD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941643&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941633&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941632&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY ID FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941636&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ DISCOVERY ID HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941637&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ HISTOIRE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941644&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ HISTOIRE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941645&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ HISTOIRE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941646&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TOUTE L'HISTOIRE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941647&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TOUTE L HISTOIRE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941648&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TOUTE L'HISTOIRE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941649&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TLC FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941635&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TLC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941634&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TREK FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941658&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TREK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941659&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TREK
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941660&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941650&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941651&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941652&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ CRIME FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941655&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ CRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941656&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ CRIME
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941657&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ AVENTURE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941653&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ PLANETE+ AVENTURE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941654&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ SCIENCE & VIE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941664&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ SCIENCE & VIE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941665&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ SCIENCE & VIE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941666&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ RMC DECOUVERTE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941667&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ RMC DECOUVERTE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941668&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ RMC DECOUVERTE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941669&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ SEASONS FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941661&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ SEASONS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941662&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ SEASONS
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941663&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ USHUAIA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941670&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ USHUAIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941671&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ USHUAIA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941672&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ ANIMAUX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941673&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ ANIMAUX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941674&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ ANIMAUX
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941675&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ CHASSE & PECHE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941676&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ CHASSE & PECHE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941677&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ CHASSE & PECHE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941678&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ MUSEUM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941679&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ MUSEUM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941680&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ MUSEUM
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941681&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NAUTICAL CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941686&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ NAUTICAL CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941687&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ TV8 MONT-BLANC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941688&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ MY ZEN TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941682&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ MY ZEN NATURE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941684&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ MY ZEN NATURE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941685&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ DOCUMENTAIRES",┃FR┃ MY ZEN NATURE
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=941683&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936869&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936870&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936871&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936874&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936875&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936876&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936877&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936878&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936879&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936872&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936873&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ GRAND ECRAN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936880&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CANAL+ GRAND ECRAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936881&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ ACTION FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936882&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936884&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936883&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CINE+ PREMIER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936885&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CINE+ Club HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936886&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CINE+ Famiz HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936887&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CINE+ Emotion HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936888&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CINE+ Frisson HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936889&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ CINE+ Classic HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936890&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936891&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936892&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936893&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT DECALE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936894&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT DECALE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936895&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ TCM CINEMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936896&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ TCM CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936897&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃FR┃ MY CANAL+",┃FR┃ TCM CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=936898&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",☰☰☰☰☰ BEIN SPORTS MAX RAW ☰☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734315&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 1 AR RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734316&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 2 AR RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734317&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 3 EN RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734318&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 4 EN RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734319&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 5 FR RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734320&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 6 FR RAW
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734321&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",☰☰☰☰☰ BEIN SPORTS MAX HEVC ☰☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734308&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 1 AR HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734309&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 2 AR HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734310&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 3 EN HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734311&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 4 EN HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734312&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 5 FR HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734313&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 6 FR HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734314&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",☰☰☰☰☰ BEIN SPORTS MAX HD ☰☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734294&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 1 AR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734295&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 2 AR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734296&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 3 EN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734297&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 4 EN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734298&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 5 FR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734299&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 6 FR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734300&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",☰☰☰☰☰ BEIN SPORTS MAX SD ☰☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734301&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 1 AR SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734302&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 2 AR SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734303&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 3 EN SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734304&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 4 EN SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734305&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 5 FR SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734306&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS MAX 8K",┃AR┃ BEIN SPORTS MAX 6 FR SD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=1734307&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN STAR LIFE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368989&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN MOVIES PREMIERE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=369003&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN MOVIES ACTION 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=369002&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN MOVIES DRAMA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=369001&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN MOVIES 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=369000&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN SERIES 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368999&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN SERIES 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368998&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN DRAMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368997&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN GOURMET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368996&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN ENTERTAINMENT | بين الترفيهية",┃AR┃ BEIN FATAFEAT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=368995&extension=ts
+#EXTM3U
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS NEWS 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242288&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS NEWS 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985126&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS GLOBAL 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242287&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS GLOBAL 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985125&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 1 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242268&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 1 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985127&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 1 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985136&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 2 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242267&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 2 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985128&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 2 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985137&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 3 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242266&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 3 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985129&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 3 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985138&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 4 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242265&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 4 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985130&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 4 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985139&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 5 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242264&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 5 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985131&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 5 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985140&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 6 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242263&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 6 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985132&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 6 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985141&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 7 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242262&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 7 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985133&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 7 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985142&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 8 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242261&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 8 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985134&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 8 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985143&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 9 4K S1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242260&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 9 4K S2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985135&extension=ts
+#EXTINF:-1 group-title="LIVE | ┃AR┃ BEIN SPORTS 4K",┃AR┃ BEIN SPORTS 9 4K S3
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=985144&extension=ts
