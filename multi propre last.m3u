@@ -48,3 +48,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20
 #EXTINF:-1 tvg-name="CDP " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="c2m",C2M
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m3u
 
+# ====================== Pronetmos ======================
+#EXTINF:-1 tvg-name="pronetmos" tvg-logo="https://ferrot.org/ferrot.png" group-title="Pronetmos",PRONETMOS
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
+
