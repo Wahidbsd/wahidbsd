@@ -52,3 +52,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m
 #EXTINF:-1 tvg-name="pronetmos" tvg-logo="https://ferrot.org/ferrot.png" group-title="Pronetmos",PRONETMOS
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
 
+# ====================== correstallmax ======================
+#EXTINF:-1 tvg-name="correstallmax" tvg-logo="https://ferrot.org/ferrot.png" group-title="correstallmax",correstallmax
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/correstallmax.m3u
