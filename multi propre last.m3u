@@ -55,3 +55,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
 # ====================== correstallmax ======================
 #EXTINF:-1 tvg-name="correstallmax" tvg-logo="https://ferrot.org/ferrot.png" group-title="correstallmax",correstallmax
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/correstallmax.m3u
+
+# ====================== dult ======================
+#EXTINF:-1 tvg-name="dult 8K" tvg-logo="https://ferrot.org/ferrot.png" group-title="dlt",DULT
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
