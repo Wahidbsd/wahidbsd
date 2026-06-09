@@ -67,3 +67,7 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3
 # ====================== 2028 ======================
 #EXTINF:-1 tvg-name="2028 S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="2028",2028 w
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
+
+# ====================== Atar ======================
+#EXTINF:-1 tvg-name="atar " tvg-logo="https://ferrot.org/ferrot.png" group-title="atar",ataKr
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/atar%20%D8%A7%D8%B9%D9%84%D9%89.m3u
