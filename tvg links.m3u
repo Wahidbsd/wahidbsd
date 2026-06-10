@@ -105,5 +105,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/correstallma
 #EXTINF:-1 tvg-name="📺 Drogba" tvg-logo="https://ferrot.org/ferrot.png" group-title="🌍 GENERAL | drogba",drogba
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/maxfff.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="الجزائر" tvg-logo="https://k.top4top.io/p_37958uw6q1.png ",siksa
+# ====================== siks ======================
+#EXTINF:-1 tvg-name="siska TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="sinsa",siksa 
 https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
