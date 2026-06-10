@@ -76,4 +76,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/atar%20%D8%A
 #EXTINF:-1 tvg-name="megastr" tvg-logo="https://ferrot.org/ferrot.png" group-title="megastar",megqtr
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/megastar06%20la%20fin.m3u
 
-
+# ====================== linimko ======================
+#EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
