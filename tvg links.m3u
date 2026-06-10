@@ -97,3 +97,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
 
 #EXTINF:-1 tvg-name="📺 correstallmax" tvg-logo="https://ferrot.org/ferrot.png" group-title="🌍 GENERAL | CORRESTALLMAX",correstallmax
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/correstallmax.m3u
+
+# ============================================================
+# ====================== drogba ======================
+# ============================================================
+
+#EXTINF:-1 tvg-name="📺 Drogba" tvg-logo="https://ferrot.org/ferrot.png" group-title="🌍 GENERAL | drogba",drogba
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/maxfff.m3u
