@@ -8,7 +8,7 @@ https://match-now.live/
 # https://downloadercodes.com/
 # https://ssyt.rip/ar/
 http://xlion.net:8080/get.php?username=d8:e0:e1:c0:78:53&password=391844836198&type=m3u_plus&output=m3u8
-# https://go.aftvnews.com/2334
+# https://go.aftvnews.com/
 # https://cloudstreamrepo.com/
 # https://www.rawabit.site/?match=4452831
 # https://mizoux444.vercel.app/
