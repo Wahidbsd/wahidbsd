@@ -79,3 +79,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/megastar06%2
 # ====================== linimko ======================
 #EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
+
+====================== NSRN ======================
+#EXTINF:-1 tvg-name="nsrn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="nsrn",Nsrn
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/tiny.m3u
