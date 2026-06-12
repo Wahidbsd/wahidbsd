@@ -429,3 +429,384 @@ http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204368.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| AB3 HD" tvg-logo="http://saison2014-2015.ab3.be/gfx/intro/ab3.png" group-title="FRANCE Tv",|FR| AB3 HD
 http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204366.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| ACTION HD" tvg-logo="https://i1.wp.com/www.plane
+
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LCI HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lci-fr.svg" group-title="FRANCE Tv",|FR| LCI HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/382108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 13EME RUE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/239px-Logo_13e_Rue_%282017%29.svg.png" group-title="FRANCE Tv",|FR| 13EME RUE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| 6TER HD" tvg-logo="https://cdn2.nextinpact.com/images/bd/news/124355.png" group-title="FRANCE Tv",|FR| 6TER HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB1 FHD" tvg-logo="http://www.le-direct.com/images/logo/logo-ab1.jpg" group-title="FRANCE Tv",|FR| AB1 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB1 HD" tvg-logo="http://www.le-direct.com/images/logo/logo-ab1.jpg" group-title="FRANCE Tv",|FR| AB1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB3 HD" tvg-logo="http://saison2014-2015.ab3.be/gfx/intro/ab3.png" group-title="FRANCE Tv",|FR| AB3 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ACTION HD" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2014/09/action1.png?resize=678%2C381&ssl=1" group-title="FRANCE Tv",|FR| ACTION HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ANIMAUX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/langfr-2880px-Logo-Animaux-2017.svg.png" group-title="FRANCE Tv",|FR| ANIMAUX HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ARTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/langfr-800px-Arte_Logo_2017.svg.png" group-title="FRANCE Tv",|FR| ARTE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AUTO MOTO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/AB_Moteurs_%282012%29.png" group-title="FRANCE Tv",|FR| AUTO MOTO HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 10 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD10.png" group-title="FRANCE Tv",|FR| BEIN MAX 10 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 4 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD4.png" group-title="FRANCE Tv",|FR| BEIN MAX 4 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 5 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD5.png" group-title="FRANCE Tv",|FR| BEIN MAX 5 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 6 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD6.png" group-title="FRANCE Tv",|FR| BEIN MAX 6 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 7 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD7.png" group-title="FRANCE Tv",|FR| BEIN MAX 7 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 8 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD8.png" group-title="FRANCE Tv",|FR| BEIN MAX 8 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 9 HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2016/09/beINSPORTSMAXHD9.png" group-title="FRANCE Tv",|FR| BEIN MAX 9 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="FRANCE Tv",|FR| BEIN SPORTS 1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Logo_beIN_SPORTS_2.png/1200px-Logo_beIN_SPORTS_2.png" group-title="FRANCE Tv",|FR| BEIN SPORTS 2 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="FRANCE Tv",|FR| BEIN SPORTS 3 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/640px-BET_Logo.svg.png" group-title="FRANCE Tv",|FR| BET HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_%282016%29.png" group-title="FRANCE Tv",|FR| BFM TV HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOING FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Boing2016.png/240px-Boing2016.png" group-title="FRANCE Tv",|FR| BOING FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOING HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/Boing2016.png/240px-Boing2016.png" group-title="FRANCE Tv",|FR| BOING HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="FRANCE Tv",|FR| BOOMERANG HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| C8 HD" tvg-logo="http://www.gentv.be/logos/c8.png" group-title="FRANCE Tv",|FR| C8 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL CINEMA FIHD" tvg-logo="" group-title="FRANCE Tv",|FR| CANAL CINEMA FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL J HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Canal_J_logo_2015.png" group-title="FRANCE Tv",|FR| CANAL J HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL SERIES FIHD" tvg-logo="" group-title="FRANCE Tv",|FR| CANAL SERIES FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL SPORT FIHD" tvg-logo="" group-title="FRANCE Tv",|FR| CANAL SPORT FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/240px-Canal%2B_Sport_%282013%29.svg.png" group-title="FRANCE Tv",|FR| CANAL+  SPORT HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Canal%2B_Cin%C3%A9ma_HD_2013.svg/240px-Canal%2B_Cin%C3%A9ma_HD_2013.svg.png" group-title="FRANCE Tv",|FR| CANAL+ CINEMA HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FlHD" tvg-logo="" group-title="FRANCE Tv",|FR| CANAL+ FlHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1200px-Canal%2B.svg.png" group-title="FRANCE Tv",|FR| CANAL+ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-240px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE Tv",|FR| CANAL+ SERIE
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-240px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE Tv",|FR| CANAL+ SERIES HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CARTOON NETWORK FHD." tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/cartoon-network-post1.jpg" group-title="FRANCE Tv",|FR| CARTOON NETWORK FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CARTOON NETWORK HD" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/cartoon-network-post1.jpg" group-title="FRANCE Tv",|FR| CARTOON NETWORK HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/langfr-2880px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="FRANCE Tv",|FR| CHASSE ET PECHE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHERIE25 HD" tvg-logo="http://adamis-prod.com/wp-content/uploads/2015/09/cherie25.png" group-title="FRANCE Tv",|FR| CHERIE25 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE CLASSIC HD" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-classic.png" group-title="FRANCE Tv",|FR| CINE CLASSIC HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  EMOTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1280px-CinePlusEmotion.svg.png" group-title="FRANCE Tv",|FR| CINE+  EMOTION HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  FAMIZ HD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/401.png" group-title="FRANCE Tv",|FR| CINE+  FAMIZ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  FRISSON HD" tvg-logo="https://static.myfree-tivi.com/thumbs/afcec23d92437ec0e5cc1049763bdebf604799c1.png" group-title="FRANCE Tv",|FR| CINE+  FRISSON HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  PREMIER" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusPremier-1.png" group-title="FRANCE Tv",|FR| CINE+  PREMIER
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  PREMIER HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusPremier-1.png" group-title="FRANCE Tv",|FR| CINE+  PREMIER HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLASSIC FIHD" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-classic.png" group-title="FRANCE Tv",|FR| CINE+ CLASSIC FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLUB FIHD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusClub-1.png" group-title="FRANCE Tv",|FR| CINE+ CLUB FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusClub-1.png" group-title="FRANCE Tv",|FR| CINE+ CLUB HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ EMOTION FIHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1280px-CinePlusEmotion.svg.png" group-title="FRANCE Tv",|FR| CINE+ EMOTION FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FAMIZ FIHD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/401.png" group-title="FRANCE Tv",|FR| CINE+ FAMIZ FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FRISSON FIHD" tvg-logo="https://static.myfree-tivi.com/thumbs/afcec23d92437ec0e5cc1049763bdebf604799c1.png" group-title="FRANCE Tv",|FR| CINE+ FRISSON FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ POLAR FIHD" tvg-logo="" group-title="FRANCE Tv",|FR| CINE+ POLAR FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ PREMIER FIHD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusPremier-1.png" group-title="FRANCE Tv",|FR| CINE+ PREMIER FIHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CNEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1280px-Canal_News_logo.svg.png" group-title="FRANCE Tv",|FR| CNEWS FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE+ FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/1200px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="FRANCE Tv",|FR| COMEDIE+ FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/1200px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="FRANCE Tv",|FR| COMEDIE+ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Crime_district.jpg" group-title="FRANCE Tv",|FR| CRIME DISTRICT HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR HD" tvg-logo="http://img.over-blog-kiwi.com/2/09/12/84/20180814/ob_b39c5a_cstar.JPG" group-title="FRANCE Tv",|FR| CSTAR HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY FAMILY HD" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2015/07/logos_DFC_PRIME_FLAT-pos.png" group-title="FRANCE Tv",|FR| DISCOVERY FAMILY HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Discovery_Channel_1995.png" group-title="FRANCE Tv",|FR| DISCOVERY HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNjkzNTczNDY1MTcw/id-logo-jpg.jpg" group-title="FRANCE Tv",|FR| DISCOVERY INVESTIGATION HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY SCIENCE  HD" tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png" group-title="FRANCE Tv",|FR| DISCOVERY SCIENCE  HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL  +1 HD" tvg-logo="https://vignette1.wikia.nocookie.net/disneychannel/images/d/d2/The_new_Disney_Channel_Logo.jpg" group-title="FRANCE Tv",|FR| DISNEY CHANNEL  +1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="https://vignette1.wikia.nocookie.net/disneychannel/images/d/d2/The_new_Disney_Channel_Logo.jpg" group-title="FRANCE Tv",|FR| DISNEY CHANNEL HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CINEMA  FHD." tvg-logo="https://vignette.wikia.nocookie.net/pocoyoworld/images/7/7b/250px-Disney_Cinemagic.svg.png" group-title="FRANCE Tv",|FR| DISNEY CINEMA  FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CINEMA HD" tvg-logo="https://vignette.wikia.nocookie.net/pocoyoworld/images/7/7b/250px-Disney_Cinemagic.svg.png" group-title="FRANCE Tv",|FR| DISNEY CINEMA HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="https://zupimages.net/up/18/15/2ql9.png" group-title="FRANCE Tv",|FR| DISNEY JUNIOR HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/792px-Disney_XD_-_2015_%28Purple%29.svg.png" group-title="FRANCE Tv",|FR| DISNEY XD HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| E! HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/80px-E%21_logo_2012.png" group-title="FRANCE Tv",|FR| E! HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EQUIDIA LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/91/Equidia_Life_2011.gif" group-title="FRANCE Tv",|FR| EQUIDIA LIFE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EQUIDIA LIVE HD" tvg-logo="http://res.cloudinary.com/hd-numerique/image/upload/v1441891560/actualite/juin%202015/equidialive.jpg" group-title="FRANCE Tv",|FR| EQUIDIA LIVE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="FRANCE Tv",|FR| EUROSPORT 1
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2" tvg-logo="https://ornethd.net/wp-content/uploads/2020/05/40000000215.png" group-title="FRANCE Tv",|FR| EUROSPORT 2
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EXTREME SPORT HD" tvg-logo="https://extremesportsteobaldo.files.wordpress.com/2016/05/extreme-sports.jpg" group-title="FRANCE Tv",|FR| EXTREME SPORT HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+ 24/24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="FRANCE Tv",|FR| FOOT+ 24/24
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/langfr-1920px-France_2_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 2  FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/langfr-1920px-France_2_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 2 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 24 FR" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="FRANCE Tv",|FR| FRANCE 24 FR
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/240px-France_3_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 3 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/240px-France_3_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 3 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/langfr-200px-France_4_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 4 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/langfr-200px-France_4_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 4 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/langfr-200px-France_5_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 5 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/langfr-200px-France_5_2018.svg.png" group-title="FRANCE Tv",|FR| FRANCE 5 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GAME ONE HD" tvg-logo="http://www.universfreebox.com/UserFiles/image/Gameone.jpg" group-title="FRANCE Tv",|FR| GAME ONE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/1280px-Golf%2B.svg.png" group-title="FRANCE Tv",|FR| GOLF+ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GULLI HD" tvg-logo="https://commons.wikimedia.org/wiki/File:Gulli_2017_nouveau_logo.jpg?uselang=fr" group-title="FRANCE Tv",|FR| GULLI HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| HD1 FHD" tvg-logo="http://tvdirect.t.v.pic.centerblog.net/tv-hd1.png" group-title="FRANCE Tv",|FR| HD1 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| HD1 HD" tvg-logo="http://tvdirect.t.v.pic.centerblog.net/tv-hd1.png" group-title="FRANCE Tv",|FR| HD1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| HISTOIRE HD" tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-histoire-26858.png" group-title="FRANCE Tv",|FR| HISTOIRE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="http://www.gentv.be/logos/infosport.png" group-title="FRANCE Tv",|FR| INFOSPORT+ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| J ONE HD" tvg-logo="http://www.ariase.com/media/television/logo-132x99/j-one.jpg" group-title="FRANCE Tv",|FR| J ONE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| KOMBAT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ac/Logo_Kombat_Sport.png" group-title="FRANCE Tv",|FR| KOMBAT SPORT
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L'EQUIPE 21 HD" tvg-logo="http://www.ledirect.fr/uploads/channels/2263_6872.png" group-title="FRANCE Tv",|FR| L'EQUIPE 21 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/langfr-300px-M6_2009.svg.png" group-title="FRANCE Tv",|FR| M6 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/M6HD_2011.png/240px-M6HD_2011.png" group-title="FRANCE Tv",|FR| M6 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| M6 MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/2880px-M6_Music_2012.png" group-title="FRANCE Tv",|FR| M6 MUSIC HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MANGAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/langfr-400px-Mangas_%282015%29.svg.png" group-title="FRANCE Tv",|FR| MANGAS HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MCM_logo.svg/640px-MCM_logo.svg.png" group-title="FRANCE Tv",|FR| MCM HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MCM TOP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/663px-MCM_Top_Logo.svg.png" group-title="FRANCE Tv",|FR| MCM TOP HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MEZZO LIVE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Mezzo_Live_HD.png/240px-Mezzo_Live_HD.png" group-title="FRANCE Tv",|FR| MEZZO LIVE  HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV BASE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/29/MTV_Base_France.png" group-title="FRANCE Tv",|FR| MTV BASE
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV DANCE" tvg-logo="https://zupimages.net/up/18/15/dj33.png" group-title="FRANCE Tv",|FR| MTV DANCE
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV FRANCE HD" tvg-logo="https://static1.squarespace.com/static/54f84f47e4b01ba4126c087c/56d033c44c2f859ac50d5fb6/56d033c44c2f859ac50d5fb5/1435578052474/MTV.png" group-title="FRANCE Tv",|FR| MTV FRANCE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER_400x400.jpg" group-title="FRANCE Tv",|FR| MTV HITS
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV MUSIC" tvg-logo="http://www.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/styles/image_750_324/public/c01a5f494e88721fc81b346c6f81bf44_29.jpg" group-title="FRANCE Tv",|FR| MTV MUSIC
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NATIONAL GEO FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/220px-National_Geographic_Channel.svg.png" group-title="FRANCE Tv",|FR| NATIONAL GEO FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NATIONAL GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/220px-National_Geographic_Channel.svg.png" group-title="FRANCE Tv",|FR| NATIONAL GEO HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NATIONAL GEO WILD HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png" group-title="FRANCE Tv",|FR| NATIONAL GEO WILD HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON 4TEEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/59475-nickelodeon-4teen-nouvelle-chaine-100-series.jpg" group-title="FRANCE Tv",|FR| NICKELODEON 4TEEN HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON HD" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/6/62/NICKELODEON_Logo.png" group-title="FRANCE Tv",|FR| NICKELODEON HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON JR HD" tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/05/nick-jr.-logo-vector.png" group-title="FRANCE Tv",|FR| NICKELODEON JR HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/0/0c/20090111145355%21Logo_NRJ_Hits.jpg" group-title="FRANCE Tv",|FR| NRJ HITS HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ12 HD" tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/01/NRJ_Quebec-500x351.png" group-title="FRANCE Tv",|FR| NRJ12 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS GEANTS HD" tvg-logo="https://i1.wp.com/www.planetecsat.com/wp-content/uploads/2015/08/OCS-G%C3%A9ants.png?fit=1080%2C700&ssl=1" group-title="FRANCE Tv",|FR| OCS GEANTS HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1280px-OCS_Max.svg.png" group-title="FRANCE Tv",|FR| OCS MAX HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/671686487382089728/aPyn3p88_400x400.jpg" group-title="FRANCE Tv",|FR| PARAMOUNT CHANNEL
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/langfr-130px-Paramount_Channel.svg.png" group-title="FRANCE Tv",|FR| PARAMOUNT CHANNEL HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Paris_Premier.PNG" group-title="FRANCE Tv",|FR| PARIS PREMIERE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PIWI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="FRANCE Tv",|FR| PIWI HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ A&E FHD." tvg-logo="https://pbs.twimg.com/profile_images/808692281456918528/YxHSX1Wt_400x400.jpg" group-title="FRANCE Tv",|FR| PLANETE+ A&E FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ A&E HD" tvg-logo="https://pbs.twimg.com/profile_images/808692281456918528/YxHSX1Wt_400x400.jpg" group-title="FRANCE Tv",|FR| PLANETE+ A&E HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ CI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="FRANCE Tv",|FR| PLANETE+ CI HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ HD" tvg-logo="http://manager.ndasat.pro/picons/PLANETE+.png" group-title="FRANCE Tv",|FR| PLANETE+ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC DECOUVERTE FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="FRANCE Tv",|FR| RMC DECOUVERTE FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png" group-title="FRANCE Tv",|FR| RMC DECOUVERTE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC NEWS SPORT HD" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2018/06/RMC_SPORT_news.png" group-title="FRANCE Tv",|FR| RMC NEWS SPORT HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="FRANCE Tv",|FR| RMC SPORT 1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="FRANCE Tv",|FR| RMC SPORT 2 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCE Tv",|FR| RMC SPORT 3 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="FRANCE Tv",|FR| RMC SPORT 4 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="FRANCE Tv",|FR| RMC STORY FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="FRANCE Tv",|FR| RMC STORY HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RT FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/langfr-200px-France_%C3%94_2018.svg.png" group-title="FRANCE Tv",|FR| RT FRANCE
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RTL9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="FRANCE Tv",|FR| RTL9 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SCIENCES & VIE HD" tvg-logo="http://www.science-et-vie.tv/images/logo.png" group-title="FRANCE Tv",|FR| SCIENCES & VIE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SEASONS HD" tvg-logo="https://d2t86ruphax0oa.cloudfront.net/sites/default/files/styles/large/public/field/image/Seasons%20Canada%20logo.png" group-title="FRANCE Tv",|FR| SEASONS HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SERIE CLUB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/1280px-Serieclub_%282012%29.svg.png" group-title="FRANCE Tv",|FR| SERIE CLUB HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| STINGRAY CLASSICA HD" tvg-logo="https://www.marketingtribune.nl/media/nieuws/2015/11/cultuurzender-brava-lijft-vlaams-kanaal-cultuur-7-in/Brava-TV-logo-400px.jpg" group-title="FRANCE Tv",|FR| STINGRAY CLASSICA HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SYFY HD" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="FRANCE Tv",|FR| SYFY HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TCM CINEMA HD" tvg-logo="https://www.universfreebox.com/UserFiles/image/tcmcinema.jpg" group-title="FRANCE Tv",|FR| TCM CINEMA HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELETOON+ HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Teletoon_logo.png" group-title="FRANCE Tv",|FR| TELETOON+ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TEVA HD" tvg-logo="http://www.userlogos.org/files/logos/1air2philou/teva-simple.png" group-title="FRANCE Tv",|FR| TEVA HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/32/Groupe_TF1_logo.png" group-title="FRANCE Tv",|FR| TF1 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/32/Groupe_TF1_logo.png" group-title="FRANCE Tv",|FR| TF1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TFX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/320px-TFX_logo_2018.svg.png" group-title="FRANCE Tv",|FR| TFX HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TIJI HD" tvg-logo="http://www.onkidsandfamily.com/sites/default/files/images/projets/partenaires/TiJi_2012.png" group-title="FRANCE Tv",|FR| TIJI HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC HD" tvg-logo="http://www.webmaster-gratuit.com/pict/play-tmc.jpg" group-title="FRANCE Tv",|FR| TMC HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOONAMI  FHD." tvg-logo="http://vignette1.wikia.nocookie.net/fictionaltvstations/images/8/8b/800px-Toonami_logo.svg.png" group-title="FRANCE Tv",|FR| TOONAMI  FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOONAMI  HD" tvg-logo="http://vignette1.wikia.nocookie.net/fictionaltvstations/images/8/8b/800px-Toonami_logo.svg.png" group-title="FRANCE Tv",|FR| TOONAMI  HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOUTE L HISTOIRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/76/Toute_l%27Histoire_logo_2011.png" group-title="FRANCE Tv",|FR| TOUTE L HISTOIRE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TREK HD" tvg-logo="http://reelrock.fr/wp-content/uploads/2016/08/trek25.png" group-title="FRANCE Tv",|FR| TREK HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV BREIZH FHD." tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F87447cadb3952b11.2Epng/1200x630/crop-from/top/quality/80/tvbreizh.png" group-title="FRANCE Tv",|FR| TV BREIZH FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV BREIZH HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F87447cadb3952b11.2Epng/1200x630/crop-from/top/quality/80/tvbreizh.png" group-title="FRANCE Tv",|FR| TV BREIZH HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV5 MONDE INFO" tvg-logo="https://www.tv5monde.com/programmes/bundles/tv5mondesite/images/logo-og.png" group-title="FRANCE Tv",|FR| TV5 MONDE INFO
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| USHUAIA TV" tvg-logo="http://adamis-prod.com/wp-content/uploads/2015/09/ushuaia.png" group-title="FRANCE Tv",|FR| USHUAIA TV
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VIAJAR FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Voyage_logo_2016.png" group-title="FRANCE Tv",|FR| VIAJAR FHD.
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VOYAGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/30/Voyage_logo_2016.png" group-title="FRANCE Tv",|FR| VOYAGE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| W9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_W9HD_2011.svg/240px-Logo_W9HD_2011.svg.png" group-title="FRANCE Tv",|FR| W9 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| W9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_W9HD_2011.svg/240px-Logo_W9HD_2011.svg.png" group-title="FRANCE Tv",|FR| W9 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| WEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WEO-LOGO-HD-100CM-300.png/1200px-WEO-LOGO-HD-100CM-300.png" group-title="FRANCE Tv",|FR| WEO FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ZOUZOU TV HD" tvg-logo="http://www.bienchoisirmonelectromenager.com/sites/default/files/tv_connectes_sony_avec_apps_france_televisions_zouzous.jpg" group-title="FRANCE Tv",|FR| ZOUZOU TV HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|UK| VIRGIN HD" tvg-logo="https://www.virginradio.fr/desktop/modules/network/images/logo/app/virginradio.png" group-title="FRANCE Tv",|UK| VIRGIN HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/204438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| GOLF CHANNEL FRANCE FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| GOLF CHANNEL FRANCE FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| GOLF+ FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| GOLF+ FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| AUTOMOTO LA CHAINE FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/automoto-la-chaine-fr.png?raw=true" group-title="FRANCE SPORTS Tv",|FR.SPOR| AUTOMOTO LA CHAINE FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| EUROSPORT 2 HD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| EUROSPORT 2 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| EUROSPORT 1 HD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| EUROSPORT 1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| L'EQUIPE 21 HD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| L'EQUIPE 21 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| INFOSPORT+ HD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| INFOSPORT+ HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| RMC SPORT LIVE 5 FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| RMC SPORT LIVE 5 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| RMC SPORT 4 FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| RMC SPORT 4 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| RMC SPORT 3 FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| RMC SPORT 3 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| RMC SPORT 2 FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| RMC SPORT 2 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| RMC SPORT 1 FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| RMC SPORT 1 FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 10 HD" tvg-logo="http://vod-logo.net/photos/5f26a6811de288d70441e97b41b554f3.jpg" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports Max 10 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 9 HD" tvg-logo="http://vod-logo.net/photos/9799c7c82ccf5c015e8cd490516dc2af.jpg" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports Max 9 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 8 HD" tvg-logo="http://vod-logo.net/photos/7e4629a86799d03ad9d5e2a6cc2ead45.jpg" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports Max 8 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 7 HD" tvg-logo="http://vod-logo.net/photos/02e6e45eecbd0dc02b01f8c38b5a1c10.png" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports Max 7 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 6 HD" tvg-logo="http://vod-logo.net/photos/e8801924814ac5a76fb2eb6b9bb0ca6c.png" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports Max 6 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 5 HD" tvg-logo="http://vod-logo.net/photos/53c80466e4d5557ad62a3031cf7fb5c7.png" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports Max 5 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports Max 4 HD" tvg-logo="http://vod-logo.net/photos/5534c388e2b8d766d01e73dc03f70460.png" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports Max 4 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png?uselang=fr" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports 3 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png?uselang=fr" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports 2 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BeinSports-1.jpg" group-title="FRANCE SPORTS Tv",|FR.SPOR| BeIN Sports 1 HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| CANAL+ FOOT  HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-foot-fr.png?raw=true" group-title="FRANCE SPORTS Tv",|FR.SPOR| CANAL+ FOOT  HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| CANAL+ PREMIER LEAGUE HD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| CANAL+ PREMIER LEAGUE HD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| CANAL+ SPORT FHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| CANAL+ SPORT FHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| CANAL+ UHD" tvg-logo="" group-title="FRANCE SPORTS Tv",|FR.SPOR| CANAL+ UHD
+http://uq3uya.2m2h.im:80/live/Neserrn202334/hGTXB2CzTg4Y/241111.m3u8
