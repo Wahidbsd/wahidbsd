@@ -1,48 +1,47 @@
 #EXTM3U
-# Playlist مرتبة ومنسقة - TVG Links
+# Playlist مرتبة ومنسقة - TVG Links (تم التصحيح)
 
 # ============================================================
-# ====================== SPORTS ======================
+# ====================== SPORTS =============================
 # ============================================================
 
-#EXTINF:-1 tvg-name="⚽ dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="🏆 SPORTS",dz Sports
+#EXTINF:-1 tvg-id="dzsports" tvg-name="dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="🏆 SPORTS",⚽ dz Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100losir.m3u
 
-#EXTINF:-1 tvg-name="⚽ 100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="🏆 SPORTS",100Min Sports
+#EXTINF:-1 tvg-id="100minsports" tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="🏆 SPORTS",⚽ 100Min Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 
-#EXTINF:-1 tvg-name="⚽ coboy" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🏆 SPORTS",coboy
+#EXTINF:-1 tvg-id="coboy" tvg-name="coboy" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🏆 SPORTS",⚽ coboy
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/beinw1234.m3u
 
-#EXTINF:-1 tvg-name="🦁 porto" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="🏆 SPORTS",porto
+#EXTINF:-1 tvg-id="porto" tvg-name="porto" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="🏆 SPORTS",🦁 porto
 https://raw.githubusercontent.com/raid35/channel-links/main/sport-tv.m3u
 
 # ============================================================
 # ====================== ENTERTAINMENT ======================
 # ============================================================
 
-#EXTINF:-1 tvg-name="📺 mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 Et",mizoux TV
+#EXTINF:-1 tvg-id="mizouxtv" tvg-name="mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 ENTERTAINMENT",📺 mizoux TV
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
 
-#EXTINF:-1 tvg-name="📺 My HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🎬 Et",My HD Channels
+#EXTINF:-1 tvg-id="myhdchannels" tvg-name="My HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🎬 ENTERTAINMENT",📺 My HD Channels
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
-#EXTINF:-1 tvg-name="🎬 BeIN Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="🎬 MOVIES",BeIN Movies
+#EXTINF:-1 tvg-id="beinmovies" tvg-name="BeIN Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="🎬 MOVIES",🎬 BeIN Movies
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
 
-#EXTINF:-1 tvg-name="📺 Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="🎬 Et",Nova Channels
+#EXTINF:-1 tvg-id="novachannels" tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="🎬 ENTERTAINMENT",📺 Nova Channels
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
-#EXTINF:-1 tvg-name="📺 osn TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 Et",osn TV
+#EXTINF:-1 tvg-id="osntv" tvg-name="osn TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 ENTERTAINMENT",📺 osn TV
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 # ============================================================
-# ====================== OTHER ======================
+# ====================== OTHER ==============================
 # ============================================================
 
-#EXTINF:-1 tvg-name="📺 piw powK" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",linkooo
+#EXTINF:-1 tvg-id="linkooo" tvg-name="linkooo" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 linkooo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
 
-
-#EXTINF:-1 tvg-name="📺 ibooo" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",ibo
+#EXTINF:-1 tvg-id="ibo" tvg-name="ibo" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 ibo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
