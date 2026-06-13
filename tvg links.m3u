@@ -1,9 +1,4 @@
 #EXTM3U
-# Playlist - TVG Links (Single Group)
-
-# ============================================================
-# ====================== ALL CHANNELS ======================
-# ============================================================
 
 #EXTINF:-1 tvg-name="⚽ dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="TVG All",dz Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100losir.m3u
