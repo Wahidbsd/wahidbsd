@@ -60,7 +60,8 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/beinw1234.m3u
 # ====================== OSN ================================
 # ============================================================
 
-#EXTINF:-1 tvg-name="📺 O S N DI" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🎬 ENTERTAINMENT | OSN",O S N DI
+
+#EXTINF:-1 tvg-name="📺 osn TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 ENTERTAINMENT | osn",osnTV
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 # ============================================================
