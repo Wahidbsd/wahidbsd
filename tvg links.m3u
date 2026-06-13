@@ -1,25 +1,25 @@
 #EXTM3U
 
 # ============================================================
-# ====================== FRANCE SPORTS ======================
+# ====================== dz SPORTS ======================
 # ============================================================
 
-#EXTINF:-1 tvg-name="⚽ France Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="🏆 SPORTS | FRANCE",France Sports
-https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
+#EXTINF:-1 tvg-name="⚽ dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="🏆 SPORTS | dz",dz Sports
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100losir.m3u
 
 # ============================================================
-# ====================== linkoK =============================
+# ====================== powK =============================
 # ============================================================
 
-#EXTINF:-1 tvg-name="📺 kinkoK" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 SPORTS | linkoK",linkooo
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
+#EXTINF:-1 tvg-name="📺 piw powK" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 loisir | linkoK",linkooo
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
 
 # ============================================================
 # ====================== 100MIN SPORTS ======================
 # ============================================================
 
-#EXTINF:-1 tvg-name="⚽ 100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="🏆 SPORTS | 100MIN",100Min Sports
-https://raw.githubusercontent.com/Wahidbsd/usmh/Main/MAGRVJFSLF_dgRM2q.m3u
+#EXTINF:-1 tvg-name="⚽ 100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="🏆 SPORTS | rapid", rapid
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 
 # ============================================================
 # ====================== MIZOUX TV ==========================
@@ -64,11 +64,11 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/beinw1234.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 # ============================================================
-# ====================== GOSPEED / LION =====================
+# ====================== Gporro / gall =====================
 # ============================================================
 
-#EXTINF:-1 tvg-name="🦁 Lion" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="🦁 SPORTS | LION",Lion
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9Ph.m3u
+#EXTINF:-1 tvg-name="🦁 porto" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="🦁 SPORTS | portoN",porto
+https://raw.githubusercontent.com/raid35/channel-links/main/sport-tv.m3u
 
 # ============================================================
 # ====================== IBO NEXUS ==========================
@@ -77,34 +77,3 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9P
 #EXTINF:-1 tvg-name="📱 ibo neUs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="📱 IPTV | IBO",ibo neUs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
 
-# ============================================================
-# ====================== CDP / C2M ==========================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 C2M" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 ENTERTAINMENT | C2M",C2M
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m3u
-
-# ============================================================
-# ====================== PRONETMOS ==========================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 PRONETMOS" tvg-logo="https://ferrot.org/ferrot.png" group-title="🌍 GENERAL | PRONETMOS",PRONETMOS
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
-
-# ============================================================
-# ====================== CORRESTALLMAX ======================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 correstallmax" tvg-logo="https://ferrot.org/ferrot.png" group-title="🌍 GENERAL | CORRESTALLMAX",correstallmax
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/correstallmax.m3u
-
-# ============================================================
-# ====================== drogba ======================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 Drogba" tvg-logo="https://ferrot.org/ferrot.png" group-title="🌍 GENERAL | drogba",drogba
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/maxfff.m3u
-
-# ====================== siks ======================
-#EXTINF:-1 tvg-name="siska TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="sinsa",siksa 
-https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
