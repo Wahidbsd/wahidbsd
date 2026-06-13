@@ -1,80 +1,47 @@
 #EXTM3U
+# Playlist مرتبة ومنسقة - TVG Links
 
 # ============================================================
-# ====================== dz SPORTS ======================
+# ====================== SPORTS ======================
 # ============================================================
 
-#EXTINF:-1 tvg-name="⚽ dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="🏆 SPORTS | dz",dz Sports
+#EXTINF:-1 tvg-name="⚽ dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="🏆 SPORTS",dz Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100losir.m3u
 
-# ============================================================
-# ====================== powK =============================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 piw powK" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 loisir | linkoK",linkooo
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
-
-# ============================================================
-# ====================== 100MIN SPORTS ======================
-# ============================================================
-
-#EXTINF:-1 tvg-name="⚽ 100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="🏆 SPORTS | rapid", rapid
+#EXTINF:-1 tvg-name="⚽ 100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="🏆 SPORTS",100Min Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 
-# ============================================================
-# ====================== MIZOUX TV ==========================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 ENTERTAINMENT | MIZOUX",mizoux TV
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
-
-# ============================================================
-# ====================== MY HD CHANNELS =====================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 My HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🎬 ENTERTAINMENT | MY HD",My HD Channels
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
-
-# ============================================================
-# ====================== BEIN MOVIES ========================
-# ============================================================
-
-#EXTINF:-1 tvg-name="🎬 BeIN Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="🎬 MOVIES | BEIN",BeIN Movies
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
-
-# ============================================================
-# ====================== NOVA CHANNELS ======================
-# ============================================================
-
-#EXTINF:-1 tvg-name="📺 Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="🎬 ENTERTAINMENT | NOVA",Nova Channels
-https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
-
-# ============================================================
-# ====================== COBAY / MATCHWAHID =================
-# ============================================================
-
-#EXTINF:-1 tvg-name="⚽ coboy" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="⚽ SPORTS | MATCHWAHID",coboy
+#EXTINF:-1 tvg-name="⚽ coboy" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🏆 SPORTS",coboy
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/beinw1234.m3u
 
-# ============================================================
-# ====================== OSN ================================
-# ============================================================
-
-
-#EXTINF:-1 tvg-name="📺 osn TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 ENTERTAINMENT | osn",osnTV
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
-
-# ============================================================
-# ====================== Gporro / gall =====================
-# ============================================================
-
-#EXTINF:-1 tvg-name="🦁 porto" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="🦁 SPORTS | portoN",porto
+#EXTINF:-1 tvg-name="🦁 porto" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="🏆 SPORTS",porto
 https://raw.githubusercontent.com/raid35/channel-links/main/sport-tv.m3u
 
 # ============================================================
-# ====================== IBO NEXUS ==========================
+# ====================== ENTERTAINMENT ======================
 # ============================================================
 
-#EXTINF:-1 tvg-name="📱 ibo neUs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="📱 IPTV | IBO",ibo neUs
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
+#EXTINF:-1 tvg-name="📺 mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 Et",mizoux TV
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
 
+#EXTINF:-1 tvg-name="📺 My HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🎬 Et",My HD Channels
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
+
+#EXTINF:-1 tvg-name="🎬 BeIN Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="🎬 MOVIES",BeIN Movies
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
+
+#EXTINF:-1 tvg-name="📺 Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="🎬 Et",Nova Channels
+https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
+
+#EXTINF:-1 tvg-name="📺 osn TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="🎬 Et",osn TV
+https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
+
+# ============================================================
+# ====================== OTHER ======================
+# ============================================================
+
+#EXTINF:-1 tvg-name="📺 piw powK" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",linkooo
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
+
+#EXTINF:-1 tvg-name="📱 ibo neUs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="📱 IPTV",ibo neUs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
