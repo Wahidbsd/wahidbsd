@@ -46,5 +46,5 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
 #EXTINF:-1 tvg-id="ibo" tvg-name="ibo" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 ibo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
 
-EXTINF:-1 tvg-id="hotest" tvg-name="hotest" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 hotest
+#EXTINF:-1 tvg-id="hotest" tvg-name="hotest" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 hotest
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hotest.m3u
