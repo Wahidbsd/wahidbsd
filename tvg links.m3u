@@ -43,5 +43,6 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 #EXTINF:-1 tvg-name="📺 piw powK" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",linkooo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
 
-#EXTINF:-1 tvg-name="📱 ibo neUs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="📱 IPTV",ibo neUs
+
+#EXTINF:-1 tvg-name="📺 ibooo" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",ibo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
