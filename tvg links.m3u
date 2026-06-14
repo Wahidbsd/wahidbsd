@@ -5,7 +5,7 @@
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100losir.m3u
 
 # ====================== gospeed ======================
-#EXTINF:-1 tvg-name="TOD 8K" tvg-logo="https://ferrot.org/ferrot.png" group-title="gosssspd",
+#EXTINF:-1 tvg-name="gospeed" tvg-logo="https://ferrot.org/ferrot.png" group-title="gosssspd",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 
 # ====================== makMIN ======================
