@@ -48,3 +48,12 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20
 
 #EXTINF:-1 tvg-id="hotest" tvg-name="hotest" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 hotest
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hotest.m3u
+
+#EXTINF:-1 tvg-id="hotest" tvg-name="FOXBLU" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 FOXBLU
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/FOXBLU.m3u
+
+#EXTINF:-1 tvg-id="hotest" tvg-name="Falconpro" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Falconpro
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Falconpro.m3u
+
+#EXTINF:-1 tvg-id="hotest" tvg-name="Lynx111" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Lynx111
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lynx111.m3u
