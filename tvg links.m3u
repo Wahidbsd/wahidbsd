@@ -57,3 +57,6 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Falconpro.m3u
 
 #EXTINF:-1 tvg-id="lynx111" tvg-name="Lynx111" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Lynx111
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lynx111.m3u
+
+#EXTINF:-1 tvg-id="eagle" tvg-name="eagle" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 eagle
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Eagle.m3u
