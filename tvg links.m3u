@@ -1,19 +1,19 @@
 #EXTM3U
 
 # ====================== dz ======================
-#EXTINF:-1 tvg-name="dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="Sports",dz
+#EXTINF:-1 tvg-name="dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="D Z",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100losir.m3u
 
 # ====================== gospeed ======================
-#EXTINF:-1 tvg-name="TOD 8K" tvg-logo="https://ferrot.org/ferrot.png" group-title="Sports",TOD 8K
+#EXTINF:-1 tvg-name="TOD 8K" tvg-logo="https://ferrot.org/ferrot.png" group-title="gosssspd",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 
 # ====================== makMIN ======================
-#EXTINF:-1 tvg-name="ninemak" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",maknine
+#EXTINF:-1 tvg-name="ninemak" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="maknins",maknine
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/maknine.m3u
 
 # ====================== linx ======================
-#EXTINF:-1 tvg-name="lynxTV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="linx",linxV
+#EXTINF:-1 tvg-name="lynxTV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lynxoooox",
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lynx111.m3u
 
 # ======================booooo ======================
@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lynx111.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
 
 # ====================== jotN MOVIES ======================
-#EXTINF:-1 tvg-name="hot Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="Movies",hot Movies
+#EXTINF:-1 tvg-name="hot Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="hots",hot Movies
 hhttps://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hotest.m3u
 
 # ====================== NOVA ======================
-#EXTINF:-1 tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="Entertainment",Nova Channels
+#EXTINF:-1 tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="novant",Nova Channels
 https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 
 # ====================== foxblu ======================
@@ -36,11 +36,11 @@ hhttps://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/FOXBLU.m3u
 #EXTINF:-1 tvg-name="falcon disc" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="falcon",
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Falconpro.m3u
 
-# ====================== gospeed ======================
-#EXTINF:-1 tvg-name="sta gospeed" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="Lion",Lion
+# ====================== ziada ======================
+#EXTINF:-1 tvg-name="sta gospeed" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="ziada",Lion
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9Ph.m3u
 
 # ====================== ibo nesus ======================
-#EXTINF:-1 tvg-name="ibo nexus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="ibo",ibo neUs
+#EXTINF:-1 tvg-name="ibo nexus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="ibbileleo",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
 
