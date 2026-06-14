@@ -27,6 +27,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
 #EXTINF:-1 tvg-id="myhdchannels" tvg-name="My HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🎬 ENTERTAINMENT",📺 My HD Channels
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
+#EXTINF:-1 tvg-id="maknine" tvg-name="maknine Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="🎬 ENTERTAINMENT",📺 maknine Channels
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/maknine.m3u
+
+
 #EXTINF:-1 tvg-id="beinmovies" tvg-name="BeIN Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="🎬 MOVIES",🎬 BeIN Movies
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
 
@@ -58,5 +62,3 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Falconpro.m3u
 #EXTINF:-1 tvg-id="lynx111" tvg-name="Lynx111" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Lynx111
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lynx111.m3u
 
-#EXTINF:-1 tvg-id="eagle" tvg-name="eagle" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 eagle
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Eagle.m3u
