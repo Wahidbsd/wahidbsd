@@ -1,5 +1,5 @@
 #EXTM3U
-# Playlist مرتبة ومنسقة - TVG Links (تم التصحيح)
+# Playlist مرتبة ومنسقة - TVG Links (تم التصحيح الكامل)
 
 # ============================================================
 # ====================== SPORTS =============================
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 # ============================================================
-# ====================== OTHER ==============================
+# ====================== OTHER / LOISIR =====================
 # ============================================================
 
 #EXTINF:-1 tvg-id="linkooo" tvg-name="linkooo" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 linkooo
@@ -49,14 +49,11 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20
 #EXTINF:-1 tvg-id="hotest" tvg-name="hotest" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 hotest
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hotest.m3u
 
-#EXTINF:-1 tvg-id="hotest" tvg-name="FOXBLU" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 FOXBLU
+#EXTINF:-1 tvg-id="foxblu" tvg-name="FOXBLU" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 FOXBLU
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/FOXBLU.m3u
 
-#EXTINF:-1 tvg-id="falcon" tvg-name="Falconpro" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Falconpro
+#EXTINF:-1 tvg-id="falconpro" tvg-name="Falconpro" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Falconpro
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Falconpro.m3u
 
-#EXTINF:-1 tvg-id="lynx1" tvg-name="Lynx111" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Lynx111
+#EXTINF:-1 tvg-id="lynx111" tvg-name="Lynx111" tvg-logo="https://ferrot.org/ferrot.png" group-title="🏆 LOISIR",📺 Lynx111
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lynx111.m3u
-
-
-
