@@ -20,6 +20,11 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lynx111.m3u
 #EXTINF:-1 tvg-name="ibooHD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Entertainment",ibooD Channels
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
 
+# ======================Fuz55555ball ======================
+#EXTINF:-1 tvg-name="Fuz55555ball Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Fuz55555ball",Fuz55555ball Channels
+https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u
+
+
 # ====================== jotN MOVIES ======================
 #EXTINF:-1 tvg-name="hot Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="hots",hot Movies
 hhttps://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hotest.m3u
