@@ -4,6 +4,11 @@
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/MAGRVJFSLFRELLY.m3u
 
+# ====================== link suprimer ======================
+#EXTINF:-1 link suprimr " tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="link suprmer",link Suprimer links
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/link%20suprimer.m3u
+
+
 # ====================== Mizoux ======================
 #EXTINF:-1 tvg-name="mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="mizoux",mizoux TV
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
@@ -43,3 +48,5 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
 # ====================== linimko ======================
 #EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
+
+
