@@ -1,8 +1,8 @@
 #EXTM3U
 
-# ====================== dz ======================
-#EXTINF:-1 tvg-name="dz Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="D Z",
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100losir.m3u
+# ====================== supprimer ======================
+#EXTINF:-1 tvg-name="suprimer linkts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="suprmerZ",suprimer
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/link%20suprimer.m3u
 
 # ====================== gospeed ======================
 #EXTINF:-1 tvg-name="gospeed" tvg-logo="https://ferrot.org/ferrot.png" group-title="gosssspd",
