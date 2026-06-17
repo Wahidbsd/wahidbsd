@@ -1,8 +1,8 @@
 #EXTM3U
 
-# ====================== supprimer ======================
-#EXTINF:-1 tvg-name="suprimer linkts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="suprmerZ",suprimer
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/link%20suprimer.m3u
+# ====================== deleted ======================
+#EXTINF:-1 tvg-name="deletecd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
 
 # ====================== gospeed ======================
 #EXTINF:-1 tvg-name="gospeed" tvg-logo="https://ferrot.org/ferrot.png" group-title="gosssspd",
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
 
 # ====================== jotN MOVIES ======================
 #EXTINF:-1 tvg-name="hot Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="hots",hot Movies
-hhttps://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hotest.m3u
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hotest.m3u
 
 # ====================== NOVA ======================
 #EXTINF:-1 tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="novant",Nova Channels
