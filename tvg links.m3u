@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 #EXTINF:-1 tvg-name="Alamana" tvg-logo="https://ferrot.org/ferrot.png" group-title="Alaman11a",Alamana3
 https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/alamna3.m3u
 
+# ====================== LiveESFIFA2026 ======================
+#EXTINF:-1 tvg-name="LiveESFIFA2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="LiveESFIFA2026",LiveESFIFA
+https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/LiveES%20FIFA2026.m3u
+
 # ====================== makMIN ======================
 #EXTINF:-1 tvg-name="ninemak" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="maknins",maknine
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/maknine.m3u
