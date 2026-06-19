@@ -57,8 +57,8 @@ https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
 hhttps://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/FOXBLU.m3u
 
 # ====================== falcon ======================
-#EXTINF:-1 tvg-name="falcon disc" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="falcon",
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Falconpro.m3u
+#EXTINF:-1 tvg-name="falcon globasoportsc" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title=" globalfalcon",falcon
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lobaprofalconG.m3u
 
 # ====================== ziada ======================
 #EXTINF:-1 tvg-name="sta gospeed" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="ziada",Lion
