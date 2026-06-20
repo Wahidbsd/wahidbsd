@@ -12,9 +12,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 #EXTINF:-1 tvg-name="kwatar" tvg-logo="https://ferrot.org/ferrot.png" group-title="kwatar kion",kwatar
 https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/kawatar.m3u
 
-# ====================== LiveESFIFA2026 ======================
-#EXTINF:-1 tvg-name="LiveESFIFA2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="LiveESFIFA2026",LiveESFIFA
-https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/LiveESFIFA2026.m3u
 
 # ====================== makMIN ======================
 #EXTINF:-1 tvg-name="ninemak" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="maknins",maknine
@@ -64,7 +61,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lobaprofalco
 #EXTINF:-1 tvg-name="sta gospeed" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="ziada",Lion
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9Ph.m3u
 
-# ====================== ibo nesus ======================
-#EXTINF:-1 tvg-name="ibo nexus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="ibbileleo",
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
+# ====================== cupus ======================
+#EXTINF:-1 tvg-name="wcp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="wrd",wrd
+https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/LiveESFIFA2026.m3u
 
