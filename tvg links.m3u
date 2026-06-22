@@ -8,8 +8,8 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedl
 #EXTINF:-1 tvg-name="gospeed" tvg-logo="https://ferrot.org/ferrot.png" group-title="gosssspd",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gospeed.m3u
 
-# ====================== kwatar ======================
-#EXTINF:-1 tvg-name="kwatar" tvg-logo="https://ferrot.org/ferrot.png" group-title="kwatar kion",kwatar
+# ====================== legendking ======================
+#EXTINF:-1 tvg-name="legendking" tvg-logo="https://ferrot.org/ferrot.png" group-title="legendking kion",legendking
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/legendking.m3u
 
 
