@@ -1,117 +1,200 @@
 #EXTM3U
+# قائمة قنوات كأس العالم 2026 - مرتبة ومنظمة
+
+# ============================================================
+# ====================== beIN MAX 1 ==========================
+# ============================================================
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248170.ts
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 |SD|
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248182.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248164.ts
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 |HD|
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248180.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 FHD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248152.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248158.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 4K HEVC
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248178.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 1 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248176.ts
+
+# ============================================================
+# ====================== beIN MAX 2 ==========================
+# ============================================================
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248171.ts
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 |SD|
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248183.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248165.ts
-#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 |HD|
-http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248181.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 FHD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248153.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248159.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 4K HEVC
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248179.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 2 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248177.ts
+
+# ============================================================
+# ====================== beIN MAX 3 ==========================
+# ============================================================
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 3 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248172.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 3 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248166.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 3 FHD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248154.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 3 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248160.ts
+
+# ============================================================
+# ====================== beIN MAX 4 ==========================
+# ============================================================
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 4 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248173.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 4 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248167.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 4 FHD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248155.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 4 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248161.ts
+
+# ============================================================
+# ====================== beIN MAX 5 ==========================
+# ============================================================
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 5 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248174.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 5 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248168.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 5 FHD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248156.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 5 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248162.ts
+
+# ============================================================
+# ====================== beIN MAX 6 ==========================
+# ============================================================
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/SDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 6 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248175.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/HDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 6 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248169.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/FHDMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 6 FHD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248157.ts
+
 #EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/LOGOMAX/4KMAX.png" group-title="AR| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| beIN MAX 6 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248163.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 1SD
+
+# ============================================================
+# ====================== 4K و 8K =============================
+# ============================================================
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 1 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248606.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 1HD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 1 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248600.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 1 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248612.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 1 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248618.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 2SD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 2 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248607.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 2HD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 2 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248601.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 2 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248613.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 2 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248619.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 3SD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 3 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248608.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 3HD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 3 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248602.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 3 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248614.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 3 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248620.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 4SD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 4 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248609.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 4HD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 4 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248603.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 4 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248615.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",4K| beIN MAX 4 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248621.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",EN| beIN MAX 5SD
+
+# ============================================================
+# ====================== لغات أخرى ==========================
+# ============================================================
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",EN| beIN MAX 5 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248610.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",EN| beIN MAX 5HD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",EN| beIN MAX 5 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248604.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",EN| beIN MAX 5 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248616.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",EN| beIN MAX 5 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248622.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",FR| beIN MAX 6SD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",FR| beIN MAX 6 SD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248611.ts
-#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",FR| beIN MAX 6HD
+
+#EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",FR| beIN MAX 6 HD
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248605.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",FR| beIN MAX 6 4K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248617.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",FR| beIN MAX 6 8K
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248623.ts
+
+# ============================================================
+# ====================== قنوات إضافية ======================
+# ============================================================
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| Fussball.TV 1 ᴜʜᴅ
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248659.ts
+
 #EXTINF:-1 group-title="AR|4K| FIFA WORLD CUP ✪2026✪ كأس العالم",AR| SOLO SPORTS تعليق عربي
 http://legendking.net:8080/live/sahbsahbi/eWPNHjC34NZmIAJ/248651.ts
