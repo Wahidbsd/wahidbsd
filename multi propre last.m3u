@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
 
 # ====================== iptvnow.nl ======================
 #EXTINF:-1 tvg-name="iptvnow.nl " tvg-logo="https://ferrot.org/ferrot.png" group-title="iptvnow.nl",iptvnow.nl
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.nl%F0%9F%A4%A1.m3u
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.m3u
 
 # ====================== Megastar ======================
 #EXTINF:-1 tvg-name="megastr" tvg-logo="https://ferrot.org/ferrot.png" group-title="megastar",megqtr
