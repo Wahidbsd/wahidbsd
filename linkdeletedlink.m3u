@@ -40,6 +40,14 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3
 #EXTINF:-1 tvg-name="2028 S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="2028",2028 w
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
 
+# ====================== iptvnow.nl ======================
+#EXTINF:-1 tvg-name="iptvnow.nl " tvg-logo="https://ferrot.org/ferrot.png" group-title="iptvnow.nl",iptvnow.nl
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.m3u
+
+# ====================== Megastar ======================
+#EXTINF:-1 tvg-name="megastr" tvg-logo="https://ferrot.org/ferrot.png" group-title="megastar",megqtr
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/megastar0in.m3u
+
 # ====================== linimko ======================
 #EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
