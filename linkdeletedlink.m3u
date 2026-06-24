@@ -4,22 +4,6 @@
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/MAGRVJFSLFRELLY.m3u
 
-# ====================== Mizoux ======================
-#EXTINF:-1 tvg-name="mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="mizoux",mizoux TV
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
-
-# ====================== NOVA ======================
-#EXTINF:-1 tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="Entertainment",Nova Channels
-https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
-
-# ====================== Cobay ======================
-#EXTINF:-1 tvg-name="cobay" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="MATCHWAHID",coboy
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/beinw1234.m3u
-
-# ====================== OSN ======================
-#EXTINF:-1 tvg-name="osn disc" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="OSN",O S N DI
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
-
 # ====================== Cdp ======================
 #EXTINF:-1 tvg-name="CDP " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="c2m",C2M
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m3u
@@ -40,9 +24,6 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3
 #EXTINF:-1 tvg-name="2028 S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="2028",2028 w
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
 
-# ====================== iptvnow.nl ======================
-#EXTINF:-1 tvg-name="iptvnow.nl " tvg-logo="https://ferrot.org/ferrot.png" group-title="iptvnow.nl",iptvnow.nl
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.m3u
 
 # ====================== Megastar ======================
 #EXTINF:-1 tvg-name="megastr" tvg-logo="https://ferrot.org/ferrot.png" group-title="megastar",megqtr
