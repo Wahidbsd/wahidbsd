@@ -12,9 +12,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m
 #EXTINF:-1 tvg-name="pronetmos" tvg-logo="https://ferrot.org/ferrot.png" group-title="Pronetmos",PRONETMOS
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
 
-# ====================== dult ======================
-#EXTINF:-1 tvg-name="dult 8K" tvg-logo="https://ferrot.org/ferrot.png" group-title="dlt",DULT
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/aultd.m3u
 
 # ====================== ALWAN1 ======================
 #EXTINF:-1 tvg-name="ALWAN1 Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALWAN1",ALWAN1 Sports
