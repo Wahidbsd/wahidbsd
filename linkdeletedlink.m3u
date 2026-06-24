@@ -11,7 +11,25 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m
 # ====================== Pronetmos ======================
 #EXTINF:-1 tvg-name="pronetmos" tvg-logo="https://ferrot.org/ferrot.png" group-title="Pronetmos",PRONETMOS
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
+# ====================== m3u8 ======================
+#EXTINF:-1 tvg-name="m3u8HD Chals" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="streamteam",Mmu8 steam
+https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/slowbingo100m3u8.m3u
 
+# ======================booooo ======================
+#EXTINF:-1 tvg-name="ibooHD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="Entertainment",ibooD Channels
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
+
+# ====================== Maxxxx ======================
+#EXTINF:-1 tvg-name="max" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Maxxx",
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
+
+# ====================== ziada ======================
+#EXTINF:-1 tvg-name="sta gospeed" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="ziada",Lion
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9Ph.m3u
+
+# ====================== cupus ======================
+#EXTINF:-1 tvg-name="wcp11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="wrd2026",wrd202z
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/wrd.m3u
 
 # ====================== ALWAN1 ======================
 #EXTINF:-1 tvg-name="ALWAN1 Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALWAN1",ALWAN1 Sports
@@ -20,7 +38,6 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3
 # ====================== 2028 ======================
 #EXTINF:-1 tvg-name="2028 S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="2028",2028 w
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
-
 
 # ====================== Megastar ======================
 #EXTINF:-1 tvg-name="megastr" tvg-logo="https://ferrot.org/ferrot.png" group-title="megastar",megqtr
