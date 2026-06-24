@@ -1,40 +1,13 @@
 #EXTM3U
 
-# ====================== FRANCE ======================
-#EXTINF:-1 tvg-name="France Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="Sports",France Sports
-https://raw.githubusercontent.com/raid35/channel-links/main/CANAL.m3u
-
-# ====================== TOD ======================
-#EXTINF:-1 tvg-name="TOD 8K" tvg-logo="https://ferrot.org/ferrot.png" group-title="Sports",TOD 8K
-https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u
-
 # ====================== 100MIN ======================
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/MAGRVJFSLFRELLY.m3u
-
-# ====================== Mizoux ======================
-#EXTINF:-1 tvg-name="mizoux TV" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="mizoux",mizoux TV
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mizoux.m3u
 
 # ====================== m3u8 ======================
 #EXTINF:-1 tvg-name="m3u8HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="m3u8steam",Mmu8 steam
 https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/bingo100m3u8.m3u8
 
-# ====================== BEIN MOVIES ======================
-#EXTINF:-1 tvg-name="BeIN Movies" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Bein.Entertainment/bein.MOVIES2.ACTION.png" group-title="Movies",BeIN Movies
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/beIN_MOVIES.m3u
-
-# ====================== NOVA ======================
-#EXTINF:-1 tvg-name="Nova Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBGN37wG612iHr_ldfzpGkurQFpFBIoa236S4StBKMlZ5j8ffCNCDKHVS&s=10" group-title="Entertainment",Nova Channels
-https://raw.githubusercontent.com/raid35/channel-links/main/NOVA.m3u
-
-# ====================== Cobay ======================
-#EXTINF:-1 tvg-name="cobay" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="MATCHWAHID",coboy
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/beinw1234.m3u
-
-# ====================== OSN ======================
-#EXTINF:-1 tvg-name="osn disc" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="OSN",O S N DI
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/OSN.m3u
 
 # ====================== gospeed ======================
 #EXTINF:-1 tvg-name="sta gospeed" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="Lion",Lion
@@ -80,6 +53,4 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/megastar06%2
 #EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
 
-====================== NSRN ======================
-#EXTINF:-1 tvg-name="nsrn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="nsrn",Nsrn
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/tiny.m3u
+
