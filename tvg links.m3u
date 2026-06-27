@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 #EXTINF:-1 tvg-name="brazil" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="brazil",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Brasiliaadulto.m3u
 
+# ====================== ESPAN ======================
+#EXTINF:-1 tvg-name="ESPAN" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ESPAN",
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ESPAN.m3u
+
 
 # ====================== iptvnow ======================
 #EXTINF:-1 tvg-name="iptvnow" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="iptvnow",
