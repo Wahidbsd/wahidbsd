@@ -8,6 +8,11 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedl
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 
+# ====================== brazil ======================
+#EXTINF:-1 tvg-name="brazil" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="brazil",
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Brasiliaadulto.m3u
+
+
 # ====================== iptvnow ======================
 #EXTINF:-1 tvg-name="iptvnow" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="iptvnow",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.m3u
