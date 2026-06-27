@@ -8,9 +8,9 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedl
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 
-# ====================== cyfou ======================
-#EXTINF:-1 tvg-name="cyfou" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="cyfou",
-https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/cyfou.m3u
+# ====================== iptvnow ======================
+#EXTINF:-1 tvg-name="iptvnow" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="iptvnow",
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.m3u
 
 # ====================== mainott ======================
 #EXTINF:-1 tvg-name="main ott" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="main ott",ott min
