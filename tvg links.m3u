@@ -8,6 +8,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedl
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 
+# ====================== senegal ======================
+#EXTINF:-1 tvg-name="senegal" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="senegal",senegalz
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mbcxkr.m3u
+
 # ====================== brazil ======================
 #EXTINF:-1 tvg-name="brazil" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="brazil",
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Brasiliaadulto.m3u
