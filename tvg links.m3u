@@ -8,6 +8,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedl
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 
+# ====================== Lioncup2monde ======================
+#EXTINF:-1 tvg-name="Lioncup2monde" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Lioncup2monde",Lioncup2monde
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lioncup2monde.m3u
+
 # ====================== senegal ======================
 #EXTINF:-1 tvg-name="senegal" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="senegal",senegalz
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mbcxkr.m3u
