@@ -17,11 +17,11 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lioncup2monde.m3
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mbcxkr.m3u
 
 # ====================== brazil ======================
-#EXTINF:-1 tvg-name="brazil" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="brazil",
+#EXTINF:-1 tvg-name="brazil" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="brazil",nr
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Brasiliaadulto.m3u
 
 # ====================== ESPAN ======================
-#EXTINF:-1 tvg-name="ESPAN" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ESPAN",
+#EXTINF:-1 tvg-name="ESPAN" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ESPAN",es
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ESPAN.m3u
 
 
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ESPAN.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
 
 # ====================== Maxxxx ======================
-#EXTINF:-1 tvg-name="max" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Maxxx",
+#EXTINF:-1 tvg-name="max" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Maxxx",max
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
 
 
