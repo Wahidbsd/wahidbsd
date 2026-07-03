@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ====================== 100MIN ======================
-#EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
+#EXTINF:-1 tvg-name="100Min lstkast" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="lstkast",lstkast Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 
 # ====================== m3u8 ======================
