@@ -4,6 +4,10 @@
 #EXTINF:-1 tvg-name="deletecd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
 
+# ====================== coyoteadult ======================
+#EXTINF:-1 tvg-name="coyoteadult" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="coyoteadult",v
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/coyoteadult.m3u
+
 # ====================== vvvvv ======================
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",v
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
