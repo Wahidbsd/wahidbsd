@@ -25,7 +25,9 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m
 #EXTINF:-1 tvg-name="pronetmos" tvg-logo="https://ferrot.org/ferrot.png" group-title="Pronetmos",PRONETMOS
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
 
-
+# ====================== 100jdid ======================
+#EXTINF:-1 tvg-name="100jdid Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="100jdid",100jdid 
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 
 # ====================== ALWAN1 ======================
 #EXTINF:-1 tvg-name="ALWAN1 Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALWAN1",ALWAN1 Sports
