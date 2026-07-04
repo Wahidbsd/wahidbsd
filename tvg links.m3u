@@ -24,7 +24,9 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Brasiliaadul
 #EXTINF:-1 tvg-name="ESPAN" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ESPAN",es
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ESPAN.m3u
 
-
+# ====================== 100maincap ======================
+#EXTINF:-1 tvg-name="100maincap" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="100maincap",100maincap
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/100maincap.m3u
 
 
 # ======================booooo ======================
