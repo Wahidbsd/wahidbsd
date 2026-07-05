@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/coyoteadult.m3u
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",v
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 
+# ====================== GRÈCE ======================
+#EXTINF:-1 tvg-name="GRÈCE" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="GRÈCE",GRÈCE
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/e4e_grcc.m3u
+
 # ====================== 20cototooolivo ======================
 #EXTINF:-1 tvg-name="2toolivo" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="20cototlivo",20cototlivo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/coyotnew.m3u
