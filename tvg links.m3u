@@ -16,7 +16,9 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 #EXTINF:-1 tvg-name="2toolivo" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="20cototlivo",20cototlivo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/coyotnew.m3u
 
-
+# ====================== frrts ======================
+#EXTINF:-1 tvg-name="frrts" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="frrts",frrts
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/frr.ts.m3u
 
 # ====================== Lioncup2monde ======================
 #EXTINF:-1 tvg-name="Lioncup2monde" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Lioncup2monde",Lioncup2monde
