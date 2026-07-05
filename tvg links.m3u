@@ -4,10 +4,6 @@
 #EXTINF:-1 tvg-name="deletecd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
 
-# ====================== coyoteadult ======================
-#EXTINF:-1 tvg-name="coyoteadult" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="coyoteadult",v
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/coyoteadult.m3u
-
 # ====================== vvvvv ======================
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",v
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
@@ -23,10 +19,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/coyotnew.m3u
 # ====================== frrts ======================
 #EXTINF:-1 tvg-name="frrts" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="frrts",frrts
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/frr.ts.m3u
-
-# ====================== Lioncup2monde ======================
-#EXTINF:-1 tvg-name="Lioncup2monde" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Lioncup2monde",Lioncup2monde
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Lioncup2monde.m3u
 
 # ====================== senegal ======================
 #EXTINF:-1 tvg-name="senegal" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="senegal",senegalz
