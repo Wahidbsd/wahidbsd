@@ -32,8 +32,8 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/%D8%B0%20ful
 #EXTINF:-1 tvg-name="frrts" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="frrts",frrts
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/frr.ts.m3u
 
-# ====================== senegal ======================
-#EXTINF:-1 tvg-name="senegal" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="senegal",senegalz
+# ====================== senegalz ======================
+#EXTINF:-1 tvg-name="senegalz" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="senegal",senegalz
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mbcxkr.m3u
 
 # ====================== brazil ======================
@@ -48,7 +48,9 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ESPAN.m3u
 #EXTINF:-1 tvg-name="100maincap" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="100maincap",100maincap
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/100maincap.m3u
 
-
+# ====================== ALGERIA ======================
+#EXTINF:-1 tvg-name="ALGERIA" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ALGERIA",ALGERIA
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m3u
 # ======================booooo ======================
 #EXTINF:-1 tvg-name="ibooHD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="bo",ibooD Channels
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
