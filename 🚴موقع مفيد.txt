@@ -18,3 +18,4 @@ http://xlion.net:8080/get.php?username=d8:e0:e1:c0:78:53&password=391844836198&t
 # https://strm01.app/?m=30604&lang=ar
 https://firestickhacks.com/downloads/
 # https://web.localsend.org/
+# https://fcksignups.com/
