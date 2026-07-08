@@ -12,6 +12,10 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 #EXTINF:-1 tvg-name="GRÈCE" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="GRÈCE",GRÈCE
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/e4e_grcc.m3u
 
+# ====================== 8398illimitix ======================
+#EXTINF:-1 tvg-name="8398illimitix" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="8398illimitix",8398illimitix
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/8398illimitix.m3u
+
 # ====================== blueXode5 ======================
 #EXTINF:-1 tvg-name="blueXode5" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="BLUEXODE5",blueXode5
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/blueXode5.m3u
