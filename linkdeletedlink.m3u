@@ -1,5 +1,9 @@
 #EXTM3U
 
+# ====================== bigcoyora ======================
+#EXTINF:-1 tvg-name="bigcoyora Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="bigcoyora",bigcoyora steam
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bigcoyora.m3u
+
 # ====================== 100MIN ======================
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
