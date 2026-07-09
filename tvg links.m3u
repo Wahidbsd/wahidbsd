@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+# ====================== sba3cupa ======================
+#EXTINF:-1 tvg-name="sba3cupalion" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="sba3cupalion",sba3cupa
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/sba3cupa.m3u
+
 # ====================== fives ======================
 #EXTINF:-1 tvg-name="fives" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="fives",fives
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fives.m3u
