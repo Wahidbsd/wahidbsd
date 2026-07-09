@@ -1,8 +1,5 @@
 #EXTM3U
 
-# ====================== bigcoyora ======================
-#EXTINF:-1 tvg-name="bigcoyora Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="bigcoyora",bigcoyora steam
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bigcoyora.m3u
 
 # ====================== 100MIN ======================
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min Sports
@@ -24,6 +21,9 @@ https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/slowbi
 #EXTINF:-1 tvg-name="max" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Maxxx",
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
 
+# ====================== bigcoyora ======================
+#EXTINF:-1 tvg-name="bigcoyora Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="bigcoyora",bigcoyora steam
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bigcoyora.m3u
 
 # ====================== cupus ======================
 #EXTINF:-1 tvg-name="wcp11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="wrd2026",wrd202z
