@@ -1,8 +1,8 @@
 #EXTM3U
 
-# ====================== proxypanel ======================
-#EXTINF:-1 tvg-name="proxypanel" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="proxypanel",proxypanel
-https://m3uedit.online/get/9d3a81102f171a93b0aa3314fd5a5c52.m3u
+# ====================== lionfoot ======================
+#EXTINF:-1 tvg-name="lionfoot" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lionfoot",lionfoot
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lionfoot.m3u
 
 # ====================== wafaa ======================
 #EXTINF:-1 tvg-name="wafaa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wafaa",wafaa
