@@ -8,6 +8,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lionfoot.m3u
 #EXTINF:-1 tvg-name="wafaa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wafaa",wafaa
 https://raw.githubusercontent.com/inc16sec/ida3tv/refs/heads/main/wafa.m3u
 
+# ====================== mydoomextra ======================
+#EXTINF:-1 tvg-name="mydoomextra" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="mydoomextra",mydoomextra
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/mydoomextra.m3u
+
 # ====================== fives ======================
 #EXTINF:-1 tvg-name="fives" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="fives",fives
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fives.m3u
