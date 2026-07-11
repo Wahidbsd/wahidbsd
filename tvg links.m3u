@@ -1,5 +1,8 @@
 #EXTM3U
 
+# ====================== liiin ======================
+#EXTINF:-1 tvg-name="liin" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="liiiiin",liiiin
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lionfoot.m3u
 
 
 # ====================== neosfpootop ======================
