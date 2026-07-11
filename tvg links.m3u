@@ -3,8 +3,8 @@
 
 
 # ====================== neosfpoo.top ======================
-#EXTINF:-1 tvg-name="neotoop" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="neotoop",neotoop
-http://neosfpoo.top:8080/get.php?username=2071771277838&password=6ec486cbcb6b&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="neot0550oop" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="neotoop",neotoop
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/neosfpooop.m3u
 
 # ====================== wafaa ======================
 #EXTINF:-1 tvg-name="wafaa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wafaa",wafaa
