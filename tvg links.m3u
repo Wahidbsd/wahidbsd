@@ -2,9 +2,9 @@
 
 
 
-# ====================== lionfoot ======================
-#EXTINF:-1 tvg-name="lionfoot" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lionfoot",lionfoot
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lionfoot.m3u
+# ====================== neosfpoo.top ======================
+#EXTINF:-1 tvg-name="neotoop" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="neotoop",neotoop
+http://neosfpoo.top:8080/get.php?username=2071771277838&password=6ec486cbcb6b&type=m3u_plus&output=ts
 
 # ====================== wafaa ======================
 #EXTINF:-1 tvg-name="wafaa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wafaa",wafaa
