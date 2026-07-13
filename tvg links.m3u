@@ -5,8 +5,10 @@
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/assets/lionfoot.m3u
 
 
-#EXTINF:-1 tvg-logo="http://51.158.158.30/logos/Bein_Sports/BEIN.MAX.png" group-title="beIN MAX 4K كاس العالم",beIN Sports Max 1 4K
-http://coyora.cc///movie/9J0T9739PL68511/XngxmSKmzE/1450148.mp4
+# ====================== pronetmosnew ======================
+#EXTINF:-1 tvg-name="pronetmosnew" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pronetmosnew",pronetmosnew
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetmosnew.m3u
+
 
 # ====================== neosfpootop ======================
 #EXTINF:-1 tvg-name="wahid" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wahid",wahid
