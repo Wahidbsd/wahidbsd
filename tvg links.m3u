@@ -34,9 +34,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fives.m3u
 #EXTINF:-1 tvg-name="deletecd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
 
-# ====================== only5 ======================
-#EXTINF:-1 tvg-name="only5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="only5",only5
-https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/onl%F0%9F%9B%80%F0%9F%9B%80%F0%9F%9B%80%F0%9F%9B%80%F0%9F%9B%80%F0%9F%9B%80y5.m3u
 
 # ====================== vvvvv ======================
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",v
@@ -49,9 +46,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 #EXTINF:-1 tvg-name="2toolivo" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="20cototlivo",20cototlivo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/coyotnew.m3u
 
-# ====================== 20fullliste_ptfun30 ======================
-#EXTINF:-1 tvg-name="20fullliste_ptfun30" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="20fullliste_ptfun30",20fullliste_ptfun30
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/%D8%B0%20fullliste_ptfun30.m3u
 
 # ====================== frrts ======================
 #EXTINF:-1 tvg-name="frrts" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="frrts",frrts
@@ -66,13 +60,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Brasiliaadul
 #EXTINF:-1 tvg-name="ESPAN" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ESPAN",es
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ESPAN.m3u
 
-# ====================== 100maincap ======================
-#EXTINF:-1 tvg-name="100maincap" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="100maincap",100maincap
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/100maincap.m3u
 
-# ====================== ALGERIA ======================
-#EXTINF:-1 tvg-name="ALGERIA" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ALGERIA",ALGERIA
-https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALGERIA.m3u
 
 # ======================booooo ======================
 #EXTINF:-1 tvg-name="ibooHD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="bo",ibooD Channels
