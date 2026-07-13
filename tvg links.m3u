@@ -44,9 +44,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 
 
 
-# ====================== blueXode5 ======================
-#EXTINF:-1 tvg-name="blueXode5" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="BLUEXODE5",blueXode5
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/blueXode5.m3u
 
 # ====================== 20cototooolivo ======================
 #EXTINF:-1 tvg-name="2toolivo" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="20cototlivo",20cototlivo
@@ -60,9 +57,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/%D8%B0%20ful
 #EXTINF:-1 tvg-name="frrts" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="frrts",frrts
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/frr.ts.m3u
 
-# ====================== senegalz ======================
-#EXTINF:-1 tvg-name="senegalz" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="senegal",senegalz
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mbcxkr.m3u
 
 # ====================== brazil ======================
 #EXTINF:-1 tvg-name="brazil" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="brazil",nr
