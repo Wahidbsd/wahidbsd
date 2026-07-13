@@ -42,9 +42,6 @@ https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/onl%F0
 #EXTINF:-1 tvg-name="vvvvv" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="victor",v
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/vvvvvv.m3u
 
-# ====================== GRÈCE ======================
-#EXTINF:-1 tvg-name="GRÈCE" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="GRÈCE",GRÈCE
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/e4e_grcc.m3u
 
 
 # ====================== blueXode5 ======================
