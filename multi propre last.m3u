@@ -16,8 +16,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
 #EXTINF:-1 tvg-name="2028" group-title="أحداث",2028 w
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
-#EXTINF:-1 tvg-name="Linko" group-title="عام",linko
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3uhttps://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
 # ====================== linimko ======================
 #EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
