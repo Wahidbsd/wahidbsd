@@ -2,34 +2,22 @@
 
 #EXTINF:-1 tvg-name="M3U8 HD" group-title=" M3U8 HD",Mmu8 steam
 https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/bingo100m3u8.m3u8
-
 #EXTINF:-1 tvg-name="Bigcoyora" group-title=" Bigcoyora",bigcoyora steam
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bigcoyora.m3u
-
 #EXTINF:-1 tvg-name="Lion" group-title="Lion",Lion
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9Ph.m3u
-
-#
 #EXTINF:-1 tvg-name="C2M" group-title="C2M",C2M
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m3u
-
-#EXTINF:-1 tvg-name="Pronetmos" group-title="تقنية",PRONETMOS
+#EXTINF:-1 tvg-name="Pronetmos" group-title="Pronetmos",PRONETMOS
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
-
-#EXTINF:-1 tvg-name="100 Sports" group-title="رياضة",100jdid 
+#EXTINF:-1 tvg-name="100 Sports" group-title="100main",100main 
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
-
 #EXTINF:-1 tvg-name="ALWAN1 Sports" group-title="رياضة",ALWAN1 Sports
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
-
 #EXTINF:-1 tvg-name="2028" group-title="أحداث",2028 w
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
-
 #EXTINF:-1 tvg-name="Linko" group-title="عام",linko
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3uhttps://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
-
-
-
 # ====================== linimko ======================
 #EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
