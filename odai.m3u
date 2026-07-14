@@ -883,3 +883,13 @@ http://lb1.aab1.top/odai/123321/1040.ts
 http://lb1.aab1.top/odai/123321/1041.ts
 #EXTINF:-1 tvg-id="1086" tvg-name="MTV MUSIC" tvg-logo="https://tv4.life/tvlogos/mtv_music.png" group-title="FRANCE [VIP]", MTV MUSIC
 http://lb1.aab1.top/odai/123321/1086.ts
+#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/alkass_1.png" group-title="ALKASS SPORTS [VIP]",ALKASS 1
+http://lb1.aab1.top/live/Odai/123321/314.ts
+#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/alkass_2.png" group-title="ALKASS SPORTS [VIP]",ALKASS 2
+http://lb1.aab1.top/live/Odai/123321/315.ts
+#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/alkass_3.png" group-title="ALKASS SPORTS [VIP]",ALKASS 3
+http://lb1.aab1.top/live/Odai/123321/316.ts
+#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/alkass_4.png" group-title="ALKASS SPORTS [VIP]",ALKASS 4
+http://lb1.aab1.top/live/Odai/123321/317.ts
+#EXTINF:-1 tvg-logo="https://tv4.life/tvlogos/alkass_5.png" group-title="ALKASS SPORTS [VIP]",ALKASS 5
+http://lb1.aab1.top/live/Odai/123321/318.ts
