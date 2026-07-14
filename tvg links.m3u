@@ -18,6 +18,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/neosfpooop.m
 #EXTINF:-1 tvg-name="wafaa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wafaa",wafaa
 https://raw.githubusercontent.com/inc16sec/ida3tv/refs/heads/main/wafa.m3u
 
+# ====================== premiumott ======================
+#EXTINF:-1 tvg-name="premiumott" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="premiumott",premiumott
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/premiumott.m3u
+
 # ====================== filterebigcoyorahls ======================
 #EXTINF:-1 tvg-name="filterebigcoyorahls" tvg-logo="https://i.imgur.com/xuId6Os.png" ,filterebigcoyorahls
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/filterebigcoyorahls.m3u
