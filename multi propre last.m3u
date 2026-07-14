@@ -1,40 +1,32 @@
 #EXTM3U
 
-# ====================== m3u8 ======================
-#EXTINF:-1 tvg-name="m3u8HD Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="m3u8steam",Mmu8 steam
+#EXTINF:-1 tvg-name="M3U8 HD" group-title=" M3U8 HD",Mmu8 steam
 https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/bingo100m3u8.m3u8
 
-# ====================== bigcoyora ======================
-#EXTINF:-1 tvg-name="bigcoyora Channels" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="bigcoyora",bigcoyora steam
+#EXTINF:-1 tvg-name="Bigcoyora" group-title=" Bigcoyora",bigcoyora steam
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bigcoyora.m3u
 
-# ====================== gospeed ======================
-#EXTINF:-1 tvg-name="sta gospeed" tvg-logo="https://play-lh.googleusercontent.com/mUa4lDfw_Z_obhV2Zcueygw2fhZIad8qgGs1WV8nKleFSxNwVmmbx61qmwxMpsKVc4U=w240-h480-rw" group-title="Lion",Lion
+#EXTINF:-1 tvg-name="Lion" group-title="Lion",Lion
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/52shor_wrT9Ph.m3u
 
-# ====================== ibo nesus ======================
-#EXTINF:-1 tvg-name="ibo nexus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh4ilPhLL6CvnlmuSRbkgZaov2owrHHVYkw&s" group-title="ibo",ibo neUs
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bil%20ibo%20nexo.m3u
-
-# ====================== Cdp ======================
-#EXTINF:-1 tvg-name="CDP " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="c2m",C2M
+#
+#EXTINF:-1 tvg-name="C2M" group-title="C2M",C2M
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cpd%20lite.m3u
 
-# ====================== Pronetmos ======================
-#EXTINF:-1 tvg-name="pronetmos" tvg-logo="https://ferrot.org/ferrot.png" group-title="Pronetmos",PRONETMOS
+#EXTINF:-1 tvg-name="Pronetmos" group-title="تقنية",PRONETMOS
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pronet.m3u
 
-# ====================== 100jdid ======================
-#EXTINF:-1 tvg-name="100jdid Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="100jdid",100jdid 
+#EXTINF:-1 tvg-name="100 Sports" group-title="رياضة",100jdid 
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 
-# ====================== ALWAN1 ======================
-#EXTINF:-1 tvg-name="ALWAN1 Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ALWAN1",ALWAN1 Sports
+#EXTINF:-1 tvg-name="ALWAN1 Sports" group-title="رياضة",ALWAN1 Sports
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
 
-# ====================== 2028 ======================
-#EXTINF:-1 tvg-name="2028 S" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="2028",2028 w
+#EXTINF:-1 tvg-name="2028" group-title="أحداث",2028 w
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
+
+#EXTINF:-1 tvg-name="Linko" group-title="عام",linko
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3uhttps://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2028.m3u
 
 
 
