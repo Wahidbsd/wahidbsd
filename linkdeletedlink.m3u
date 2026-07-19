@@ -5,6 +5,10 @@
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min 
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 
+# ====================== GBErdemsarikaya ======================
+#EXTINF:-1 tvg-name="GBErdemsarikaya Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="GBErdemsarikaya",GBErdemsarikaya 
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/GBErdemsarikaya.m3u
+
 
 # ====================== muvis ======================
 #EXTINF:-1 tvg-name="muv67is m744" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="muvis76677",muvis775567 
