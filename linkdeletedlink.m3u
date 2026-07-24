@@ -15,9 +15,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetmosnew.m3u
 #EXTINF:-1 tvg-name="wahid" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wahid",wahid
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/neosfpooop.m3u
 
-# ====================== wafaa ======================
-#EXTINF:-1 tvg-name="wafaa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wafaa",wafaa
-https://raw.githubusercontent.com/inc16sec/ida3tv/refs/heads/main/wafa.m3u
 
 # ====================== premiumott ======================
 #EXTINF:-1 tvg-name="premiumott" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="premiumott",premiumott
