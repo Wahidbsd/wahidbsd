@@ -36,7 +36,9 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fives.m3u
 #EXTINF:-1 tvg-name="deletecd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
 
-
+# ====================== sandott ======================
+#EXTINF:-1 tvg-name="sandott" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="sandott",sandott
+https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/sandott.m3u
 
 
 
