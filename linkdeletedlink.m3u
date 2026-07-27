@@ -8,6 +8,11 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lionfoonewt.m3u
 
 
+# ====================== pronetnewjuilet ======================
+#EXTINF:-1 tvg-name="pronetnewjuilet" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pronetnewjuilet",pronetnewjuilet
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetnewjuilet.m3u
+
+
 # ====================== pronetmosnew ======================
 #EXTINF:-1 tvg-name="pronetmosnew" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pronetmosnew",pronetmosnew
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetmosnew.m3u
