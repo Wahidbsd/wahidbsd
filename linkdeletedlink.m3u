@@ -1,5 +1,7 @@
 #EXTM3U
-
+# ====================== rookie4month ======================
+#EXTINF:-1 tvg-name="rookie4month" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="rookie4month",rookie4month
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month.m3u
 
 # ====================== liiin ======================
 #EXTINF:-1 tvg-name="lionfoonewt" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lionfoonewt",liiii865n
