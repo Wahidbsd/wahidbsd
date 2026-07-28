@@ -23,17 +23,11 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetmosnew.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/neosfpooop.m3u
 
 
-# ====================== premiumott ======================
-#EXTINF:-1 tvg-name="premiumott" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="premiumott",premiumott
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/premiumott.m3u
 
 # ====================== filterebigcoyorahls ======================
 #EXTINF:-1 tvg-name="filterebigcoyorahls" tvg-logo="https://i.imgur.com/xuId6Os.png" ,filterebigcoyorahls
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/filterebigcoyorahls.m3u
 
-# ====================== mydoomextra ======================
-#EXTINF:-1 tvg-name="mydoomextra" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="mydoomextra",mydoomextra
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/mydoomextra.m3u
 
 # ====================== fives ======================
 #EXTINF:-1 tvg-name="fives" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="fives",fives
