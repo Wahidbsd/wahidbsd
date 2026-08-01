@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR | ALWAN SPORTS",##### AR - ALWAN Fox #####
+https://foxtv-app-panel.yallakoora.org/stream/ALWAN%20SPORT%201.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR | ALWAN SPORTS",##### AR - ALWAN SPORTS #####
 http://100main.cc:80/live/040323C244F1138/y4TQAcg6uf/1339208.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN WWE 4K
