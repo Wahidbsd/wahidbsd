@@ -1,4 +1,5 @@
 #EXTM3U
+
 # ====================== rookie4month ======================
 #EXTINF:-1 tvg-name="rookie4month" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="rookie4month",rookie4month
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month.m3u
@@ -100,9 +101,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/odai.m3u
 #EXTINF:-1 tvg-name="5m3u8HD Chals" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="streamteam",Mmu8 steam
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fiveshls.m3u
 
-# ====================== Maxxxx ======================
-#EXTINF:-1 tvg-name="max" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Maxxx",
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
 
 
 
