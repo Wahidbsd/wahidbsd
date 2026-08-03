@@ -4,6 +4,10 @@
 #EXTINF:-1 tvg-name="rookie4month" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="rookie4month",rookie4month
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month.m3u
 
+# ====================== sportswear ======================
+#EXTINF:-1 tvg-name="sportswear" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="sportswear",sportswear
+https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/d95d247fe883044ad414ed60d5f5550597939ed8/playlists/sports.m3u
+
 # ====================== liiin ======================
 #EXTINF:-1 tvg-name="lionfoonewt" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lionfoonewt",liiii865n
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/lionfoonewt.m3u
