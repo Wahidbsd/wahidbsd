@@ -1,5 +1,8 @@
 #EXTM3U
 
+# ====================== odai ======================
+#EXTINF:-1 tvg-name="odaiii" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="odaii",odiiii
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/odai.m3u
 # ====================== aroxbein ======================
 #EXTINF:-1 tvg-name="aroxbein" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="aroxbein",aroxbein
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/aroxbein.m3u
