@@ -13,6 +13,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/odai.m3u
 #EXTINF:-1 tvg-name="rookie4month" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="rookie4month",rookie4month
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month.m3u
 
+# ====================== 2clwithts ======================
+#EXTINF:-1 tvg-name="2clwithts" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="2clwithts",2clwithts
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.m3u
+
 # ====================== sportswear ======================
 #EXTINF:-1 tvg-name="sportswear" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="sportswear",sportswear
 https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/d95d247fe883044ad414ed60d5f5550597939ed8/playlists/sports.m3u
