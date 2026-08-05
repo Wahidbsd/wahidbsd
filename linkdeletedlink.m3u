@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.
 #EXTINF:-1 tvg-name="sportswear" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="sportswear",sportswear
 https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/d95d247fe883044ad414ed60d5f5550597939ed8/playlists/sports.m3u
 
+# ====================== cessaire2028 ======================
+#EXTINF:-1 tvg-name="necessaire2028" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="necessaire2028",cessaire2028
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/n%C3%A9cessaire2028.m3u
 # ====================== gremani ======================
 #EXTINF:-1 tvg-name="gremani" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="gremani",gremani
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/gremani.m3u
