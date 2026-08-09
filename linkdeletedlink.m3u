@@ -8,6 +8,10 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/mc.m3u
 #EXTINF:-1 tvg-name="goldenplayerz" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="goldenplayerzdrnver",goldenplayerz
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/goldenplayerz.m3u
 
+# ====================== pronetimeshif ======================
+#EXTINF:-1 tvg-name="pronetimeshif" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pronetimeshift",pronetimeshift
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetimeshif.m3u
+
 # ====================== odai ======================
 #EXTINF:-1 tvg-name="odai" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="odai",odai
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/odai.m3u
