@@ -97,9 +97,6 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min 
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 
-# ====================== GBErdemsarikaya ======================
-#EXTINF:-1 tvg-name="GBErdemsarikaya Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="GBErdemsarikaya",GBErdemsarikaya 
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/GBErdemsarikaya.m3u
 
 # ====================== ofeynew ======================
 #EXTINF:-1 tvg-name="ofeynew m744" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="ofeynew",ofeynew 
