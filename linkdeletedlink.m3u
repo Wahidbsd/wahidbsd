@@ -12,9 +12,6 @@ https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/goldenplay
 #EXTINF:-1 tvg-name="pronetimeshif" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pronetimeshift",pronetimeshift
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetimeshif.m3u
 
-# ====================== odai ======================
-#EXTINF:-1 tvg-name="odai" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="odai",odai
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/odai.m3u
 
 # ====================== rookie4month ======================
 #EXTINF:-1 tvg-name="rookie4month" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="rookie4month",rookie4month
@@ -45,9 +42,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/netfull2.m3u
 #EXTINF:-1 tvg-name="raidnet31" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="raidnet31",raidnet31
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/raidnet31.m3u
 
-# ====================== pronetnewjuilet ======================
-#EXTINF:-1 tvg-name="pronetnewjuilet" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pronetnewjuilet",pronetnewjuilet
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetnewjuilet.m3u
 
 
 # ====================== 81637jdidppp ======================
