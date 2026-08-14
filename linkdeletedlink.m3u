@@ -1,7 +1,7 @@
 #EXTM3U
 # ====================== lightott======================
-#EXTINF:-1 tvg-name="lightott" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lightott sa",lightott 
-http://m3u-hoster.indexiptv212.workers.dev/get/f21a39d7-727d-4b17-8cbd-62156ff2a283/playlist.m3u
+#EXTINF:-1 tvg-name="tod" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="tod sa",vidma 
+https://m3uextractor.indexiptv212.workers.dev/download/11cb282a-64ae-46b5-b3f4-c002fae307db/Live_VIP%20%E2%9D%96%20BEIN%20SPORTS%20TOD.m3u8
 
 # ====================== 4m ======================
 #EXTINF:-1 tvg-name="4m sa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="4m sa",4m sat
