@@ -1,4 +1,9 @@
 #EXTM3U
+
+# ====================== 4m ======================
+#EXTINF:-1 tvg-name="4m sa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="4m sa",4m sat
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
+
 #EXTINF:-1 tvg-name="open1 " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="open1",open1
 https://od.lk/s/OThfNDY1MDg2NDdfdFN3THU/pronetnewjuilet%20%281%29.m3u
 
