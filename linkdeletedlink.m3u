@@ -1,4 +1,10 @@
 #EXTM3U
+
+
+# ====================== ucl======================
+#EXTINF:-1 tvg-name="ucl" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ucl sa",ucl11727#7 
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ucl.m3u
+
 # ====================== lightott======================
 #EXTINF:-1 tvg-name="tod" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="tod sa",vidma 
 https://m3uextractor.indexiptv212.workers.dev/download/11cb282a-64ae-46b5-b3f4-c002fae307db/Live_VIP%20%E2%9D%96%20BEIN%20SPORTS%20TOD.m3u8
