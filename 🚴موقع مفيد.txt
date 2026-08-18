@@ -31,3 +31,4 @@ https://moxt.ai/w/24kmofso/integrations
 # https://stiptv.ddns.me/
 https://archive.org/details/20221009_20221009_2238/page/n1/mode/1up
 ## https://browsy.app/
+https://orxa.vercel.app/movie/vidsrc-tv%3A276161
