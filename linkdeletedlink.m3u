@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+
+# ====================== kappa======================
+#EXTINF:-1 tvg-name="kappa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="kappa sa",ucl11727#7 
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/kappa.m3u
+
 # ====================== ucl======================
 #EXTINF:-1 tvg-name="ucl" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ucl sa",ucl11727#7 
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ucl.m3u
