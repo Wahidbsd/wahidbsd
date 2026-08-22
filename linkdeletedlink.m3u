@@ -3,13 +3,6 @@
 
 
 
-# ====================== kappa======================
-#EXTINF:-1 tvg-name="kappa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="kappa ",kappaa
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/kappa.m3u
-
-# ====================== ucl======================
-#EXTINF:-1 tvg-name="ucl" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ucl sa",ucl11727#7 
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ucl.m3u
 
 # ====================== lightott======================
 #EXTINF:-1 tvg-name="tod" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="tod sa",vidma 
@@ -19,17 +12,12 @@ https://m3uextractor.indexiptv212.workers.dev/download/11cb282a-64ae-46b5-b3f4-c
 #EXTINF:-1 tvg-name="4m sa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="4m sa",4m sat
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
 
-#EXTINF:-1 tvg-name="open1 " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="open1",open1
-https://od.lk/s/OThfNDY1MDg2NDdfdFN3THU/pronetnewjuilet%20%281%29.m3u
 
 # ====================== ziadaaaa ======================
 #EXTINF:-1 tvg-name="ziadaaaa mars" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ziadaaaa",ziadaaaa
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/TeJBQDzE781637.m3u
 
 
-# ====================== ALWANSPORTS2mois ======================
-#EXTINF:-1 tvg-name="ALWANSPORTS2mois " tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ALWANSPORTS2mois",ALWANSPORTS2mois
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/ALWANSPORTS2mois.m3u
 
 # ====================== mcnewwx ======================
 #EXTINF:-1 tvg-name="mcnewwx" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="mcnewwx",mcnewwx
