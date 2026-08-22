@@ -1,5 +1,9 @@
 #EXTM3U
 
+# ====================== exonetpro ======================
+#EXTINF:-1 tvg-name=" exonetpro" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="exonetpro" ,exonetpro
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/exonetpro.m3u
+
 # ====================== iptvnow ======================
 #EXTINF:-1 tvg-name=" iptvnow" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title=" iptvnowa",iptvnow sat
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.m3u
