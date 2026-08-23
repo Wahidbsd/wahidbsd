@@ -1,6 +1,10 @@
 #EXTM3U
 
 # ====================== 2028hls ======================
+#EXTINF:-1 tvg-name=" ultrasport" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="ultrasport" ,ultrasport
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ultrasport.m3u
+
+# ====================== 2028hls ======================
 #EXTINF:-1 tvg-name=" 2028hls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="2028hls" ,2028hls
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/2028hls.m3u
 
