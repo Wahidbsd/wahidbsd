@@ -1,5 +1,7 @@
 #EXTM3U
 
+EXTINF:-1 tvg-name=" purefr" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="purefr" ,purefr
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/purefr.m3u
 
 # ====================== 2028hls ======================
 #EXTINF:-1 tvg-name=" 2028hls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="2028hls" ,2028hls
