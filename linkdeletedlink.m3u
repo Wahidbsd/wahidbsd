@@ -1,6 +1,8 @@
 #EXTM3U
 
-
+# ====================== lionfoomars ======================
+#EXTINF:-1 tvg-name=" lionfoomars" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lionfoomars" ,lionfoomars
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/lionfoomars(1).m3u
 
 # ====================== 2028hls ======================
 #EXTINF:-1 tvg-name=" 2028hls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="2028hls" ,2028hls
