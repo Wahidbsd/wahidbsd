@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name=" Destie01" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Destie01" ,Destie01
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Destie01.m3u
 
 #EXTINF:-1 tvg-name=" bestrovider" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="bestrovider" ,bestrovider
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovider.m3u
