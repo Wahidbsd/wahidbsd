@@ -5,8 +5,7 @@
 #EXTINF:-1 tvg-name=" bestrovider" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="bestrovider" ,bestrovider
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovider.m3u
 
-#EXTINF:-1 tvg-name=" go1000" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="go10004kxyz" ,go10004kxyz
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/go1000.m3u
+
 
 #EXTINF:-1 tvg-name=" jungledejla" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="jungledejla" ,jungledejla
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/jungledejla.m3u
