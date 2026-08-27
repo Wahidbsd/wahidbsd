@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name=" family4k" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="family4k" ,family4k
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/family4k.m3u
+
 #EXTINF:-1 tvg-name=" 0011" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="0011" ,0011
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/0011.m3u
 
