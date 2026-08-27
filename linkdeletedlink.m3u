@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-name=" family4khls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="family4khls" ,family4khls
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/family4khls.m3u
 
-#EXTINF:-1 tvg-name=" family4k" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="family4k" ,family4k
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/family4k.m3u
 
 #EXTINF:-1 tvg-name=" 0011" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="0011" ,0011
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/0011.m3u
@@ -15,8 +13,6 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Destie01.m3u
 #EXTINF:-1 tvg-name=" bestrovider" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="bestrovider" ,bestrovider
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovider.m3u
 
-#EXTINF:-1 tvg-name=" hatrick3333" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="hatrick3" ,hatrick
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/hatrick.m3u
 
 #EXTINF:-1 tvg-name=" jungledejla" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="jungledejla" ,jungledejla
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/jungledejla.m3u
