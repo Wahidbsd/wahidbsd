@@ -15,7 +15,8 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Destie01.m3u
 #EXTINF:-1 tvg-name=" bestrovider" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="bestrovider" ,bestrovider
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovider.m3u
 
-
+#EXTINF:-1 tvg-name=" hatrick3333" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="hatrick3" ,hatrick
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/hatrick.m3u
 
 #EXTINF:-1 tvg-name=" jungledejla" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="jungledejla" ,jungledejla
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/jungledejla.m3u
