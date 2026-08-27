@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name=" 0011" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="0011" ,0011
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/0011.m3u
 
 #EXTINF:-1 tvg-name=" Destie01" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Destie01" ,Destie01
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Destie01.m3u
