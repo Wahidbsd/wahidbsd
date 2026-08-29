@@ -10,8 +10,6 @@ https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/NMlast.m3u
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/family4khls.m3u
 
 
-#EXTINF:-1 tvg-name=" 0011" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="0011" ,0011
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/0011.m3u
 
 #EXTINF:-1 tvg-name=" Destie01" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Destie01" ,Destie01
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Destie01.m3u
@@ -43,9 +41,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/exonetpro.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/paixif.m3u
 
 
-# ====================== iptvnow ======================
-#EXTINF:-1 tvg-name=" iptvnow" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title=" iptvnowa",iptvnow sat
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/iptvnow.m3u
 
 # ====================== deleted ======================
 #EXTINF:-1 tvg-name="deletecd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
@@ -100,9 +95,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/raidnet31.m3u
 
 
 
-# ====================== 81637jdidppp ======================
-#EXTINF:-1 tvg-name="81637jdidppp" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="81637jdidppp",81637jdidppp
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/81637jdidppp.m3u
 
 
 # ====================== neosfpootop ======================
@@ -121,9 +113,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/filterebigcoyorahl
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fives.m3u
 
 
-# ====================== sandott ======================
-#EXTINF:-1 tvg-name="sandott" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="sandott",sandott
-https://raw.githubusercontent.com/Wahidbsd/cloudstremremo/refs/heads/Main/sandott.m3u
 
 
 
@@ -139,9 +128,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 
 
 
-# ====================== dsmqbfezpardncom ======================
-#EXTINF:-1 tvg-name="dsmqbfezpardncom Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="dsmqbfezpardncom",dsmqbfezpardncom 
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/dsmqbfezpardncom.m3u
 
 
 
@@ -160,6 +146,4 @@ https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/foot.m3u
 https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
 
 
-# ====================== linimko ======================
-#EXTINF:-1 tvg-name="linko" tvg-logo="https://ferrot.org/ferrot.png" group-title="linko",linko
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/tvg%20links.m3u
+
