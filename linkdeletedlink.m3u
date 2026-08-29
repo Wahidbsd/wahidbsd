@@ -9,8 +9,6 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/Destie01.m3u
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovider.m3u
 
 
-#EXTINF:-1 tvg-name=" jungledejla" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="jungledejla" ,jungledejla
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/jungledejla.m3u
 
 #EXTINF:-1 tvg-name=" Atlas" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Atlas" ,lionfoomars
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/Atlas.m3u
@@ -44,10 +42,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedl
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
 
 
-
-# ====================== Djilalhlsss ======================
-#EXTINF:-1 tvg-name="Djilalhlsss sa" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Djilalhlsss 333²22", Djilalhlsss
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/djlahls.m3u
 
 # ====================== goldenplayerz ======================
 #EXTINF:-1 tvg-name="goldenplayerz" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="goldenplayerzdrnver",goldenplayerz
