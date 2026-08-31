@@ -20,9 +20,9 @@ https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/Atlas.m3u
 #EXTINF:-1 tvg-name=" 2028hls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="2028hls" ,2028hls
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/2028hls.m3u
 
-# ====================== exonetpro ======================
-#EXTINF:-1 tvg-name=" exonetpro" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="exonetpro" ,exonetpro
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/exonetpro.m3u
+# ====================== NmTs ======================
+#EXTINF:-1 tvg-name=" NmTs" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="NmTs" ,NmTs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/NmTs.m3u
 
 # ====================== paixif ======================
 #EXTINF:-1 tvg-name="paixif Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="paixif",paixif 
