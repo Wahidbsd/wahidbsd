@@ -1,9 +1,7 @@
 #EXTM3U
 
 
-# ====================== netprogood ======================
-#EXTINF:-1 tvg-name=" netprogood" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="netprogood" ,netprogood
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/pronetbingo.m3u
+
 
 
 #EXTINF:-1 tvg-name=" Destie01" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Destie01" ,Destie01
