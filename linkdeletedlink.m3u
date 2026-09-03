@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name=" swerty" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="qwerty" ,qwerty
-https://m3uedit.online/get/5cf9393b4e10caa5082250baa32eacc6.m3u
+#EXTINF:-1 tvg-name=" Qwerty" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="qwerty" ,qwerty
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/qwerty.m3u
 
 
 
