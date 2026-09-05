@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name=" nexonrock" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="nexonrock" ,nexonrock
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/nexonrock.m3u
 
 #EXTINF:-1 tvg-name=" diwan" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="diwan" ,diwanjsk
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Diwan.m3u
