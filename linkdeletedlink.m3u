@@ -2,8 +2,9 @@
 
 
 
-
-
+# ====================== liiin ======================
+#EXTINF:-1 tvg-name="lionxtra" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="lionXtra",lionxtra
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Lionkxtra.m3u
 
 #EXTINF:-1 tvg-name=" crb iptv now" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="crb" ,crb
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/crbmod.m3u
