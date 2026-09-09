@@ -1,5 +1,10 @@
 #EXTM3U
-stream
+
+
+#EXTINF:-1 .tvg-name="gazi1lite" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="gaziLite",187 gazlite
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gzzilite.m3u
+
+
 #EXTINF:-1 .tvg-name="gazi1liv68hls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="gazi168hls",187 gazhls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gazi168streamhls.m3u
 
