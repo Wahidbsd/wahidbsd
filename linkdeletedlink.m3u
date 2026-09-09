@@ -5,8 +5,8 @@
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gzzilite.m3u
 
 
-#EXTINF:-1 .tvg-name="gazi1liv68hls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="gazi168hls",187 gazhls
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gazi168streamhls.m3u
+#EXTINF:-1 .tvg-name="skweek" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="skweek",187 skweeek
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/skweeeeek.m3u
 
 #EXTINF:-1 .tvg-name="gazi1liv68" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="gazi168",187 gaz
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gazi168live.m3u
