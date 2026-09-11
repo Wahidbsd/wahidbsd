@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 .tvg-name="test" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="test",1test
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/%20test.m3u
+
 
 #EXTINF:-1 .tvg-name="gazi1lite" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="gaziLite",187 gazlite
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gzzilite.m3u
