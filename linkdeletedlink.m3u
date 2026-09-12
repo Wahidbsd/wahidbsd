@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 .tvg-name="metamango" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="metzmango",mrtamago
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mangometa.m3u
 
 #EXTINF:-1 .tvg-name="test2" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="test",1test
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/null2gro.m3u
