@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS NEWS ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411398&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411397&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS1 ᵁᴴᴰ8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411396&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS2 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411395&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS3 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411394&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS4 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411393&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS5 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411392&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS6 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411391&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS7 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411390&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS8 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411389&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS9 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411388&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411385&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411384&extension=ts
