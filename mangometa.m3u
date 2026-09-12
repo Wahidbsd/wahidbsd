@@ -3,10 +3,10 @@
 url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",flexx11 ᵁᴴᴰ 8K
 https://cdnvid.dramalvr.com/hls/Q82sl3MIBi_6aa415f86febc/playlist_1080p.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411397&extension=ts
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS1 ᵁᴴᴰ8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411396&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN jzck 1 GLOBAL ᵁᴴᴰ 8K
+https://cdnvid.dramalvr.com/hls/v4oNrPStFb_6aa2974dca681/playlist_1080p.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN jack 2 ᵁᴴᴰ8K
+https://cdnvid.dramalvr.com/hls/aVo9tH3j4b_6aa28d17a4782/playlist_1080p.m3u8
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS2 ᵁᴴᴰ 8K
 http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411395&extension=ts
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS3 ᵁᴴᴰ 8K
