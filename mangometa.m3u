@@ -1,14 +1,13 @@
 #EXTM3U 
 
-url-tvg="https://iptv-org.github.io/iptv/index.m3u"
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",flexx11 ᵁᴴᴰ 8K
 https://cdnvid.dramalvr.com/hls/Q82sl3MIBi_6aa415f86febc/playlist_1080p.m3u8
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN jzck 1 GLOBAL ᵁᴴᴰ 8K
 https://cdnvid.dramalvr.com/hls/v4oNrPStFb_6aa2974dca681/playlist_1080p.m3u8
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN jack 2 ᵁᴴᴰ8K
 https://cdnvid.dramalvr.com/hls/aVo9tH3j4b_6aa28d17a4782/playlist_1080p.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS2 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411395&extension=ts
+#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",A Love Other 1
+https://142b361c5f9c0d31df22903f69a86338.r2.cloudflarestorage.com/5ttttv/originals/53d8eafa-8acc-4c40-a603-06d3ef2d5f28-A.Love.Other.Than.Yours.S01E01.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b68eae234d246433b25e599764393052%2F20260912%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260912T142040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=87c7e6ad06360f6f60ed1d63d4cb0296bc30a017ce1c1ca8416a2a127e39a9fb
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS3 ᵁᴴᴰ 8K
 http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411394&extension=ts
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS4 ᵁᴴᴰ 8K
