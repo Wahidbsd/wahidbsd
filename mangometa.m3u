@@ -63,3 +63,30 @@ http://qimyclient.store/live/iron2958/123456/187.ts
 http://qimyclient.store/live/iron2958/123456/188.ts
 #EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 6 HD
 http://qimyclient.store/live/iron2958/123456/189.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 1 4K
+http://qimyclient.store/live/iron2958/123456/171.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 2 4K
+http://qimyclient.store/live/iron2958/123456/172.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 3 4K
+http://qimyclient.store/live/iron2958/123456/173.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 4 4K
+http://qimyclient.store/live/iron2958/123456/174.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 5 4K
+http://qimyclient.store/live/iron2958/123456/175.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 6 4K
+http://qimyclient.store/live/iron2958/123456/176.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 7 4K
+http://qimyclient.store/live/iron2958/123456/177.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 8 4K
+http://qimyclient.store/live/iron2958/123456/178.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 9 4K
+http://qimyclient.store/live/iron2958/123456/179.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 10 4K
+http://qimyclient.store/live/iron2958/123456/180.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN F1 4K
+http://qimyclient.store/live/iron2958/123456/181.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN UFC 4K
+http://qimyclient.store/live/iron2958/123456/182.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN WWE 4K
+http://qimyclient.store/live/iron2958/123456/183.ts
