@@ -26,3 +26,40 @@ http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411388&extensi
 http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411385&extension=ts
 #EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
 http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411384&extension=ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 1 (1080p)
+http://qimyclient.store/live/iron2958/123456/159.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 2 (1080p)
+http://qimyclient.store/live/iron2958/123456/160.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 3 (1080p)
+http://qimyclient.store/live/iron2958/123456/161.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 4 (1080p)
+http://qimyclient.store/live/iron2958/123456/162.ts
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 5 (1080p)
+http://qimyclient.store/live/iron2958/123456/163.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 1 HD
+http://qimyclient.store/live/iron2958/123456/184.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 2 HD
+http://qimyclient.store/live/iron2958/123456/185.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 3 HD
+http://qimyclient.store/live/iron2958/123456/186.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 4 HD
+http://qimyclient.store/live/iron2958/123456/187.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 5 HD
+http://qimyclient.store/live/iron2958/123456/188.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 6 HD
+http://qimyclient.store/live/iron2958/123456/189.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 1 HD
+http://qimyclient.store/live/iron2958/123456/184.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 2 HD
+http://qimyclient.store/live/iron2958/123456/185.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 3 HD
+http://qimyclient.store/live/iron2958/123456/186.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 4 HD
+http://qimyclient.store/live/iron2958/123456/187.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 5 HD
+http://qimyclient.store/live/iron2958/123456/188.ts
+#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS HD",ALWAN SPORT 6 HD
+http://qimyclient.store/live/iron2958/123456/189.ts
