@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/okvip64spo
 #EXTINF:-1 .tvg-name="juinskyweek" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="juinskyweek",juinskyweek
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/juinskyweek.m3u
 
+#EXTINF:-1 .tvg-name="juinskyweekorg" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="juinskyirgweek",juinskyweekorg
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/juinskyweek_organized.m3u
 
 
 #EXTINF:-1 .tvg-name="metamango" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="metzmango",mrtamago
