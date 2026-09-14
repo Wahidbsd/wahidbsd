@@ -3,6 +3,9 @@
 #EXTINF:-1 .tvg-name="okvip64sport" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="okvip64sport",ok64
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/okvip64sport.m3u
 
+#EXTINF:-1 .tvg-name="juinskyweek" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="juinskyweek",juinskyweek
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/juinskyweek.m3u
+
 
 
 #EXTINF:-1 .tvg-name="metamango" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="metzmango",mrtamago
