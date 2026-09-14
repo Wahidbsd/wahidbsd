@@ -2,7 +2,7 @@
 EXTINF:-1 .tvg-name="look1year" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="look1year",look1year
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/look1year.m3u
 
-EXTINF:-1 .tvg-name="faya8000" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="faya8000",4faya8000
+#EXTINF:-1 .tvg-name="faya8000" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="faya8000",4faya8000
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/faya8000.m3u
 
 #EXTINF:-1 .tvg-name="okvip64sport" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="okvip64sport",ok64
