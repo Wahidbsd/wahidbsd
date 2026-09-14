@@ -5,8 +5,6 @@
 #EXTINF:-1 .tvg-name="metamango" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="metzmango",mrtamago
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mangometa.m3u
 
-#EXTINF:-1 .tvg-name="eagleau90420" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="eagleau90420",eagleau90420
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/eagleau90420.m3u
 
 #EXTINF:-1 .tvg-name="dikomag" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="dikomag",dikomag
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/dikomag.m3u
