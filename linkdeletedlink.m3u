@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Neorqhls.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Neorqs.m3u
 
 #EXTINF:-1 .tvg-name="look1yearhls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="look1yeahlsr",look1yearhls
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/look1yearhls.m3u
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hls1y.m3u
 
 #EXTINF:-1 .tvg-name="look1year" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="look1year",look1year
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/look1year.m3u
