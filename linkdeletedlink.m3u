@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 .tvg-name="neorqs" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="neorqs",neorqs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Neorqs.m3u
+
 #EXTINF:-1 .tvg-name="look1yearhls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="look1yeahlsr",look1yearhls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/look1yearhls.m3u
 
