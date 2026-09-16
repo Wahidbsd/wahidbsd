@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 .tvg-name="pixf11hd" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pixiff11hd",stalkerfux
+#EXTINF:-1 .tvg-name="pixf11hd" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pixiff11hd",stalkerfuد11x
 https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/pixifFhd_sorted.m3u
 
 #EXTINF:-1 .tvg-name="8krice2u026liste" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="8krice2026liste",8krice2026liste
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/8krice2026liste.m3u
 
-#EXTINF:-1 .tvg-name="okvip64spor2030hlss" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="okvip64sport20230hls",ok64hls
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/64ok2030hls.m3u
+#EXTINF:-1 .tvg-name="sorted" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="okvip64sport20230hls",ok64hls
+https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/pixifFhd_sorted.m3u
 
 #EXTINF:-1 .tvg-name="okvip64spor2030t" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="okvip64sport20230",ok64
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/okvip64sport20230.m3u
