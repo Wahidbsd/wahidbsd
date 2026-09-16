@@ -7,8 +7,8 @@ https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/pixiiiif.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/8krice2026liste.m3u
 
 
-#EXTINF:-1 .tvg-name="okvip64spor2030t" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="okvip64sport20230",ok64
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/okvip64sport20230.m3u
+#EXTINF:-1 .tvg-name="pixo" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pixo",ok64
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pixiiiifC.m3u
 
 #EXTINF:-1 .tvg-name="neorqHls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="neorqhls",neorhlqs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Neorqhls.m3u
