@@ -173,9 +173,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
 
 
 
-# ====================== 5m3u8 ======================
-#EXTINF:-1 tvg-name="5m3u8HD Chals" tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="streamteam",Mmu8 steam
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fiveshls.m3u
 
 # ====================== gospeed ======================
 #EXTINF:-1 tvg-name="gospeed " tvg-logo="https://www2.0zz0.com/2025/10/11/07/523077813.png" group-title="gospeed",gospeedd 
