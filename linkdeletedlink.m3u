@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 .tvg-name="M  O N T ZGE24" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="MONTAGE24",MONTAFE24G
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/montage24.m3u
+
+
 
 
 
