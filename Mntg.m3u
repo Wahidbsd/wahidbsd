@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="12 - اليونان",===== اليونان =====
+http://0.0.0.0/
+
+# ========== EUROSPORT ==========
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: EUROSPORT 1 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56690.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: EUROSPORT 2 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56691.ts
+
+# ========== COSMOTE SPORT ==========
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: COSMOTE SPORT 1 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56692.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: COSMOTE SPORT 2 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56693.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: COSMOTE SPORT 3 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56694.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: COSMOTE SPORT 4 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56695.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: COSMOTE SPORT 5 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56696.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: COSMOTE SPORT 6 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56697.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: COSMOTE SPORT 7 HD
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56698.ts
+
+# ========== NOVA SPORTS ==========
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: NOVA SPORTS 1
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56736.ts
+#EXTINF:-1 tvg-logo="http://tprohd.info/pic/country/grecc.png" group-title="12 - اليونان",GR: NOVA SPORTS 2
+http://moontg24.xyz:8080/live/32503551673826/73375034483849/56737.ts
 #EXTINF:-1 tvg-logo="" group-title="01 - الرياضة",ALWAN SPORT 1 4K
 http://moontg24.xyz:8080/live/32503551673826/73375034483849/282574.ts
 #EXTINF:-1 tvg-logo="" group-title="01 - الرياضة",ALWAN SPORT 1 HD
