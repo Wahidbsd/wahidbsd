@@ -1,66 +1,77 @@
-#EXTM3U 
-
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",flexx12 ᵁᴴᴰ 8K
-https://cdnvid.dramalvr.com/hls/sFNQGndrUQ_6aa56d8412be5/playlist_1080p.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN jzck 1 GLOBAL ᵁᴴᴰ 8K
-https://cdnvid.dramalvr.com/hls/v4oNrPStFb_6aa2974dca681/playlist_1080p.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN jack 2 ᵁᴴᴰ8K
-https://cdnvid.dramalvr.com/hls/aVo9tH3j4b_6aa28d17a4782/playlist_1080p.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",A Love Other 1
-https://142b361c5f9c0d31df22903f69a86338.r2.cloudflarestorage.com/5ttttv/originals/53d8eafa-8acc-4c40-a603-06d3ef2d5f28-A.Love.Other.Than.Yours.S01E01.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b68eae234d246433b25e599764393052%2F20260912%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260912T142040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=87c7e6ad06360f6f60ed1d63d4cb0296bc30a017ce1c1ca8416a2a127e39a9fb
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",bona 14 final 
-https://cdnvid.dramalvr.com/hls/9Orf4jjfyU_6aa5748e3bb6d/playlist_1080p.m3u8
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",crrw girl 1
-https://142b361c5f9c0d31df22903f69a86338.r2.cloudflarestorage.com/5ttttv/originals/a51dadf5-ff99-4fed-a56f-3f29a518712b-Crew_Girl_S01E01_new.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b68eae234d246433b25e599764393052%2F20260912%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260912T192008Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=064d66114ab63fc3bae4fef861a4d7ca68cffda4a85d3d5241225158e7b9e053
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS5 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411392&extension=ts
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS6 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411391&extension=ts
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS7 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411390&extension=ts
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS8 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411389&extension=ts
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS9 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411388&extension=ts
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411385&extension=ts
-#EXTINF:-1 group-title="AR| BEIN SPORTS ᵁᴴᴰ 8K",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
-http://official8k.com/play/live.php?mac=00:1A:79:02:A1:61&stream=1411384&extension=ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 1 (1080p)
-http://qimyclient.store/live/hawk4907/123456/159.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 2 (1080p)
-http://qimyclient.store/live/hawk4907/123456/160.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 3 (1080p)
-http://qimyclient.store/live/hawk4907/123456/161.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 4 (1080p)
-http://qimyclient.store/live/hawk4907/123456/162.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="beIN SPORTS 1080p (FHD)",beIN Sports 5 (1080p)
-http://qimyclient.store/live/hawk4907/123456/163.ts
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 1 4K
-http://qimyclient.store/live/hawk4907/123456/171.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 2 4K
-http://qimyclient.store/live/hawk4907/123456/172.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 3 4K
-http://qimyclient.store/live/hawk4907/123456/173.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 4 4K
-http://qimyclient.store/live/hawk4907/123456/174.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 5 4K
-http://qimyclient.store/live/hawk4907/123456/175.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 6 4K
-http://qimyclient.store/live/hawk4907/123456/176.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 7 4K
-http://qimyclient.store/live/hawk4907/123456/177.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 8 4K
-http://qimyclient.store/live/hawk4907/123456/178.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 9 4K
-http://qimyclient.store/live/hawk4907/123456/179.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN SPORT 10 4K
-http://qimyclient.store/live/hawk4907/123456/180.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN F1 4K
-http://qimyclient.store/live/hawk4907/123456/181.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN UFC 4K
-http://qimyclient.store/live/hawk4907/123456/182.ts
-#EXTINF:-1 tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="ALWAN SPORTS 4K",ALWAN WWE 4K
-http://qimyclient.store/live/hawk4907/123456/183.ts
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 1 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738894.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 1 HD
+http://a.norzro.cfd/live/8667593288/2505245402/738881.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 1 SD
+http://a.norzro.cfd/live/8667593288/2505245402/738875.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 2 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738893.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 2 HD
+http://a.norzro.cfd/live/8667593288/2505245402/738880.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 2 SD
+http://a.norzro.cfd/live/8667593288/2505245402/738874.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 3 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738892.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 3 HD
+http://a.norzro.cfd/live/8667593288/2505245402/738879.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 3 SD
+http://a.norzro.cfd/live/8667593288/2505245402/738873.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 4 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738891.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 4 HD
+http://a.norzro.cfd/live/8667593288/2505245402/738878.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 4 SD
+http://a.norzro.cfd/live/8667593288/2505245402/738872.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 5 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738890.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 5 HD
+http://a.norzro.cfd/live/8667593288/2505245402/738877.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 5 SD
+http://a.norzro.cfd/live/8667593288/2505245402/738871.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 6 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738889.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 6 HD
+http://a.norzro.cfd/live/8667593288/2505245402/738876.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 6 SD
+http://a.norzro.cfd/live/8667593288/2505245402/738870.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 7 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738888.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 8 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738887.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 9 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738886.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",Alwan Sport 10 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738885.m3u8
+#EXTINF:-1 tvg-logo="https://media.filfan.com/NewsPics/FilfanNew/large/w4.jpg" group-title="ALWAN - ألوان",Alwan WWE 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738882.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-yL16irvtghCeGC5PVmI4txRKE1bMWLwieFqv6PjqyC01U4suDtvlsYkVTzxYld9ND4" group-title="ALWAN - ألوان",Alwan UFC 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738884.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/15/F1-Logo-PNG-Photo.png" group-title="ALWAN - ألوان",Alwan F1 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738883.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Aflam 1 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738869.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Aflam 2 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738868.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Aflam 3 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738867.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Aflam 4 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738866.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Aghani 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738861.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Alwathaeqye 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738864.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Anime 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738857.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Atfal 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738863.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Bollywood 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738860.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Korea 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738859.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Mosalsalat 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738862.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Mosalsalat+ 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738858.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Turkey 4K
+http://a.norzro.cfd/live/8667593288/2505245402/738865.m3u8
