@@ -50,9 +50,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/skweeeeek.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gazi168live.m3u
 
 
-# ====================== faya8000 ======================
-#EXTINF:-1 .tvg-name="faya8000" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="faya8000",faya8000
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/faya8000.m3u
 
 #EXTINF:-1 tvg-name=" crb iptv now" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="crb" ,crb
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/crbmod.m3u
@@ -67,8 +64,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/qwertyorgani
 
 
 
-#EXTINF:-1 tvg-name=" 5conhls" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="5conhls" ,5conhls
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/skweek5Conm3u8.m3u
+
 
 
 #EXTINF:-1 tvg-name=" Destie01" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Destie01" ,Destie01
