@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+# ====================== deleted ======================
+#EXTINF:-1 tvg-name="deletced" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
+
 #EXTINF:-1 .tvg-name="M  O N 16T ZGE24" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="MONTAGE24",MONTAFE24G
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Mntg.m3u
 
@@ -92,9 +96,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/paixif.m3u
 
 
 
-# ====================== deleted ======================
-#EXTINF:-1 tvg-name="deletecd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
 
 
 
