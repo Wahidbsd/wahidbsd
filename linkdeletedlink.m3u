@@ -8,10 +8,10 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedl
 #EXTINF:-1 .tvg-name="M  O N 16T ZGE24" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="MONTAGE24",MONTAFE24G
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Mntg.m3u
 
-##EXTINF:-1 .tvg-name="netmodfam" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="netmodfam",nmfm
+#EXTINF:-1 .tvg-name="netmodfam" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="netmodfam",nmfm
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/netmodfamiilia.m3u
 
-##EXTINF:-1 .tvg-name="jasontofile" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="jasontofile",jsntofile
+#EXTINF:-1 .tvg-name="jasontofile" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="jasontofile",jsntofile
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/exlpo.m3u
 
 #EXTINF:-1 .tvg-name="pixo" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="pixo",ok64
