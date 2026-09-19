@@ -119,9 +119,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/raidnet31.m3u
 
 
 
-# ====================== neosfpootop ======================
-#EXTINF:-1 tvg-name="wahid" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="wahid",wahid
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/neosfpooop.m3u
 
 
 
@@ -135,10 +132,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/neosfpooop.m
 
 
 
-# ====================== Maxxxx ======================
-#EXTINF:-1 tvg-name="max" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Maxxx",max
-https://raw.githubusercontent.com/Wahidbsd/usmh/refs/heads/Main/max2028.m3u
-
+#
 # ====================== 100MIN ======================
 #EXTINF:-1 tvg-name="100Min Sports" tvg-logo="http://148.251.133.153:8181/logo/cat/171.png" group-title="Sports",100Min 
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
