@@ -5,6 +5,8 @@
 #EXTINF:-1 tvg-name="deletced" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkuwDQwzTLUcaSNfbnLgrIm90SaqXWXyCCQ6MbK7F5M0ZhxwFd2znBHW4&s=10" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
 
+#EXTINF:-1 .tvg-name="Sonic" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="Sonic",Sonic
+https://od.lk/s/OThfNDY2NDQxNjZfRktTalY/Sonic.m3u
 
 #EXTINF:-1 .tvg-name="kaka" tvg-logo="https://i.imgur.com/xuId6Os.png" group-title="kaka",kakka
 https://m3uedit.online/get/e62185ac1e488c4c55fcca5c695cfc8e.m3u
