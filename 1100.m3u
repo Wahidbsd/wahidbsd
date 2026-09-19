@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
 
+#EXTINF:-1 tvg-name="chimzlonrr" group-title="chimalonr",chimamoene
+https://od.lk/s/OThfNDY2NDQ1MzBfYk0wRUw/chimalone.m3u
+
 #EXTINF:-1 tvg-name="bot" group-title="bot",bot
 https://od.lk/s/OThfNDY2NDQzMzFfSGp4cW0/telegrambot.m3u
 
