@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/linkdeletedlink.m3u
+
+#EXTINF:-1 tvg-name="bot" group-title="bot",bot
+https://od.lk/s/OThfNDY2NDQzMzFfSGp4cW0/telegrambot.m3u
+
+#EXTINF:-1 tvg-name="ok64" group-title="pixo",ok64
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pixiiiifC.m3u
+
+#EXTINF:-1 tvg-name="juinskyweekorg" group-title="juinskyirgweek",juinskyweekorg
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/juinskyweek_organized.m3u
+
+#EXTINF:-1 tvg-name="mrtamago" group-title="metzmango",mrtamago
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/METAMANGO.m3u
+
+#EXTINF:-1 tvg-name="dikomag" group-title="dikomag",dikomag
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/dikomag.m3u
+
+#EXTINF:-1 tvg-name="crb" group-title="crb",crb
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/crbmod.m3u
+
+#EXTINF:-1 tvg-name="bestrovider" group-title="bestrovider",bestrovider
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovider.m3u
+
+#EXTINF:-1 tvg-name="2028hls" group-title="2028hls",2028hls
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/2028hls.m3u
+
+#EXTINF:-1 tvg-name="NmTs" group-title="NmTs",NmTs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/NmTs.m3u
+
+#EXTINF:-1 tvg-name="paixif" group-title="paixif",paixif
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/paixif.m3u
+
+#EXTINF:-1 tvg-name="4m sat" group-title="4m sa",4m sat
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
+
+#EXTINF:-1 tvg-name="pronetimeshift" group-title="pronetimeshift",pronetimeshift
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetimeshif.m3u
+
+#EXTINF:-1 tvg-name="rookie4month" group-title="rookie4month",rookie4month
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month.m3u
+
+#EXTINF:-1 tvg-name="2clwithts" group-title="2clwithts",2clwithts
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.m3u
+
+#EXTINF:-1 tvg-name="sportswear" group-title="sportswear",sportswear
+https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/d95d247fe883044ad414ed60d5f5550597939ed8/playlists/sports.m3u
+
+#EXTINF:-1 tvg-name="cessaire2028" group-title="necessaire2028",cessaire2028
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/n%C3%A9cessaire2028.m3u
+
+#EXTINF:-1 tvg-name="raidnet31" group-title="raidnet31",raidnet31
+https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/raidnet31.m3u
+
+#EXTINF:-1 tvg-name="100Min" group-title="Sports",100Min
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/100main.m3u
+
+#EXTINF:-1 tvg-name="ALWAN1 Sports" group-title="ALWAN1",ALWAN1 Sports
+https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN1.m3u
