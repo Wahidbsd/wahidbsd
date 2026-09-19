@@ -3,13 +3,14 @@
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
 
-#EXTINF:-1 tvg-name="chimzlonrr" group-title="chimalonr",chimamoene
-https://od.lk/s/OThfNDY2NDQ1MzBfYk0wRUw/chimalone.m3u
+
+#EXTINF:-1 tvg-name="konate" group-title="konate",konate
+https://od.lk/s/OThfNDY2NDQ1MzFfZW5oNkY/Konate.m3u
 
 #EXTINF:-1 tvg-name="bot" group-title="bot",bot
 https://od.lk/s/OThfNDY2NDQzMzFfSGp4cW0/telegrambot.m3u
 
-#EXTINF:-1 tvg-name="ok64" group-title="pixo",ok64
+#EXTINF:-1 tvg-name="pixif" group-title="puxi",pixo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pixiiiifC.m3u
 
 #EXTINF:-1 tvg-name="juinskyweekorg" group-title="juinskyirgweek",juinskyweekorg
