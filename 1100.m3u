@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTINF:-1 tvg-name="AZERTY444" group-title="azerty",asiajub
+#EXTINF:-1 tvg-name="AZERTY444" group-title="azerty",asiajub
 https://od.lk/s/OThfNDY2OTE1OTNfZnR0UzU/deep.m3u
 #EXTINF:-1 tvg-name="AZERTY3" group-title="azerty",asiajub
 https://od.lk/s/OThfNDY2OTEyOTZfejRkRG8/asiaafult.m3u
