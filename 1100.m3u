@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+EXTINF:-1 tvg-name="AZERTY3" group-title="azerty",asiajub
+https://od.lk/s/OThfNDY2OTEyOTZfejRkRG8/asiaafult.m3u
 
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
