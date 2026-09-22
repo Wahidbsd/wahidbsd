@@ -1,15 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="AZERTY3" group-title="azerty",asiajub
-https://od.lk/s/OThfNDY2OTEyOTZfejRkRG8/asiaafult.m3u
 
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
 
 
-#EXTINF:-1 tvg-name="AZERTY" group-title="azerty",asiajub
-https://od.lk/s/OThfNDY2OTEyODlfSW1WUXM/asbingoi.m3u
+#EXTINF:-1 tvg-name="AZiaN" group-title="azerkdity",asiaxkdis
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/asbiin.m3u
 
 #EXTINF:-1 tvg-name="bot" group-title="bot",bot
 https://od.lk/s/OThfNDY2NDQzMzFfSGp4cW0/telegrambot.m3u
