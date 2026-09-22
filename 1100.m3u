@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="azianfr" group-title="azianfr",azianfr
+https://m3uedit.online/get/ffc36e7983fc769d97b92befa4de000e.m3u
+
 
 
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
