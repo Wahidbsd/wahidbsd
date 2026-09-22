@@ -1,0 +1,337 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845453.png" group-title="[LIVE]- |EU| FRANCE HEVC",##### GENERAL #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845453&extension=ts&play_token=u2QNwfGQpB&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845452.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - TF1 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845452&extension=ts&play_token=K15LThgWdT&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1161549.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - TF1+ STAR ACADEMY HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1161549&extension=ts&play_token=WtjsJ3fiup&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845450.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - FRANCE 2 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845450&extension=ts&play_token=1brwwmnmnd&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845449.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - FRANCE 3 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845449&extension=ts&play_token=6NNx0GqfIX&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845447.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - FRANCE 4 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845447&extension=ts&play_token=cPYdjlm8pl&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845446.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - FRANCE 5 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845446&extension=ts&play_token=tItQZWrL3Q&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845445.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - M6 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845445&extension=ts&play_token=CcE0a0HEsb&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845444.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - C8 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845444&extension=ts&play_token=IZbLlyx1i5&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845443.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - W9 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845443&extension=ts&play_token=XoShVfU9FI&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845442.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - 6TER HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845442&extension=ts&play_token=mr4n1sCBgW&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845441.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - TF1 FILMS & SÉRIES HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845441&extension=ts&play_token=r7EaNHXvyu&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845440.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - TMC HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845440&extension=ts&play_token=f1BU0CFNVj&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845439.png" group-title="[LIVE]- |EU| FRANCE HEVC",FR - TMC +1 HEVC
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=845439&extension=ts&play_token=Yvrk8BpJos&sn2=
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",##### GENERAL HIGHT QUALITY FHD #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543281&extension=ts&play_token=Gctyyo7Ilh&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553959.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1 FHD ◉
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553959&extension=ts&play_token=UBljWDUddy&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/778985.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1 +1 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=778985&extension=ts&play_token=3GVBUDuh7Z&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1161548.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1+ STAR ACADEMY FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1161548&extension=ts&play_token=fM0DiObtGa&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553960.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 2 FHD ◉
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553960&extension=ts&play_token=YCawP88O5Y&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553961.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 3 FHD ◉
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553961&extension=ts&play_token=pkig0liSkn&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553962.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 4 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553962&extension=ts&play_token=PNfyFWQjM4&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553963.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - FRANCE 5 FHD ◉
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553963&extension=ts&play_token=WQLxWBQdNN&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553964.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - M6 FHD ◉
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553964&extension=ts&play_token=yemOGt2Duu&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553967.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - C8 FHD ◉
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553967&extension=ts&play_token=8ADbSm1v26&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553968.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - 6TER FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553968&extension=ts&play_token=C9jIsdQKbw&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553969.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - TF1 SERIES FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553969&extension=ts&play_token=WIwqU3w0Nu&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553979.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - CHERIE 25 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553979&extension=ts&play_token=XFU7ie7CUF&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553966.png" group-title="[LIVE]- |EU| FRANCE GÉNÉRAL",FR - W9 FHD ◉
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553966&extension=ts&play_token=Qo1NkGxEWP&sn2=
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="[LIVE]- |EU| FRANCE SPORTS",##### FR SPORTS FHD #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=627493&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1338925.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - CANAL+ CAN HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1338925&extension=ts&play_token=hAzvxuWGp5&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/770798.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - CANAL+ FOOT HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=770798&extension=ts&play_token=IQuqXkj7KE&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/807390.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - CANAL+ FOOT UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=807390&extension=ts&play_token=Oaqxtf1CPD&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/770797.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - CANAL+ 360 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=770797&extension=ts&play_token=ruTGEFlnLt&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/807391.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - CANAL+ SPORT 360 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=807391&extension=ts&play_token=XfXTYQA9P3&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554024.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554024&extension=ts&play_token=omWVMIewIE&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543386.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD •
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543386&extension=ts&play_token=nF2pKctLTj&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554025.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT 2 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554025&extension=ts&play_token=sbQD3Ti2yY&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543390.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT 3 LIVE FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543390&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543392.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT 4 LIVE FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543392&extension=ts&play_token=RGEOIETGta&sn2=
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/RMC-SPORT-LIVE.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT LIVE 5 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543430&extension=ts&play_token=eEhlWK9jCy&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543431.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT LIVE 6 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543431&extension=ts&play_token=65igzB1IOo&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543432.png" group-title="[LIVE]- |EU| FRANCE SPORTS",FR - RMC SPORT LIVE 7 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543432&extension=ts&play_token=HO3hwIC3Xr&sn2=
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="[LIVE]- |EU| FRANCE CINEMA",##### CINEMA HIGHT QUALITY FHD #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=543588&extension=ts&play_token=IJtMDkluH4&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554001.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CANAL+ FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554001&extension=ts&play_token=uXr0rYKQEm&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554002.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CANAL+ CINEMA FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554002&extension=ts&play_token=eFeP4tvVFx&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/960977.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CANAL+ BOX OFFICE FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=960977&extension=ts&play_token=e5mu2JglHz&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554004.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CANAL+ FAMILY FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554004&extension=ts&play_token=saPbDA9Wm4&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554009.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CINE+ FRISSON FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554009&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554007.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - OCS FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554007&extension=ts&play_token=1bfBE6N7Uf&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/629709.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CINE+ CLASSIC FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629709&extension=ts&play_token=M2kRSSloPD&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554008.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CINE+ FESTIVAL FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554008&extension=ts&play_token=LKii24zlE3&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554006.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CINE+ EMOTION FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554006&extension=ts&play_token=hMHSuxqHDl&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/629708.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - CINE+ FAMILY FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629708&extension=ts&play_token=6Nu4o70NLC&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/629710.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - OCS GEANTS FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629710&extension=ts&play_token=bg3VhchUHh&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554011.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - OCS MAX FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554011&extension=ts&play_token=p6CCX57Nbx&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553974.png" group-title="[LIVE]- |EU| FRANCE CINEMA",FR - ACTION FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553974&extension=ts&play_token=QVMQynPnlM&sn2=
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",##### FRANCE DOCUMENTAIRE FHD #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=756672&extension=ts&play_token=r9GzG1klNG&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554034.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - DISCOVERY CHANNEL FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554034&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554032.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - DISCOVERY ID FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554032&extension=ts&play_token=Vbk7wMQyJZ&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554035.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - TLC FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554035&extension=ts&play_token=yBejuq24Dw&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554029.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - NATIONAL GEO FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554029&extension=ts&play_token=zgT3COhmBO&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/629706.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - NAT GEO WILD FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629706&extension=ts&play_token=JyDEIAPhv6&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554044.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - PLANETE + FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554044&extension=ts&play_token=Uqve4rkkpR&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554042.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - PLANETE AE FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554042&extension=ts&play_token=Qk8hD3ffWP&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554043.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - PLANETE CI FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554043&extension=ts&play_token=dZMgKZHrd9&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554037.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - HISTOIRE FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554037&extension=ts&play_token=lqlebDu2hu&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554038.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - TOUTE L'HISTOIRE FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554038&extension=ts&play_token=wuOu5ika2x&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554028.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - RMC STORY FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=554028&extension=ts&play_token=5dtqOLwflN&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/629699.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - RMC DECOUVERTE FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629699&extension=ts&play_token=9TNuTFy2ZO&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/629700.png" group-title="[LIVE]- |EU| FRANCE DOCUMENTAIRE",FR - CANAL+ DOCS FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629700&extension=ts&play_token=0uxxGKzH7L&sn2=
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="[LIVE]- |EU| FRANCE 4K",##### FRANCE 4K #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=756521&extension=ts&play_token=s6JGSmW8KK&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553660.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TF1 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553660&extension=ts&play_token=I18pqEJfAB&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553661.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 2 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553661&extension=ts&play_token=kJQJAFFoX5&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553662.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 3 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553662&extension=ts&play_token=LaVWr0jZ95&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553663.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 4 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553663&extension=ts&play_token=G40eudn1jv&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553664.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - FRANCE 5 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553664&extension=ts&play_token=MRbEyzgm0C&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553665.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - M6 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553665&extension=ts&play_token=CWRziK8qMX&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553666.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - ARTE 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553666&extension=ts&play_token=j9O9FZqpLm&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553667.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - C8 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553667&extension=ts&play_token=CmGDM3w9RA&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553668.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - W9 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553668&extension=ts&play_token=y3bq5m8j3y&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553669.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TFX 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553669&extension=ts&play_token=TYUEUjsDRy&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553670.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TF1 SERIES 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553670&extension=ts&play_token=RSP4P4tenr&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553671.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - SYFY 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553671&extension=ts&play_token=Z4PuNVZytU&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553672.png" group-title="[LIVE]- |EU| FRANCE 4K",FR - TEVA 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=553672&extension=ts&play_token=VzrQf0CfiO&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178456.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",####### BEIN SPORTS ᴴᴰ #######
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178456&extension=ts&play_token=MpVDQV5uZ5&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178455.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS NEWS ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178455&extension=ts&play_token=xrbL84YUre&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1178454.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS GLOBAL ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178454&extension=ts&play_token=HoVYhWq3w6&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178453.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178453&extension=ts&play_token=ezFddhuGD0&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178452&extension=ts&play_token=lEU1L0l483&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178451.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 3 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178451&extension=ts&play_token=Yk1Vt5aKDK&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178450.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 4 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178450&extension=ts&play_token=gd2kmNjNeH&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178449.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 5 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178449&extension=ts&play_token=I1C94Xjzvh&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178448.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 6 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178448&extension=ts&play_token=PmoYc48vF8&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178447.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 7 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178447&extension=ts&play_token=8NK7ftJV06&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178446.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 8 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178446&extension=ts&play_token=0FDaMAzIAC&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178445.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 9 ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178445&extension=ts&play_token=MZ9mVkUggo&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178444.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 1 XTRA ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178444&extension=ts&play_token=woML5ObjxM&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178443.png" group-title="[LIVE]- |AR| BEIN SPORTS 8K",8K - BEIN SPORTS 2 XTRA ᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1178443&extension=ts&play_token=YEsrWERHl9&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987846.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",##### BEIN SPORTS ᵁᴴᴰ #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987846&extension=ts&play_token=f62y8a3DB8&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987845.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 1 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987845&extension=ts&play_token=5395PxPaAQ&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987844.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 2 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987844&extension=ts&play_token=QCpKzAhweW&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987843.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 3 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987843&extension=ts&play_token=JL6nZktsOg&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987842.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 4 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987842&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987841.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 5 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987841&extension=ts&play_token=8lgEEI68zB&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987840.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 6 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987840&extension=ts&play_token=3Plj6Kilbh&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987839.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 7 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987839&extension=ts&play_token=JiH2txhdeK&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987838.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 8 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987838&extension=ts&play_token=BfoU35yurj&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987837.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS 9 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987837&extension=ts&play_token=hXjqXqg85O&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987836.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS XTRA 1 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987836&extension=ts&play_token=chfcqN1DLL&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987835.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS XTRA 2 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987835&extension=ts&play_token=JI2LTrT0Jm&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987834.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS XTRA 3 ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987834&extension=ts&play_token=leYUYJKhsH&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987833.png" group-title="[LIVE]- |AR| BEIN SPORTS ᵁᴴᴰ",AR - BEIN SPORTS AFC ᵁᴴᴰ
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=987833&extension=ts&play_token=PH7ze5InNN&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 1 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1341000&extension=ts&play_token=VfBtuBcsiG&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 2 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340999&extension=ts&play_token=XgTFuGtTVa&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 3 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340998&extension=ts&play_token=DIe9EQZ0Ce&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 4 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340997&extension=ts&play_token=GX9gr7z9Dm&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 5 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340996&extension=ts&play_token=hAobIlKdpd&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 6 4K
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340995&extension=ts&play_token=gQk0K8Ik9g&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 1 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340994&extension=ts&play_token=vRrGoG5TNY&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 2 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340993&extension=ts&play_token=6aK1zdjofQ&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 3 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340992&extension=ts&play_token=5YpcfKblgO&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 4 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340991&extension=ts&play_token=RpuOtPiIyL&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 5 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340990&extension=ts&play_token=TuqBrwtt3w&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 6 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340989&extension=ts&play_token=ZHym54ocAK&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 1 SD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340988&extension=ts&play_token=GRoAR6Hojg&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="[LIVE]- |AR| ALWAN SPORT",AR - ALWAN SPORT 2 SD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1340987&extension=ts&play_token=1djEqsqjxX&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/761731.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",###### STARZPLAY SPORT ######
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=761731&extension=ts&play_token=UOHcwpJbah&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/977634.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 1 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=977634&extension=ts&play_token=mQsvuyiMGQ&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/977635.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 2 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=977635&extension=ts&play_token=27FECg4t93&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/994802.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - ARABIC UFC EVENT 3 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=994802&extension=ts&play_token=wY5sc1pZz2&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/765041.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 1 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=765041&extension=ts&play_token=PzrR5zUOwJ&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/761732.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=761732&extension=ts&play_token=7gEFy37noU&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/765042.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 2 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=765042&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/761733.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 2 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=761733&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/765043.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORTS 3 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=765043&extension=ts&play_token=PrIwE5wqiP&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/761734.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 3 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=761734&extension=ts&play_token=xsh44lZQmY&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/761735.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 1 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=761735&extension=ts&play_token=ZWas8f9BhJ&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/761736.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / AD SPORT 5 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=761736&extension=ts&play_token=iLnueoWUWk&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/767232.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 FHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=767232&extension=ts&play_token=PXol00B0Jj&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/766017.png" group-title="[LIVE]- |AR| STARZPLAY / AD SPORTS",AR - STARZPLAY / CRLIFE 1 HD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=766017&extension=ts&play_token=1B6y1XgKUn&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",##### AR - BEIN OD #####
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594506&extension=ts&play_token=f3Q8lalnfu&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594505&extension=ts&play_token=33X3cTCTeL&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 2 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594504&extension=ts&play_token=dmTqBRZknr&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 3 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594503&extension=ts&play_token=JQYRvogbCN&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 4 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594502&extension=ts&play_token=DNGF33B0zy&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 5 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594501&extension=ts&play_token=mPo8w7Z3Nk&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 6 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594500&extension=ts&play_token=NCSOCVruLF&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 7 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594499&extension=ts&play_token=cYwEyXUQjV&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 8 MOVIES UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594498&extension=ts&play_token=byNznVwABg&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 1 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1030184&extension=ts&play_token=5kvphAL3Bl&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 2 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1060628&extension=ts&play_token=z2wPoKvYGc&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 3 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1060627&extension=ts&play_token=x3wQQuWvLU&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 2023 4 UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=1060626&extension=ts&play_token=KL2dRdYCen&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="[LIVE]- |AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 KIDS UHD
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=lf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=594497&extension=ts&play&extension=ts&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX:  FAP TV COMPILATION TV
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629362&extension=ts&play_token=OMnbZHy51y&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT 3
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629289&extension=ts&play_token=vMlqTwB8yx&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT 9
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629189&extension=ts&play_token=q7Qm1eyTbe&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT BIG DICK
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=810234&extension=ts&play_token=GJ6hIAYqjW&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT DORCEL TV
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=810236&extension=ts&play_token=OU69b60IfF&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT TINY4K 2 TV
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629281&extension=ts&play_token=vsqbw6LTxv&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ADULT TINY4K 3 TV
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629283&extension=ts&play_token=4bQibfyHq8&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 2
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629199&extension=ts&play_token=5aVnrzWAEU&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 3
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629176&extension=ts&play_token=VtICHrtkpF&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 4
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629217&extension=ts&play_token=wIKzdmHB9v&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 5
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629223&extension=ts&play_token=MWOqziw6jy&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ALBA XXX 6
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=810235&extension=ts&play_token=IFeptJOe8u&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ANAL TV
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629292&extension=ts&play_token=1KDLUA94H0&sn2=
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" group-title="[LIVE]- FOR ADULTS",XX: ASIAN TV
+http://warewolf.xyz:80/play/live.php?mac=00:1A:79:e0:e3:53&stream=629329&extension=ts&play_token=DzQJOt7OJ4&sn2=
