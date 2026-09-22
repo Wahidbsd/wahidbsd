@@ -5,6 +5,8 @@
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
 
+#EXTINF:-1 tvg-name="warewolfmac" group-title="warewolfmac",warewolfmac
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/warewolfmac.m3u
 
 #EXTINF:-1 tvg-name="AZiaN" group-title="azerkdity",asiaxkdis
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/asbiin.m3u
