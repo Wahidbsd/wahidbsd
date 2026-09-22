@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="pnn" group-title="pnnn",azianjrnnn
+https://m3uedit.online/get/8fc2f6613cc23ae5ff9a91828135720d.m3u
+
 #EXTINF:-1 tvg-name="aziangrand" group-title="aziagrandnfr",azianjr
 https://m3uedit.online/get/e3aedb4566ac1649c6bb00bdc3c54ec1.m3u
 
