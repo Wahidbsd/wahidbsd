@@ -35,8 +35,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/METAMANGO.m3
 #EXTINF:-1 tvg-name="dikomag" group-title="dikomag",dikomag
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/dikomag.m3u
 
-#EXTINF:-1 tvg-name="crb" group-title="crb",crb
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/crbmod.m3u
 
 #EXTINF:-1 tvg-name="bestrovider" group-title="bestrovider",bestrovider
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovider.m3u
