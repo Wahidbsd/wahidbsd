@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="limitadaa" group-title="limitadaa",home
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/limitadaa.m3u
+
 #EXTINF:-1 tvg-name="home2027" group-title="home",home
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Home2027.m3u
 
