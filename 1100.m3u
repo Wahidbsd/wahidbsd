@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="coyoteavril" group-title="coyoti",Deleted
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mainCode.m3u
+#EXTINF:-1 tvg-name="coyotezzavril" group-title="coyoti",Deleted
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/coyotdel.m3u
 
 #EXTINF:-1 tvg-name="5hc" group-title="5c",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/5c.m3u
