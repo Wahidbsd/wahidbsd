@@ -1193,33 +1193,34 @@ http://100main.cc:80/live/Home2027/6ZQ770K/1091502.ts
 http://100main.cc:80/live/Home2027/6ZQ770K/1091503.ts
 #EXTINF:-1 tvg-logo="https://go4.pw/netflix.png" group-title="[LIVE]- AR | NETFLIX",EG - NETFLIX MIX HD
 http://100main.cc:80/live/Home2027/6ZQ770K/1091504.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",##### AR - ALWAN ENTERTAINMENT##### 
-http://100main.cc:80/live/Home2027/6ZQ770K/1388358.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN QURAN 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339235.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN ANIME 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339236.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN ATFAL 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339237.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN ALWATHAEQYE 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339238.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN AGHANI 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339239.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN KOREA 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339240.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN BOLLYWOOD 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339241.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN MOSALSALAT 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339242.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN MOSALSALAT+ 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339243.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN TURKEY 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339244.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 1 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339245.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 2 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339246.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 3 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339247.ts
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="[LIVE]- AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 4 4K
-http://100main.cc:80/live/Home2027/6ZQ770K/1339248.ts
+#EXTM3U 
+#EXTINF:-1 tvg-id="1388358" tvg-name="##### AR - ALWAN ENTERTAINMENT##### " tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR | ALWAN ENTERTAINMENT", ##### AR - ALWAN ENTERTAINMENT##### 
+http://kobatv.xyz/live/Home2027/6ZQ770K/1388358.ts
+#EXTINF:-1 tvg-id="1339235" tvg-name="AR - ALWAN QURAN 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN QURAN 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339235.ts
+#EXTINF:-1 tvg-id="1339236" tvg-name="AR - ALWAN ANIME 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN ANIME 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339236.ts
+#EXTINF:-1 tvg-id="1339237" tvg-name="AR - ALWAN ATFAL 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN ATFAL 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339237.ts
+#EXTINF:-1 tvg-id="1339238" tvg-name="AR - ALWAN ALWATHAEQYE 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN ALWATHAEQYE 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339238.ts
+#EXTINF:-1 tvg-id="1339239" tvg-name="AR - ALWAN AGHANI 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN AGHANI 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339239.ts
+#EXTINF:-1 tvg-id="1339240" tvg-name="AR - ALWAN KOREA 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN KOREA 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339240.ts
+#EXTINF:-1 tvg-id="1339241" tvg-name="AR - ALWAN BOLLYWOOD 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN BOLLYWOOD 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339241.ts
+#EXTINF:-1 tvg-id="1339242" tvg-name="AR - ALWAN MOSALSALAT 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN MOSALSALAT 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339242.ts
+#EXTINF:-1 tvg-id="1339243" tvg-name="AR - ALWAN MOSALSALAT+ 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN MOSALSALAT+ 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339243.ts
+#EXTINF:-1 tvg-id="1339244" tvg-name="AR - ALWAN TURKEY 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN TURKEY 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339244.ts
+#EXTINF:-1 tvg-id="1339245" tvg-name="AR - ALWAN AFLAM 1 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN AFLAM 1 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339245.ts
+#EXTINF:-1 tvg-id="1339246" tvg-name="AR - ALWAN AFLAM 2 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN AFLAM 2 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339246.ts
+#EXTINF:-1 tvg-id="1339247" tvg-name="AR - ALWAN AFLAM 3 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN AFLAM 3 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339247.ts
+#EXTINF:-1 tvg-id="1339248" tvg-name="AR - ALWAN AFLAM 4 4K" tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT", AR - ALWAN AFLAM 4 4K
+http://kobatv.xyz/live/Home2027/6ZQ770K/1339248.ts
