@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="blue4kdecemehlsber" group-title="blue4kdecemehlsber",blue4kdecemeber
-https://od.lk/s/OThfNDY3MjY2NjBfVUlSUnI/blu.m3u
+#EXTINF:-1 tvg-name="bluenativ" group-title="blue native",blue
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/blunative.m3u
 
 #EXTINF:-1 tvg-name="limitadaa" group-title="limitadaa",home
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/limitadaa.m3u
