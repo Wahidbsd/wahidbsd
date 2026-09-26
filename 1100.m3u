@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="cdn" group-title="cdn" , cdn
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/cdn.m3u
 
 #EXTINF:-1 tvg-name="hydr" group-title="hydr" , bils
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hydrjuin.m3u
