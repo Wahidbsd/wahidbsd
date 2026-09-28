@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-name="asmk2connect" group-title="asmk2connect" , asmk2connect
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/asmk2connect.m3u
 
+
+#EXTINF:-1 tvg-name="alwan" group-title="alwn" , coreinstall
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/alwanunlimited.m3u
+
+
+
 #EXTINF:-1 tvg-name="coreinstall" group-title="coreinstall" , coreinstall
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/coreinstallpro.m3u
 
