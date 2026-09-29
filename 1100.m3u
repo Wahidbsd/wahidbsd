@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="prointll" group-title="prointell" , asmk2connect
+https://od.lk/s/OThfNDY3NDg5ODZfcWE3QW0/prointell.m3u
+
 #EXTINF:-1 tvg-name="asmk2connect" group-title="asmk2connect" , asmk2connect
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/asmk2connect.m3u
 
