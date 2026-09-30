@@ -1,5 +1,5 @@
 cloudstreamrepo://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/repo.json
-#cloudstreamrepo://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/repo.json
+# https://rentry.org/cs3-repos
 https://chromewebstore.google.com/detail/openvideo-%E2%80%93-ad-free-strea/dadggmdmhmfkpglkfpkjdmlendbkehoh?pli=1
 https://pengu.uk/
 http://www.vibertv.xyz/
