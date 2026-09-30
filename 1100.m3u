@@ -1,7 +1,9 @@
 #EXTM3U
 
+spawtvplus.m3u
+
 #EXTINF:-1 tvg-name="spawtv" group-title="spawtv" , spawtv
-https://od.lk/s/OThfNDY3NTgyOTRfYUI4OHA/spawtv.m3u
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/spawtvplus.m3u
 
 #EXTINF:-1 tvg-name="recycle" group-title="recycle" , recyl
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/relast.m3u
