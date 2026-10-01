@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="kimo" group-title="kimo" , spawtv
-https://od.lk/s/OThfNDY3NjU1MzRfOGVVUTA/kimo.m3u
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/kimo.m3u
 
 
 #EXTINF:-1 tvg-name="spawtv" group-title="spawtv" , spawtv
