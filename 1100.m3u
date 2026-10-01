@@ -88,8 +88,6 @@ https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/bestrovide
 #EXTINF:-1 tvg-name="2028hls" group-title="2028hls",2028hls
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/2028hls.m3u
 
-#EXTINF:-1 tvg-name="NmTs" group-title="NmTs",NmTs
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/NmTs.m3u
 
 #EXTINF:-1 tvg-name="paixif" group-title="paixif",paixif
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/paixif.m3u
