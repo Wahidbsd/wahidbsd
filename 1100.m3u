@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-name="diskalynx" group-title="sika" , sika
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/lynxsiska.m3u
 
-
-
+#EXTINF:-1 tvg-name="Blue2liste" group-title="4kb" , 4kblue
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4kblue2liste.m3u
 
 
 #EXTINF:-1 tvg-name="bluenativ" group-title="blue native",blue
