@@ -30,8 +30,6 @@ https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/frgeneral.m3u
 #EXTINF:-1 tvg-name="coreinstall" group-title="coreinstall" , coreinstall
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/coreinstallpro.m3u
 
-#EXTINF:-1 tvg-name="hydr" group-title="hydr" , bils
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hydrjuin.m3u
 
 #EXTINF:-1 tvg-name="bluenativ" group-title="blue native",blue
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/blunative.m3u
