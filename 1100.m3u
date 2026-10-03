@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-name="diskalynx" group-title="sika" , sika
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/lynxsiska.m3u
 
-#EXTINF:-1 tvg-name="frmdm" group-title="dmfr" , dmfr
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/FRmdm.m3u
-
 
 
 #EXTINF:-1 tvg-name="spawtv" group-title="spawtv" , spawtv
@@ -15,9 +12,7 @@ https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/spawtvplus.m3
 #EXTINF:-1 tvg-name="recycle" group-title="recycle" , recyl
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/relast.m3u
 
-#EXTINF:-1 tvg-name="ibolynxx" group-title="lynxx" , lynxxx
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/lynxibo.m3u
-
+#
 #EXTINF:-1 tvg-name="ibolytss" group-title="lynxtsssx" , lynxxxtsss
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/lynxibots.m3u
 
