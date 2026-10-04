@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-name="vavoo" group-title="vavooo",paixif
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/vavooo.m3u
+
 #EXTINF:-1 tvg-name="paixif" group-title="paixif",paixif
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/paixif.m3u
 
