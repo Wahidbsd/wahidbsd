@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pixiiiifC.m3
 #EXTINF:-1 tvg-name="smootvgth " group-title="smooth ",smooth
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/smttvtvg.m3u
 
-EXTINF:-1 tvg-name="fayagit " group-title="fayagit ",fayagit
+#EXTINF:-1 tvg-name="fayagit " group-title="fayagit ",fayagit
 https://gist.githubusercontent.com/Wahidbsd/d2b3acafab2c0b08ba5724eafc436089/raw/7925b8617a90507ab0a07d9f0cc04df74a31fb5d/Faya.m3u
 
 #EXTINF:-1 tvg-name="gifi alwan" group-title="gigi an",vlue
