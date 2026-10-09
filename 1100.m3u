@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="1401foxbl" group-title="1401foxbl",1401foxbl
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1401foxbl.m3u
+
 #EXTINF:-1 tvg-name="pixif" group-title="puxi",pixo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pixiiiifC.m3u
 
