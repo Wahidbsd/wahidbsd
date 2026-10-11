@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="fonkamainmain" group-title="fonka",fonka
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Fhdfonkazvvtil.m3u
+
 #EXTINF:-1 tvg-name="fhd28" group-title="fhd",flik
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Fhd.m3u
 
