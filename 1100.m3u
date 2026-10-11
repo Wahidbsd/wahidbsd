@@ -29,8 +29,6 @@ https://gist.githubusercontent.com/Wahidbsd/d2b3acafab2c0b08ba5724eafc436089/raw
 
 #
 
-#EXTINF:-1 tvg-name="paixif" group-title="paixif",paixif
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/paixif.m3u
 
 #EXTINF:-1 tvg-name="home2027" group-title="home",home
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Home2027.m3u
@@ -60,8 +58,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Franceasi.m3
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
 
-#EXTINF:-1 tvg-name="warewolfmac" group-title="warewolfmac",warewolfmac
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/warewolfmac.m3u
 
 #EXTINF:-1 tvg-name="AZiaN" group-title="azerkdity",asiaxkdis
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/asbiin.m3u
@@ -70,8 +66,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/asbiin.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/blunai.m3u
 
 
-#EXTINF:-1 tvg-name="juinskyweekorg" group-title="juinskyirgweek",juinskyweekorg
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/juinskyweek_organized.m3u
 
 #EXTINF:-1 tvg-name="mrtamago" group-title="metzmango",mrtamago
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/METAMANGO.m3u
@@ -94,8 +88,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
 #EXTINF:-1 tvg-name="pronetimeshift" group-title="pronetimeshift",pronetimeshift
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetimeshif.m3u
 
-#EXTINF:-1 tvg-name="rookie4month" group-title="rookie4month",rookie4month
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month.m3u
 
 #EXTINF:-1 tvg-name="2clwithts" group-title="2clwithts",2clwithts
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.m3u
