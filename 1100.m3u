@@ -1,5 +1,8 @@
 #EXTM3U
 
+EXTINF:-1 tvg-name="smartplushls" group-title="smartplushls",smartplushls
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/smartplushls.m3u
+
 #EXTINF:-1 tvg-name="fonkamainmain" group-title="fonka",fonka
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Fhdfonkazvvtil.m3u
 
