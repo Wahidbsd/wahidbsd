@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="brllmax" group-title="bellmx",flik
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bellmax.m3u
+
 #EXTINF:-1 tvg-name="smgitartplushls" group-title="smartplushls",smartplushls
 https://gist.githubusercontent.com/Wahidbsd/0f4a2c3d26dd566ca0754de6c60db5d3/raw/478244eb04268465f8e171c36982d2faa42c8d85/Smartplus.m3u
 
