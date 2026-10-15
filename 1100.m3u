@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="strem8k" group-title="stream8k",flik
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/stream8k.m3u
+
 
 
 #EXTINF:-1 tvg-name="smgitartplushls" group-title="smartplushls",smartplushls
