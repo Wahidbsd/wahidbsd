@@ -96,15 +96,12 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/2028hls.m3u
 
 
 
-#EXTINF:-1 tvg-name="4m sat" group-title="4m sa",4m sat
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
 
 #EXTINF:-1 tvg-name="pronetimeshift" group-title="pronetimeshift",pronetimeshift
 https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetimeshif.m3u
 
 
-#EXTINF:-1 tvg-name="2clwithts" group-title="2clwithts",2clwithts
-https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.m3u
+
 
 
 #EXTINF:-1 tvg-name="cessaire2028" group-title="necessaire2028",cessaire2028
