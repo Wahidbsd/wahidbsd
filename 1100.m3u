@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="nedkdis2029" group-title="nedkdis2029",nedkdis2029
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/kidsnoad2029.m3u
-
-#EXTINF:-1 tvg-name="mm10" group-title="m10",ma10
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/M10.m3u
 
 #EXTINF:-1 tvg-name="strem8k" group-title="stream8k",flik
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/stream8k.m3u
@@ -18,8 +13,6 @@ https://gist.githubusercontent.com/Wahidbsd/0f4a2c3d26dd566ca0754de6c60db5d3/raw
 #EXTINF:-1 tvg-name="fonkamainmain" group-title="fonka",fonka
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Fhdfonkazvvtil.m3u
 
-#EXTINF:-1 tvg-name="fhd28" group-title="fhd",flik
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Fhd.m3u
 
 #EXTINF:-1 tvg-name="flik" group-title="flik",flik
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Flco.m3u
