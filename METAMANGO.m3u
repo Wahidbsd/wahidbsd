@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",chargrr love
-https://cdnvid.dramalvr.com/hls/QIVuJ12cK5_6ac8c6535e588/playlist_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",the mtch mmma 2doctrx014
-https://142b361c5f9c0d31df22903f69a86338.r2.cloudflarestorage.com/5ttttv/originals/bb581bf8-8630-4740-a87e-61a367ec62c4-Doctor_X__Mafia_in_White_S01E02_new.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b68eae234d246433b25e599764393052%2F20261010%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261010T150253Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=ca297e02be802b4c541bf9fd81b304a13eb228260bcdffe0377f30ee58114b9d
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Atfal 4K
-http://a.norzro.cfd/live/8667593288/2505245402/738863.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",x3
+https://cdnvid.dramalvr.com/hls/Sl3aQGN7y1_6ad2392c3f7ca/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://alwansports.com/wp-content/uploads/2026/07/%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-scaled.png" group-title="ALWAN - ألوان",the mtch mmma 4doctrx014
+https://cdnvid.dramalvr.com/hls/d7CUVJfgmq_6ad395346a075/playlist_1080p.m3u8_X__Mafia_in_White_S01E02_new.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b68eae234d246433b25e599764393052%2F20261010%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261010T150253Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=ca297e02be802b4c541bf9fd81b304a13eb228260bcdffe0377f30ee58114b9d
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان", 
+https://cdnvid.dramalvr.com/hls/SGNWszPJaV_6ad38419d0f8c/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Bollywood 4K
 http://a.norzro.cfd/live/8667593288/2505245402/738860.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/569587975650951168/AAM7ufB0_400x400.jpeg" group-title="ALWAN - ألوان",Alwan Korea 4K
