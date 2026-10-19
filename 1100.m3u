@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/M10.m3u
 #EXTINF:-1 tvg-name="strem8k" group-title="stream8k",flik
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/stream8k.m3u
 
+#EXTINF:-1 tvg-name="lifetime" group-title="lifetime",lifetime
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/ulimitedfuv.m3u
 
 
 #EXTINF:-1 tvg-name="smgitartplushls" group-title="smartplushls",smartplushls
