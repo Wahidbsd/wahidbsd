@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Didier" group-title="10didiid,09010
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/diddierkasdorf.m3u
+
 #EXTINF:-1 tvg-name="m10" group-title="10",09010
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/M10.m3u
 
