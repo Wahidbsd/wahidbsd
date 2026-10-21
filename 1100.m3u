@@ -1,9 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="smrcob" group-title="smrcob",alexsmrcoob
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/smrcoob.m3u
 
 
-EXTINF:-1 tvg-name="Mybirdhouse" group-title="Mybirdhouse",Mybirdhouse
+#EXTINF:-1 tvg-name="Mybirdhouse" group-title="Mybirdhouse",Mybirdhouse
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/Mybirdhouse.m3u
 
 #EXTINF:-1 tvg-name="Didihlser" group-title="10didihlsid",09010
