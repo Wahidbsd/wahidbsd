@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Alex" group-title="alex",alex
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/alexandregeoiME.m3u
 
 #EXTINF:-1 tvg-name="Didihlser" group-title="10didihlsid,09010
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/diddiehls.m3u
