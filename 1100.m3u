@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="4m" group-title="4m",4m
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
 
 #EXTINF:-1 tvg-name="rookie" group-title="rooki",rookie
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month.m3u
