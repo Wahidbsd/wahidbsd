@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="vluvip" group-title="vluevip",vipvlie
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/vopvlue.m3u
+
 #EXTINF:-1 tvg-name="kalam" group-title="kalamathir",22222
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/klaammathir.m3u
 
