@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="all4kmaincoyit" group-title="all4kmaincoyit",22222
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/all4kmaincoyit.m3u
+
 
 #EXTINF:-1 tvg-name="sysst2028t" group-title="sysst2028t",sysstt
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/sysstt.m3u
