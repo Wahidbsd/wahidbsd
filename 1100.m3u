@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="heygityy" group-title="heygity",heyyy
+https://gist.githubusercontent.com/Wahidbsd/24450a3ffd9d200b1e5899750a2e81e1/raw/f7b29ee9d2dda71483bf0a45f92680f72aa661e9/Heyorg%2520m3u
+
 
 #EXTINF:-1 tvg-name="heyyy" group-title="heyy",heyyy
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Hey.m3u
