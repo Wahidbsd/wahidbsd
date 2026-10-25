@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="org" group-title="orgnl",org
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/org.m3u
+
 #EXTINF:-1 tvg-name="final" group-title="finl",heyyy
 https://gist.githubusercontent.com/Wahidbsd/903a2cf74bd7157a28f0eff3ec6e543d/raw/e6e63e51c25e3607d52a47313dde31e5fe97b0bd/Hm.final.m3u
 
