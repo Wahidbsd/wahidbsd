@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAMERDZultra4k" group-title="GAMERDZultra4k",ls
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/GAMERDZultra4k.m3u
+#EXTINF:-1 tvg-name="vus2028" group-title="vusmain",ls
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/vus2028.m3u
 
 #EXTINF:-1 tvg-name="GAMERDZshssl" group-title="GAMERDZshssl",hls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gsmdzr.m3u
