@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="flcon" group-title="29029",hls
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/fzlcon2029.m3u
 
 #EXTINF:-1 tvg-name="GAMERDZshssl" group-title="GAMERDZshssl",hls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gsmdzr.m3u
