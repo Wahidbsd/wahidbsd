@@ -1,13 +1,15 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-name="vus2028" group-title="vusmain",ls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/vus2028.m3u
 
 #EXTINF:-1 tvg-name="GAMERDZshssl" group-title="GAMERDZshssl",hls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gsmdzr.m3u
 
-#EXTINF:-1 tvg-name="kurdish" group-title="kurdish",kurdish
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/kurdishlilput.m3u
+#EXTINF:-1 tvg-name="stalker" group-title="stalker",kurdish
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/stalker.m3u
 
 
 #EXTINF:-1 tvg-name="org" group-title="orgnl",org
