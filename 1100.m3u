@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/vus2028.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gsmdzr.m3u
 
 #EXTINF:-1 tvg-name="stalker2" group-title="stalker",kurdish
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/stalkerT2.m3u
+https://gist.githubusercontent.com/Wahidbsd/8d4fbe9833d73c1e0708099ab29cc53d/raw/5f76b8bc0ec962b7b4c22d661d0bd8a4efb21da2/Stalker.m3u
 
 
 #EXTINF:-1 tvg-name="org" group-title="orgnl",org
