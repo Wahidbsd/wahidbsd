@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-name="vus2028" group-title="vusmain",ls
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/vus2028.m3u
-
 #EXTINF:-1 tvg-name="GAMERDZshssl" group-title="GAMERDZshssl",hls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gsmdzr.m3u
 
@@ -19,10 +15,8 @@ https://gist.githubusercontent.com/Wahidbsd/96148454f10f103188f2b3d454fcedb8/raw
 #EXTINF:-1 tvg-name="gistvluvip" group-title="vluevip",vipvlie
 https://gist.githubusercontent.com/Wahidbsd/0b7644b6ae96c78ca5d1f9f280b7c4ce/raw/3527838c112ed6baae6e4cbd94702bd92c33a1b8/Tvpip.m3u
 
-
 #EXTINF:-1 tvg-name="2h" group-title="222",22222
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.m3u
-
 
 #EXTINF:-1 tvg-name="4m" group-title="4m",4m
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/4m.m3u
@@ -32,7 +26,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rookie4month
 
 #EXTINF:-1 tvg-name="smrcob" group-title="smrcob",alexsmrcoob
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/smrcopfinal.m3u
-
 
 #EXTINF:-1 tvg-name="Mybirdhouse" group-title="Mybirdhouse",Mybirdhouse
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/Mybirdhouse.m3u
@@ -56,7 +49,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/stream8k.m3u
 #EXTINF:-1 tvg-name="lifetime" group-title="lifetime",lifetime
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/ulimitedfuv.m3u
 
-
 #EXTINF:-1 tvg-name="smgitartplushls" group-title="smartplushls",smartplushls
 https://gist.githubusercontent.com/Wahidbsd/0f4a2c3d26dd566ca0754de6c60db5d3/raw/478244eb04268465f8e171c36982d2faa42c8d85/Smartplus.m3u
 
@@ -73,34 +65,17 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/mainhakim.m3
 #EXTINF:-1 tvg-name="pixiiiifCHls" group-title="pixiiiifCHls",pixo
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/pixiiiifCHls.m3u
 
-
 #EXTINF:-1 tvg-name="pixif" group-title="puxi",pixo
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/pixiiiifC.m3u
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-name="home2027" group-title="home",home
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Home2027.m3u
 
-
-
-
-
-
 #EXTINF:-1 tvg-name="yadsine4illimited" group-title="limitadaayassine4", yassine 
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/yassine4illilited.m3u
 
-
-
-
-
 #EXTINF:-1 tvg-name="Deleted" group-title="delleted",Deleted
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
-
 
 #EXTINF:-1 tvg-name="AZiagitN" group-title="azerkdity",asiaxkdis
 https://gist.githubusercontent.com/Wahidbsd/8442d2cf840728ecb200652823f9f4a1/raw/1b5a4b2b74e26c345846ce9d4e00a570ecabbfc5/Azian.m3u
