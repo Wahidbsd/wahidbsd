@@ -124,12 +124,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/asbiin.m3u
 
 
 
-#EXTINF:-1 tvg-name="mrtamago" group-title="metzmango",mrtamago
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/METAMANGO.m3u
-
-
-#EXTINF:-1 tvg-name="2028hls" group-title="2028hls",2028hls
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/2028hls.m3u
 
 
 
@@ -140,9 +134,6 @@ https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/pronetimeshif.m3u
 
 
 
-
-#EXTINF:-1 tvg-name="cessaire2028" group-title="necessaire2028",cessaire2028
-https://raw.githubusercontent.com/Wahidbsd/ai/refs/heads/Main/n%C3%A9cessaire2028.m3u
 
 
 
