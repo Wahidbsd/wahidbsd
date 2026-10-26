@@ -28,12 +28,9 @@ https://blcco.linkip.org/live/3461_.m3u8
 
 
 
-#EXTINF:-1 tvg-name="all4kmaincoyit" group-title="all4kmaincoyit",22222
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/all4kmaincoyit.m3u
 
 
-#EXTINF:-1 tvg-name="sysst2028t" group-title="sysst2028t",sysstt
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/sysstt.m3u
+
 
 #EXTINF:-1 tvg-name="gistvluvip" group-title="vluevip",vipvlie
 https://gist.githubusercontent.com/Wahidbsd/0b7644b6ae96c78ca5d1f9f280b7c4ce/raw/3527838c112ed6baae6e4cbd94702bd92c33a1b8/Tvpip.m3u
