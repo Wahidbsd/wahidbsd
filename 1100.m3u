@@ -1,5 +1,12 @@
 #EXTM3U
 
+EXTINF:-1 tvg-name="myhls" group-title="myhls",hls
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/myhls.m3u
+
+EXTINF:-1 tvg-name="myts" group-title="mytss",ts
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/myts.m3u
+
+
 #EXTINF:-1 tvg-name="russ" group-title="29029",hls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rumoins.m3u
 
