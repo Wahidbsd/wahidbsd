@@ -1,5 +1,8 @@
 #EXTM3U
 
+EXTINF:-1 tvg-name="light" group-title="light",hls
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/light.m3u
+
 #EXTINF:-1 tvg-name="myhls" group-title="myhls",hls
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/myhls.m3u
 
