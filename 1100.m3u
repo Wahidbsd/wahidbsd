@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="neob" group-title="nrob",hls
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/proneounli.m3u
+
+
 #EXTINF:-1 tvg-name="arda" group-title="ardi",hls
 https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.m3u
 
