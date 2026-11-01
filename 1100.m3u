@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="arda" group-title="ardi",hls
+https://raw.githubusercontent.com/Wahidbsd/drgbzchrld/refs/heads/Main/2clwithts.m3u
+
 #EXTINF:-1 tvg-name="han" group-title="hani",hls
 https://raw.githubusercontent.com/upload-files/xpola-player/3dbd721c97b232bcf14119cee222336674ea717c/hanidlki93
 
