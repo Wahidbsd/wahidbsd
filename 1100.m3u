@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ultrachtd" group-title="ulyrachkt",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ultracht.m3u
 
 #EXTINF:-1 tvg-name="vivo" group-title="vivod",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/vivo.m3u
