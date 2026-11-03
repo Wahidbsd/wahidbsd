@@ -34,3 +34,23 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798792&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798793&extension=ts
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 9 UHD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798794&extension=ts
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242242&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242241&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242240&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242239&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 5
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242238&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242237&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 7
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242236&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 8
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242235&extension=ts
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS",┃AR┃ BEIN SPORTS 9
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=242234&extension=ts
+
