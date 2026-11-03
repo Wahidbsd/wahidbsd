@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="neobStu" group-title="nrobSTU",hlsSTU
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/STU.m3u
+
+
 #EXTINF:-1 tvg-name="ultrachtd" group-title="ulyrachkt",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ultracht.m3u
 
