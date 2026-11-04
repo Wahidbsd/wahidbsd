@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="grookiehlsl" group-title="glsrookieh",hlsSTU
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/neutree4rookihls.m3u
-
-#EXTINF:-1 tvg-name="gl" group-title="glsh",hlsSTU
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gt.m3u
 
 
 #EXTINF:-1 tvg-name="netmdld" group-title="hlsnd",hlsSTU
