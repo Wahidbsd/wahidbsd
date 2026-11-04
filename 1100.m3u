@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="rafiktekleon" group-title="rafiktellion",hlsSTU
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/rzfiktekleon.m3u
 
 #EXTINF:-1 tvg-name="netmdld" group-title="hlsnd",hlsSTU
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/nmodehlst.m3u
