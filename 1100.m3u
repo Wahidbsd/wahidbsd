@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="toddfull" group-title="toddfull",jdjs
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/todpiperfull.m3u
+
 #EXTINF:-1 tvg-name="todd" group-title="todd",jdjs
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/todpiper.m3u
 
