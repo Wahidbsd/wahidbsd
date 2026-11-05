@@ -3,14 +3,11 @@
 #EXTINF:-1 tvg-name="rafikmc" group-title="raficmc",jdjs
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/rakif.m3u
 
-#EXTINF:-1 tvg-name="macrafik" group-title="makrafik",jdjs
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/macrafik.m3u
+
 
 #EXTINF:-1 tvg-name="toddfull" group-title="toddfull",jdjs
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/todpiperfull.m3u
 
-#EXTINF:-1 tvg-name="todd" group-title="todd",jdjs
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/todpiper.m3u
 
 
 #EXTINF:-1 tvg-name="netmdld" group-title="hlsnd",hlsSTU
