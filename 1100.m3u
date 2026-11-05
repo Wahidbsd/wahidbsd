@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="gioexterme" group-title="geioextreme",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/gioextreme.m3u
+
 #EXTINF:-1 tvg-name="macrafik" group-title="makrafik",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/macrafik.m3u
 
