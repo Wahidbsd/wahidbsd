@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="speedy" group-title="speedy",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/speedy.m3u
+
 #EXTINF:-1 tvg-name="rafikmc" group-title="raficmc",jdjs
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/rakif.m3u
 
