@@ -1,32 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",##### beIN SP⚽RTS SD #####
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264170&extension=ts&play_token=dImQcPbaw7&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 1 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264169&extension=ts&play_token=VZd5zKXnhR&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 2 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264168&extension=ts&play_token=OH7wbuXG4g&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 3 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264167&extension=ts&play_token=oSFZhxODSZ&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 4 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264166&extension=ts&play_token=I11bLXc8Mt&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 5 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264165&extension=ts&play_token=0eid9cxeVE&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 6 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264164&extension=ts&play_token=0fSE6GS5ET&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 7 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264163&extension=ts&play_token=8dtdwp1orn&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 8 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264162&extension=ts&play_token=nscibDkkOv&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 9 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264161&extension=ts&play_token=59EnGXymjE&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS FRENCH 1 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264160&extension=ts&play_token=YnbmrK02jb&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS FRENCH 2 SD
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264159&extension=ts&play_token=8bywDFTGRP&sn2=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",##### beIN SP⚽RTS LQ #####
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264158&extension=ts&play_token=p7rtiCbBQ9&sn2=
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="[LIVE]- AR| BEIN SPORTS ᴺᴹ⚽",NM: beIN SP⚽RTS 1 LQ
-http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264157&extension=ts&play_token=VEsWenFuv0&sn2=
+
 
 
 # ============ BEIN LOCAL - بي ان سبورت ============
