@@ -50,11 +50,6 @@ https://raw.githubusercontent.com/upload-files/xpola-player/3dbd721c97b232bcf141
 #EXTINF:-1 tvg-name="light" group-title="light",hls
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/light.m3u
 
-#EXTINF:-1 tvg-name="myhls" group-title="myhls",hls
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/myhls.m3u
-
-#EXTINF:-1 tvg-name="myts" group-title="mytss",ts
-https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/myts.m3u
 
 
 #EXTINF:-1 tvg-name="russ" group-title="29029",hls
