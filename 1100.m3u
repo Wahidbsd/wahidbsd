@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="xurvni2028" group-title="xurvni2028",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/xurvni2028.m3u
+
+
 #EXTINF:-1 tvg-name="speedy" group-title="speedy",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/speedy.m3u
 
