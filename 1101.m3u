@@ -30,8 +30,8 @@ http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=
 
 
 # ============ BEIN LOCAL - بي ان سبورت ============
-#EXTINF:-1 tvg-id="676985" tvg-name="chzrge 7" group-title="SPORT - رياضة",youm 7
-https://cdnvid.dramalvr.com/hls/XEKvW5I8K7_6ac8febc18002/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="676985" tvg-name="dr 107" group-title="SPORT - رياضة",youm 7
+https://cdnvid.dramalvr.com/hls/nm4Sy6A2Uq_6aef39804b1f3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="677003" tvg-name="charge 10  (F) - HEVC" group-title="SPORT - رياضة",youm 8 من خداع
 https://cdnvid.dramalvr.com/hls/Bu7K6RchzI_6ac8f206ba08c/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="676994" tvg-name="chrg doctor95 de - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 1 (N) - HEVC
