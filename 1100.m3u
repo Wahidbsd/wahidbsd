@@ -17,9 +17,6 @@ https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/todpiperfull.
 #EXTINF:-1 tvg-name="netmdld" group-title="hlsnd",hlsSTU
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/nmodehlst.m3u
 
-#EXTINF:-1 tvg-name="nggtu" group-title="nrobSTU",hlsSTU
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/orginsdvip.m3u
-
 
 #EXTINF:-1 tvg-name="ultrachtd" group-title="ulyrachkt",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ultracht.m3u
