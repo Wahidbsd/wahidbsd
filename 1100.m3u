@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="busnesit" group-title="busnssit",jdjs
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bunessitdiguk.m3u
+#EXTINF:-1 tvg-name="busnesiuut" group-title="busnssit",jdjs
+https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Buness.m3u
 
 #EXTINF:-1 tvg-name="rafikmc" group-title="raficmc",jdjs
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/rakif.m3u
