@@ -178,13 +178,11 @@ https://cdnvid.dramalvr.com/hls/rNP67yG9am_6ac8f7bb22eea/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="677001" tvg-name="charge 9 " group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
 https://cdnvid.dramalvr.com/hls/5ydQAf2p0Z_6ac8eb3e58f60/playlist_1080p.m3u8
 
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 1 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798772&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 2 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798773&extension=ts
+#EXTINF:-1 group-title="┃AR┃ guard UHD 5",┃AR┃ BEIN SPORTS 1 UHD
+https://cdnvid.dramalvr.com/hls/DxXPwZazIm_6aef63087d145/playlist_1080p.m3u8
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 3 UHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798788&extension=ts
-#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 4 UHD
+https://cdnvid.dramalvr.com/hls/HBwsWcuqNR_6af0b054336a9/playlist_1080p.m3u8
+#EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ gaurd 6
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798789&extension=ts
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",┃AR┃ BEIN SPORTS 5 UHD
 http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798790&extension=ts
