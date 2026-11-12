@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Ugproeenhls" group-title="Ugeenls",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ugeeenhls.m3u
 
 #EXTINF:-1 tvg-name="d" group-title="dd",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
