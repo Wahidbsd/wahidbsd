@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-name="d" group-title="dd",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
+
+#EXTINF:-1 tvg-name="Ugeen" group-title="Ugeen",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Ugeen.m3u
+
+
 #EXTINF:-1 tvg-name="busnesiuut" group-title="busnssit",jdjs
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Buness.m3u
 
@@ -24,8 +31,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/ultracht.m3u
 #EXTINF:-1 tvg-name="htt" group-title="httey",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/hott.m3u
 
-#EXTINF:-1 tvg-name="d" group-title="dd",jdjs
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
+
 
 
 #EXTINF:-1 tvg-name="aeinnn" group-title="hhhh",hls
