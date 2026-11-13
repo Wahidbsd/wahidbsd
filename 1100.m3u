@@ -1,6 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="bein8" group-title="bein8d",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bein.m3u8
 
-#
 #EXTINF:-1 tvg-name="d" group-title="dd",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
 
