@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ============ BEIN LOCAL - بي ان سبورت ============
-#EXTINF:-1 tvg-id="676985" tvg-name=" dcr 11 " group-title="SPORT - رياضة",youm 7
-https://cdnvid.dramalvr.com/hls/MSIA5zyjcL_6af72616773ed/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="676985" tvg-name=" dcr 12 " group-title="SPORT - رياضة",youm 7
+https://cdnvid.dramalvr.com/hls/SuSsiCc9Hb_6af876b4dbc93/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="677003" tvg-name="Days 11 " group-title="SPORT - رياضة",youm 8 من خداع
 https://cdnvid.dramalvr.com/hls/0uqqtOs4f8_6af86c351b243/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="676994" tvg-name="reakwendnman" group-title="SPORT - رياضة",beIN SPORm3u8 1 (N) - HEVC
