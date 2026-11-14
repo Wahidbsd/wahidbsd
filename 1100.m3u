@@ -5,8 +5,8 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bein.m3u
 #EXTINF:-1 tvg-name="d" group-title="dd",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
 
-#EXTINF:-1 tvg-name="2029main" group-title="d2029maind",jdjs
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2029main.m3u
+#EXTINF:-1 tvg-name="2029sprt" group-title="d2029sporr",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/2029sport.m3u
 
 
 
