@@ -6,8 +6,6 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/bein.m3u
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
 
 
-#EXTINF:-1 tvg-name="link4" group-title="link4king",hls
-https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/link4king.m3u
 
 
 #EXTINF:-1 tvg-name="neob" group-title="nrob",hls
