@@ -9,7 +9,8 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1102.m3u
 #EXTINF:-1 tvg-name="d" group-title="dd",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
 
-
+#EXTINF:-1 tvg-name="ottd" group-title="dryottd",jdjs
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/Hey.m3u
 
 
 #EXTINF:-1 tvg-name="neob" group-title="nrob",hls
