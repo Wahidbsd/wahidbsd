@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="eagle" group-title="eagle",jdjs
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/eaglemeru.m3u
 
-#EXTINF:-1 tvg-name="harry desosa link " harryb dessosa link "
+#EXTINF:-1 tvg-name="harry desosa link " group-title=" harryb dessosa link "
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1102.m3u
 
 #EXTINF:-1 tvg-name="d" group-title="dd",jdjs
