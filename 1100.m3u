@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="qumistore" group-title="qumistore",jdjs
+#EXTINF:-1,qumistore
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/qumistore.m3u
 
 #EXTINF:-1 tvg-name="eagle" group-title="eagle",jdjs
