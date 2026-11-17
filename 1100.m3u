@@ -3,7 +3,7 @@
 #EXTINF:-1,qumistore
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/qumistore.m3u
 
-#EXTINF:-1 tvg-name="eagle" group-title="eagle",jdjs
+#EXTINF:-1,eagle
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/eaglemeru.m3u
 
 #EXTINF:-1 tvg-name="harry desosa link " group-title=" harryb dessosa link "
