@@ -20,7 +20,7 @@ https://gist.githubusercontent.com/Wahidbsd/daebf28ac1bfcf71e13e467dc6e98465/raw
 
 
 
-#EXTINF:-1 tvg-name="han" group-title="hani",hls
+#EXTINF:-1 ,hani
 https://raw.githubusercontent.com/upload-files/xpola-player/3dbd721c97b232bcf14119cee222336674ea717c/hanidlki93
 
 
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/sznssat.m3u
 
 
 
-#EXTINF:-1 tvg-name="Mybirdhouse" group-title="Mybirdhouse",Mybirdhouse
+#EXTINF:-1,Mybirdhouse
 https://raw.githubusercontent.com/Wahidbsd/GameXDZ/refs/heads/Main/Assets/Mybirdhouse.m3u
 
 
