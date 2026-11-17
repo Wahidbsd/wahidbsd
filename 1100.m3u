@@ -6,16 +6,16 @@ https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/qumistore.m3
 #EXTINF:-1,eagle
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/eaglemeru.m3u
 
-#EXTINF:-1 tvg-name="harry desosa link " group-title=" harryb dessosa link "
+#EXTINF:-1,harry da sosa link
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1102.m3u
 
-#EXTINF:-1 tvg-name="d" group-title="dd",jdjs
+#EXTINF:-1,d
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1101.m3u
 
 
 
 
-#EXTINF:-1 tvg-name="neob" group-title="nrob",hls
+#EXTINF:-1 ,neob
 https://gist.githubusercontent.com/Wahidbsd/daebf28ac1bfcf71e13e467dc6e98465/raw/2acc10ba481e9466d4b732d3e905baa73b88efa9/Grokmac.m3u
 
 
