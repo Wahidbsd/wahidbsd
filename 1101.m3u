@@ -11,8 +11,8 @@ https://ultra4vid.c0ed31756f8ff9b9cac2fc32bc6b21a7.r2.cloudflarestorage.com/user
 https://cdnvid.dramalvr.com/hls/gql9RgcDX7_6af9741ad8673/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="677004" tvg-name="berry - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
 https://ultra4vid.c0ed31756f8ff9b9cac2fc32bc6b21a7.r2.cloudflarestorage.com/users/jOy5eVOMaEP4/ucjQyIFrN8BQddC_1794406558.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f9ac8fc6edf9517c4300a1f962c36286%2F20261111%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261111T145558Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=a5d18a97b7191f3eaf035917b464f1ab15bb89913b9626918cc3c8e9a9d9bdeb
-#EXTINF:-1 tvg-id="677001" tvg-name="charge 9 " group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
-https://cdnvid.dramalvr.com/hls/5ydQAf2p0Z_6ac8eb3e58f60/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="677001" tvg-name="Link2link  " group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
+https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
 
 #EXTINF:-1 group-title="┃AR┃ BEIN SPORTS UHD",my guard 6
 https://cdnvid.dramalvr.com/hls/HBwsWcuqNR_6af0b054336a9/playlist_1080p.m3u8
