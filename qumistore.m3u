@@ -566,3 +566,106 @@ http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=
 http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454104&extension=ts&play_token=q5t73cYglK&sn2=
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN TURKEY ᴿᴬᵂ
 http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454102&extension=ts&play_token=ijr7P83Cal&sn2=
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",##### AR - STARZPLAY #####
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1167412.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/2M_MONDE.png" group-title="STARZPLAY",STARZPLAY - 2M MONDE FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201617.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/2M_MONDE.png" group-title="STARZPLAY",STARZPLAY - 2M MONDE HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201644.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_1.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 1 FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201618.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_1.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 1 HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201645.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_1_PREMIUM.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 1 PREMIUM FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201619.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201620.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201646.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2_PREMIUM.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 PREMIUM FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201621.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2_PREMIUM.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 PREMIUM HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201647.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2+  FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/975101.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 3+  FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/975100.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",STARZPLAY - ABU DHABI SPORTS 3+ HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/975103.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ARABIYA.png" group-title="STARZPLAY",STARZPLAY - AL ARABIYA FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201622.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ARABIYA.png" group-title="STARZPLAY",STARZPLAY - AL ARABIYA HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201648.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_EMARAT.png" group-title="STARZPLAY",STARZPLAY - AL EMARAT TV FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201623.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_EMARAT.png" group-title="STARZPLAY",STARZPLAY - AL EMARAT TV HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201649.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ZAEEM.png" group-title="STARZPLAY",STARZPLAY - AL ZAEEM FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201624.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ZAEEM.png" group-title="STARZPLAY",STARZPLAY - AL ZAEEM HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201650.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BIKE.png" group-title="STARZPLAY",STARZPLAY - BIKE FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201625.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BIKE.png" group-title="STARZPLAY",STARZPLAY - BIKE HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201651.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BILLIARD_PLUS.png" group-title="STARZPLAY",STARZPLAY - BILLIARD PLUS FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201626.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BILLIARD_PLUS.png" group-title="STARZPLAY",STARZPLAY - BILLIARD PLUS HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201652.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/CNBC_ARABIYA.png" group-title="STARZPLAY",STARZPLAY - CNBC ARABIYA FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201627.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/CNBC_ARABIYA.png" group-title="STARZPLAY",STARZPLAY - CNBC ARABIYA HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201653.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DAZN_FHD.png" group-title="STARZPLAY",STARZPLAY - DAZN FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201630.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DAZN_FHD.png" group-title="STARZPLAY",STARZPLAY - DAZN HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201656.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DUBAI_TV.png" group-title="STARZPLAY",STARZPLAY - DUBAI TV FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201631.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DUBAI_TV.png" group-title="STARZPLAY",STARZPLAY - DUBAI TV HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201657.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/KHALIJYAT.png" group-title="STARZPLAY",STARZPLAY - KHALIJYAT FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201632.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/KHALIJYAT.png" group-title="STARZPLAY",STARZPLAY - KHALIJYAT HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201658.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MAJID_KIDS_TV.png" group-title="STARZPLAY",STARZPLAY - MAJID KIDS TV FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201633.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MAJID_KIDS_TV.png" group-title="STARZPLAY",STARZPLAY - MAJID KIDS TV HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201659.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MBC_PLUS_ELIFE.png" group-title="STARZPLAY",STARZPLAY - MBC PLUS ELIFE FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201634.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MBC_PLUS_ELIFE.png" group-title="STARZPLAY",STARZPLAY - MBC PLUS ELIFE HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201660.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/NOW_80S.png" group-title="STARZPLAY",STARZPLAY - NOW 80S FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201635.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/NOW_80S.png" group-title="STARZPLAY",STARZPLAY - NOW 80S HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201661.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/POWDER.png" group-title="STARZPLAY",STARZPLAY - POWDER FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201636.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/POWDER.png" group-title="STARZPLAY",STARZPLAY - POWDER HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201662.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDI_1.png" group-title="STARZPLAY",STARZPLAY - SAUDI 1 FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201637.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDI_1.png" group-title="STARZPLAY",STARZPLAY - SAUDI 1 HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201663.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDIQURAN.png" group-title="STARZPLAY",STARZPLAY - SAUDI QURAN FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201638.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDIQURAN.png" group-title="STARZPLAY",STARZPLAY - SAUDI QURAN HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201664.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SKY_NEWS_ARABIA.png" group-title="STARZPLAY",STARZPLAY - SKY NEWS ARABIA FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201640.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SKY_NEWS_ARABIA.png" group-title="STARZPLAY",STARZPLAY - SKY NEWS ARABIA HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201665.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",STARZPLAY - SOUAD HOSNY FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201641.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",STARZPLAY - SOUAD HOSNY HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201666.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",STARZPLAY - STARZPLAY SPORTS FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201642.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="STARZPLAY",STARZPLAY - STARZPLAY SPORTS HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201667.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SURFER.png" group-title="STARZPLAY",STARZPLAY - SURFER FHD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201643.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SURFER.png" group-title="STARZPLAY",STARZPLAY - SURFER HD
+http://smartplus-fast.net:80/live/KGSQSJD/D8H1T51/1201668.ts
