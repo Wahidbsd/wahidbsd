@@ -9,8 +9,8 @@ https://cdnvid.dramalvr.com/hls/0uqqtOs4f8_6af86c351b243/playlist_720p.m3u8
 https://cdnvid.dramalvr.com/hls/Fj9pmPiP2Q_6aff20df305b0/playlist_720p.m3u8Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f9ac8fc6edf9517c4300a1f962c36286%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T182530Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=32c5601efd8c2a843bffa597e255c319998f9279f5a33c7364ac565ef6ee6f05
 #EXTINF:-1 tvg-id="676986" tvg-name="gaurd  9- HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (G) - HEVC
 https://cdnvid.dramalvr.com/hls/le5FWxoYnS_6b01905a88f0e/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="677004" tvg-name="berry - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
-https://ultra4vid.c0ed31756f8ff9b9cac2fc32bc6b21a7.r2.cloudflarestorage.com/users/jOy5eVOMaEP4/ucjQyIFrN8BQddC_1794406558.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=f9ac8fc6edf9517c4300a1f962c36286%2F20261111%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261111T145558Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=a5d18a97b7191f3eaf035917b464f1ab15bb89913b9626918cc3c8e9a9d9bdeb
+#EXTINF:-1 tvg-id="677004" tvg-name="ok mdam - HEVC" group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
+https://cdnvid.dramalvr.com/hls/FE3Lhwi531_6afaf36abf704/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="677001" tvg-name="Link2link  " group-title="SPORT - رياضة",beIN SPORm3u8 2 (F) - HEVC
 https://raw.githubusercontent.com/Wahidbsd/wahidbsd/refs/heads/Main/1100.m3u
 
