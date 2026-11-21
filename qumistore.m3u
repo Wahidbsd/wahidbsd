@@ -83,3 +83,486 @@ http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=
 http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264158&extension=ts&play_token=aNYwoNCrcU&sn2=
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 1 LQ
 http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264157&extension=ts&play_token=WFDyJ8zdhQ&sn2=
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",### beIN SP⚽RTS ᴿᴬᵂ ###
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285646&extension=ts&play_token=MpXURf9q72&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS NEWS ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285645&extension=ts&play_token=r5vPQZW59f&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS GLOBAL ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285644&extension=ts&play_token=JhjdbwPmjp&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285643&extension=ts&play_token=Ik3dtiL7zl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285642&extension=ts&play_token=lzENLMs7sQ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285641&extension=ts&play_token=LzLUWZmGpv&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 4 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285640&extension=ts&play_token=UflVyQ1jUC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 5 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285639&extension=ts&play_token=mJt0JMmzMv&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 6 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285638&extension=ts&play_token=6cI7KtXEHl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 7 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285637&extension=ts&play_token=lFo0s4gpHg&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 8 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285636&extension=ts&play_token=CwjwSq78CJ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 9 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285635&extension=ts&play_token=HNEpcQgZbR&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 1 XTRA ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285634&extension=ts&play_token=n6dwC5cfd9&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 2 XTRA ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285633&extension=ts&play_token=JVbPnC1m9o&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",####### beIN SP⚽RTS SD #######
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263959&extension=ts&play_token=WTGJhm9GdY&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 1 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263958&extension=ts&play_token=w9VdstJy3v&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 2 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263957&extension=ts&play_token=rDsOuJEcxV&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 3 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263956&extension=ts&play_token=VParIjricN&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 4 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263955&extension=ts&play_token=adVFovR899&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 5 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263954&extension=ts&play_token=8AvX5Ep2cw&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 6 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263953&extension=ts&play_token=1pqXWWymmr&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 7 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263952&extension=ts&play_token=Z9ziRLXB8U&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 8 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263951&extension=ts&play_token=3kRws8QbWF&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 9 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263950&extension=ts&play_token=CwHMos2ULj&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",####### beIN SP⚽RTS ᴴᴰ #######
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263977&extension=ts&play_token=67Zvs9kylV&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS AFC ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263976&extension=ts&play_token=9axOyrHxi4&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS AFC 1 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263975&extension=ts&play_token=UNUGh1k4Pl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS AFC 2 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263974&extension=ts&play_token=z1I43290Nb&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",##### beIN SP⚽RTS SD #####
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264170&extension=ts&play_token=YOwyvA6QWD&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 1 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264169&extension=ts&play_token=cZQyL1ECGu&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 2 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264168&extension=ts&play_token=A1vzjXoKWe&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 3 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264167&extension=ts&play_token=vNlCC3laBj&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 4 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264166&extension=ts&play_token=A4JKX74Tgm&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 5 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264165&extension=ts&play_token=Im70Ao1yAD&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 6 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264164&extension=ts&play_token=fHCSSQUD0l&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 7 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264163&extension=ts&play_token=UDNjEDutx0&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 8 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264162&extension=ts&play_token=ehrbTgQZLs&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 9 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264161&extension=ts&play_token=e7NsbmWMWN&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS FRENCH 1 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264160&extension=ts&play_token=PimZPLzam2&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS FRENCH 2 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264159&extension=ts&play_token=ZTHVJzD2aV&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",##### beIN SP⚽RTS LQ #####
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264158&extension=ts&play_token=aNYwoNCrcU&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 1 LQ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264157&extension=ts&play_token=WFDyJ8zdhQ&sn2=
+
+
+#PLAYLIST: FR Sport | Cinema | Documentaire - Sorted by The Architect 2099
+
+# === FR SPORT ===
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | David Lilley - Zhao Xintong International Championship | 2e tour | all | 01-11-2026 | 12:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720546&extension=ts&play_token=NnoJbneVZq&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Getafe vs. Sevilla | all | 01-11-2026 | 13:38 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720541&extension=ts&play_token=IHvEJq2q0h&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Inter vs. Lazio | all | 01-11-2026 | 12:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 3
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720550&extension=ts&play_token=nYoY71fmGR&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | JOJ Dakar 2026 | Beach-volley – Phase de groupes : 2e journée Dakar 2026 Youth Olympic Games | all | 01-11-2026 | 09:25 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 1
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720552&extension=ts&play_token=U6z5J1pM4b&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | JOJ Dakar 2026 | Futsal : Italie - Cameroun (F) Dakar 2026 Youth Olympic Games | all | 01-11-2026 | 12:48 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720545&extension=ts&play_token=wKPjmulugm&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | London City Lionesses vs. Manchester City | all | 01-11-2026 | 12:55 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 9
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720544&extension=ts&play_token=Wq9pAATbrc&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Oudenaarde | Course élite (F) X²O Badkamers Trofee | all | 01-11-2026 | 13:41 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720540&extension=ts&play_token=chv5c2gD9m&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Rabat | Saut d'obstacles Longines Global Champions Tour | all | 01-11-2026 | 13:36 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720542&extension=ts&play_token=OIZ74hZ1Uv&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Route du Rhum 2026 | Grand Départ 13e édition | all | 01-11-2026 | 12:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 4
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720549&extension=ts&play_token=RE6AMMjzk0&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Stan Moody - Sam Craigie International Championship | 2e tour | all | 01-11-2026 | 12:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 5
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720548&extension=ts&play_token=UQNoQ0u4oS&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Stricker/Bernet vs. Olivetti/Arribage | all | 01-11-2026 | 13:01 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720543&extension=ts&play_token=PMxd7sUHNj&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",End | Xu Si - Gary Wilson International Championship | 2e tour | all | 01-11-2026 | 12:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720547&extension=ts&play_token=uPJpb9fwmr&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6347.jpg?49213" group-title="FR|SPORT",FR: BEIN MAX 4 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288824&extension=ts&play_token=BufgVE8AQK&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033" group-title="FR|SPORT",FR: beIN SPORTS 1 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288829&extension=ts&play_token=Dn78T177uU&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?45033" group-title="FR|SPORT",FR: BEIN SPORTS 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288830&extension=ts&play_token=o6sVdRj7bK&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?33638" group-title="FR|SPORT",FR: beIN SPORTS 2 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288828&extension=ts&play_token=hgUUNVjGPW&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?48273" group-title="FR|SPORT",FR: BEIN SPORTS 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288827&extension=ts&play_token=sin4bDxads&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/533.png?53803" group-title="FR|SPORT",FR: beIN SPORTS 3 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288825&extension=ts&play_token=tjiZ8tAtQo&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/533.png?52675" group-title="FR|SPORT",FR: BEIN SPORTS 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288826&extension=ts&play_token=sK7IU1Fr9N&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10038.png?13147" group-title="FR|SPORT",FR: CANAL+ 360 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288836&extension=ts&play_token=cqrEEHfKrh&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10020.jpg?ver=11693" group-title="FR|SPORT",FR: CANAL+ FOOT ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288835&extension=ts&play_token=8I638lNnP7&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13263.png?78854" group-title="FR|SPORT",FR: CANAL+ FORMULA1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288832&extension=ts&play_token=jwQ837ZPqS&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12477.jpg?84603" group-title="FR|SPORT",FR: CANAL+ Ligue1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288831&extension=ts&play_token=zgnb9mcQgR&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 1 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289238&extension=ts&play_token=zczii9SY9Z&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289218&extension=ts&play_token=XDZjxuklyx&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 10 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289229&extension=ts&play_token=HSHNwN1J8p&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 10 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289209&extension=ts&play_token=7Y9AZMeGqR&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 11 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289228&extension=ts&play_token=GoFEJPQZ2s&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 11 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289208&extension=ts&play_token=63uhID5RR8&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 12 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289227&extension=ts&play_token=JEf3ZX3Lqv&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 12 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289207&extension=ts&play_token=QJeaIQuntp&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 13 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289226&extension=ts&play_token=D5bHhvSPLE&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 13 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289206&extension=ts&play_token=MxdhRTMcwJ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 2 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289237&extension=ts&play_token=Yxluwy28rL&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289217&extension=ts&play_token=fJMdyiOGxU&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 3 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289236&extension=ts&play_token=Jlcs1r3oFr&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289216&extension=ts&play_token=dlXzSmwJJe&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 4 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289235&extension=ts&play_token=6Co5j0BbpB&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 4 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289215&extension=ts&play_token=V2mrj6vlxV&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 5 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289234&extension=ts&play_token=Ek8IxCPfQe&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 5 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289214&extension=ts&play_token=JptyCbtJbN&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 6 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289233&extension=ts&play_token=SwcHbZQBU2&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 6 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289213&extension=ts&play_token=DXPkvNfMiC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 7 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289232&extension=ts&play_token=VmzsRWGYJ7&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 7 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289212&extension=ts&play_token=iDNsABjaBW&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 8 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289231&extension=ts&play_token=kQ9febG88H&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 8 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289211&extension=ts&play_token=Iy5VWQs5gC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 9 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289230&extension=ts&play_token=NtunLG6Nxr&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13851.png?ver=78278" group-title="FR|SPORT",FR: CANAL+ LIVE 9 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=289210&extension=ts&play_token=k58evvj6Hq&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6333.jpg?14261" group-title="FR|SPORT",FR: CANAL+ SPORT ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288833&extension=ts&play_token=8dTa0OcxdM&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6333.jpg?14261" group-title="FR|SPORT",FR: CANAL+ SPORT ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288834&extension=ts&play_token=2tq23F2XiA&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 1 (PRIME) ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288726&extension=ts&play_token=8tUYi0jxrs&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 2 (PRIME) ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288725&extension=ts&play_token=7hVnwWpHDm&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 360 10 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288717&extension=ts&play_token=tFNcrNJk8B&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 360 11 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288716&extension=ts&play_token=VDaIn9WzDh&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 360 12 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288715&extension=ts&play_token=xQ9BC2C4C0&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 360 13 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288714&extension=ts&play_token=hOpCIBZb7F&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 360 9 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288718&extension=ts&play_token=6gSvHWWtqC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 4 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288724&extension=ts&play_token=iESUOwCEG0&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 5 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288723&extension=ts&play_token=C32GCtmn5G&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 6 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288722&extension=ts&play_token=5xeaklbgCQ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 7 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288721&extension=ts&play_token=ClfLw8o5vq&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 8 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288720&extension=ts&play_token=DyO4BHVbNI&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/906.jpg?ver=52132" group-title="FR|SPORT",FR: EUROSPORT 9 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288719&extension=ts&play_token=i8qJJBadAY&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE LIVE FOOT ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288430&extension=ts&play_token=snQdwEclc0&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE LIVE FOOT ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288426&extension=ts&play_token=1HO2CzOo1C&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE SPORT 1 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288428&extension=ts&play_token=OwsGHDSSYY&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE SPORT 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288424&extension=ts&play_token=U8e4oBXjB4&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE SPORT 2 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288427&extension=ts&play_token=P6dWvE8BHj&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE SPORT 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288423&extension=ts&play_token=JIWNHsb1Yq&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE SPORT ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288429&extension=ts&play_token=TMevGvt208&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9336.jpg?ver=12473" group-title="FR|SPORT",FR: L'ÉQUIPE SPORT ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288425&extension=ts&play_token=ZJzNPQZnCL&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | Agrosport MC vs. Trindade FC | Campeonato Nacional - São Tomé e Príncipe | 8K EXCLUSIVE | FR: DAZN PPV 3
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650869&extension=ts&play_token=KrObXXx0Wj&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | AS Maaya vs. Rahimo FC | Ligue 1 - Burkina Faso | 8K EXCLUSIVE | FR: DAZN PPV 9
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650863&extension=ts&play_token=2t7ki5xm68&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | AS Sonabel vs. ASF Bobo | Ligue 1 - Burkina Faso | 8K EXCLUSIVE | FR: DAZN PPV 11
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650861&extension=ts&play_token=IJ5S4KN2pT&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | ASFA Yennenga vs. AS Douanes | Ligue 1 - Burkina Faso | 8K EXCLUSIVE | FR: DAZN PPV 12
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650860&extension=ts&play_token=sbXhhTUIhH&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | ASN Nigelec vs. Urana FC | Niger Super Ligue 1 - Nigeria | 8K EXCLUSIVE | FR: DAZN PPV 7
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650865&extension=ts&play_token=8NWnxYfGhH&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | Baskonia vs. Manresa | Liga Endesa | 8K EXCLUSIVE | FR: DAZN PPV 13
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650859&extension=ts&play_token=iqKLE3fDHs&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | Dragons FC vs. Hodio FC | Championnat National - Benin | 8K EXCLUSIVE | FR: DAZN PPV 5
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650867&extension=ts&play_token=VO7SeOWWrE&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | Espoir FC vs. Cavaliers FC | Championnat National - Benin | 8K EXCLUSIVE | FR: DAZN PPV 4
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650868&extension=ts&play_token=rzzTJJQDAd&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | Liberté FC vs. JS Tahoua | Niger Super Ligue 1 - Nigeria | 8K EXCLUSIVE | FR: DAZN PPV 6
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650866&extension=ts&play_token=3JrHhB40ND&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="FR|SPORT",Live | Naiza FC 86 | all | 8K EXCLUSIVE | FR: SOCCER PPV 2
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=720551&extension=ts&play_token=iAUaShBoyp&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | Naiza FC 86 | Naiza Fighting Championship | 8K EXCLUSIVE | FR: DAZN PPV 1
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650871&extension=ts&play_token=W8JXHGgrBC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | RC Abidjan vs. Atlantis FC | Ligue 2 | 8K EXCLUSIVE | FR: DAZN PPV 10
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650862&extension=ts&play_token=NJ9OTZLW6p&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",Live | Salitas FC vs. Sporting Cascades | Ligue 1 - Burkina Faso | 8K EXCLUSIVE | FR: DAZN PPV 8
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650864&extension=ts&play_token=MCkHMLFyqc&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR|SPORT",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: DAZN PPV 2
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=650870&extension=ts&play_token=h0IYIyIMv5&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?58145" group-title="FR|SPORT",VIP: BEIN SPORTS 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553141&extension=ts&play_token=mJy9WaBvRV&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?58145" group-title="FR|SPORT",VIP: BEIN SPORTS 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553140&extension=ts&play_token=ULFOJxIkBM&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/533.png?94733" group-title="FR|SPORT",VIP: BEIN SPORTS 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553139&extension=ts&play_token=p4HdsTc6oJ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12240.png?48825" group-title="FR|SPORT",VIP: BEIN SPORTS MAX 10 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553132&extension=ts&play_token=ZxhTQ9Ichg&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6342.png?27585" group-title="FR|SPORT",VIP: BEIN SPORTS MAX 4 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553138&extension=ts&play_token=WLPOstCKEc&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6340.png?67280" group-title="FR|SPORT",VIP: BEIN SPORTS MAX 5 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553137&extension=ts&play_token=FkmAwTiaaX&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11501.png?82662" group-title="FR|SPORT",VIP: BEIN SPORTS MAX 6 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553136&extension=ts&play_token=Eb3vh44xMl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8299.png?52590" group-title="FR|SPORT",VIP: BEIN SPORTS MAX 7 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553135&extension=ts&play_token=zc2HlCpo0h&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11500.png?31765" group-title="FR|SPORT",VIP: BEIN SPORTS MAX 8 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553134&extension=ts&play_token=3Ef6yNTo4z&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11498.png?17820" group-title="FR|SPORT",VIP: BEIN SPORTS MAX 9 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553133&extension=ts&play_token=7G2GxeoV0n&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14536.png?74145" group-title="FR|SPORT",VIP: CANAL+ FOOT ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553130&extension=ts&play_token=yMu8VsoSo7&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14537.png?71311" group-title="FR|SPORT",VIP: CANAL+ PREMIER LEAGUE ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553131&extension=ts&play_token=1CnC3Malof&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14546.png?89121" group-title="FR|SPORT",VIP: CANAL+ SPORT 360 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=553129&extension=ts&play_token=Y3q4efCw3i&sn2=
+
+# === FR CINEMA ===
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14902.png?45267" group-title="FR|CINEMA",FR: BEIN CINEMA 1980 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632620&extension=ts&play_token=sPTX7Q5RBK&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14902.png?45267" group-title="FR|CINEMA",FR: BEIN CINEMA 1990 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632619&extension=ts&play_token=BkR0M7EIxA&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14901.jpg?67364" group-title="FR|CINEMA",FR: BEIN CINEMA ACTION ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632618&extension=ts&play_token=4fsoWsAVuB&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14900.jpg?26734" group-title="FR|CINEMA",FR: BEIN CINEMA COMEDY 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632617&extension=ts&play_token=tkPxlvmXiJ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14900.jpg?26734" group-title="FR|CINEMA",FR: BEIN CINEMA COMEDY 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632616&extension=ts&play_token=pUQ8y5zECa&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14900.jpg?26734" group-title="FR|CINEMA",FR: BEIN CINEMA COMEDY 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632615&extension=ts&play_token=UFrktlW34Q&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14900.jpg?26734" group-title="FR|CINEMA",FR: BEIN CINEMA COMEDY 4 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632614&extension=ts&play_token=HJFJPPxVZa&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/535.png?37955" group-title="FR|CINEMA",FR: BEIN CINEMA DRAMA ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632613&extension=ts&play_token=xMooRd7Sgn&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14903.png?26109" group-title="FR|CINEMA",FR: BEIN CINEMA FILM 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632612&extension=ts&play_token=pwMB78Cs19&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14903.png?26109" group-title="FR|CINEMA",FR: BEIN CINEMA FILM 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632611&extension=ts&play_token=IadYWf3rG2&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14903.png?26109" group-title="FR|CINEMA",FR: BEIN CINEMA FILM 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632610&extension=ts&play_token=GkEGUBYg2M&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14903.png?26109" group-title="FR|CINEMA",FR: BEIN CINEMA HARRY POTTER ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632609&extension=ts&play_token=R6xpR3wQXs&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14903.png?26109" group-title="FR|CINEMA",FR: BEIN CINEMA OLD FILM ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=632608&extension=ts&play_token=chSiZipR60&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: BETTER CALL SAUL ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288662&extension=ts&play_token=ye7WMNstO5&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: BREAKING BAD ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288663&extension=ts&play_token=Nzrd2Iw0oW&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10026.jpg?91831" group-title="FR|CINEMA",FR: CANAL+ CINEMA ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288529&extension=ts&play_token=Qw8A5h0smk&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10026.jpg?89861" group-title="FR|CINEMA",FR: CANAL+ Cinema ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288530&extension=ts&play_token=G99xVkPutc&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10024.png?79115" group-title="FR|CINEMA",FR: CANAL+ SERIES ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288527&extension=ts&play_token=tQ66vUM7NC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10024.png?89117" group-title="FR|CINEMA",FR: CANAL+ Series ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288528&extension=ts&play_token=Yv1tVI5356&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10027.jpg?83934" group-title="FR|CINEMA",FR: CANAL+ ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288531&extension=ts&play_token=vxWb1MfWVO&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10027.jpg?48802" group-title="FR|CINEMA",FR: CANAL+ ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288532&extension=ts&play_token=QYmdgKEpe5&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12772.jpg?22382" group-title="FR|CINEMA",FR: CANALPLAY 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288482&extension=ts&play_token=PH2OFKLZ8Z&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12772.jpg?22382" group-title="FR|CINEMA",FR: CANALPLAY 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288481&extension=ts&play_token=SN8eRXWH4s&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12772.jpg?22382" group-title="FR|CINEMA",FR: CANALPLAY 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288480&extension=ts&play_token=ydSUyhAfRU&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1963.jpg?22107" group-title="FR|CINEMA",FR: CINE+ CLASSIC ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288525&extension=ts&play_token=ztZC91htX3&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1963.jpg?44957" group-title="FR|CINEMA",FR: CINE+ CLASSIC ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288526&extension=ts&play_token=7YO9fFotLY&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3329.png?78903" group-title="FR|CINEMA",FR: CINE+ CLUB ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288523&extension=ts&play_token=AFB5Gjm3Lh&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3329.png?39462" group-title="FR|CINEMA",FR: CINE+ Club ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288524&extension=ts&play_token=29d4jU37RC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2268.jpg?20622" group-title="FR|CINEMA",FR: CINE+ EMOTION ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288521&extension=ts&play_token=ksTaiGeaf7&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2268.jpg?32780" group-title="FR|CINEMA",FR: CINE+ EMOTION ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288522&extension=ts&play_token=mxNKx4HhLO&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1964.jpg?44067" group-title="FR|CINEMA",FR: CINE+ Famiz ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288520&extension=ts&play_token=K2X4XbBp6a&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: DEXTER ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288664&extension=ts&play_token=XHRBrCgqX4&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: DR. HOUSE ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288665&extension=ts&play_token=uV9xos8JbA&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: ENCHÈRES À TOUT PRIX ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288674&extension=ts&play_token=tfDvZVOBpE&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: GAME OF THRONES ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288666&extension=ts&play_token=Gz9HFTgvtf&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: HARRY POTTER ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288671&extension=ts&play_token=17pZnmOeFT&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: LA CASA DE PAPEL ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288667&extension=ts&play_token=iK1BcHY3cl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: LOST ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288668&extension=ts&play_token=wGzMYwfsrC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX ACTION ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288491&extension=ts&play_token=wTLt5B5Sic&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX BOX OFFICE ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288492&extension=ts&play_token=tOiyhG1esk&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX CLASSIC ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288483&extension=ts&play_token=HxGWUZYGFo&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX COMEDY ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288488&extension=ts&play_token=GA4Ud6n5mE&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX DISCOVERY ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288486&extension=ts&play_token=VZWLsmfFS0&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX DRAMA ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288487&extension=ts&play_token=uyxQJwP3et&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX HORROR ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288485&extension=ts&play_token=RwZHUk0N75&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX KIDS ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288484&extension=ts&play_token=a0KiD0DkJa&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX MOVIES ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288490&extension=ts&play_token=fHv07oE8RQ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13562.png?ver=92148" group-title="FR|CINEMA",FR: NETFLIX THRILLER ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288489&extension=ts&play_token=tpHBkGsaoi&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: PEAKY BLINDERS ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288669&extension=ts&play_token=WQFOCIf5Ai&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: ROCKY ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288672&extension=ts&play_token=6DwAKMayQJ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: THE GOOD DOCTOR ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288673&extension=ts&play_token=oOT9rxushQ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9738.png?83042" group-title="FR|CINEMA",FR: VIKINGS ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288670&extension=ts&play_token=7PqlsVTXc6&sn2=
+
+# === FR DOCUMENTAIRE ===
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6357.png?26739" group-title="FR|DOCUMENTAIRE",FR: ANIMAUX ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288420&extension=ts&play_token=yriNJC9QrB&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6357.png?4113" group-title="FR|DOCUMENTAIRE",FR: ANIMAUX ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288421&extension=ts&play_token=PutcPqYfjN&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1419.jpg?68897" group-title="FR|DOCUMENTAIRE",FR: DISCOVERY CHANNEL ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288419&extension=ts&play_token=p7DY3NSLQg&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6307.png?90964" group-title="FR|DOCUMENTAIRE",FR: DISCOVERY INVESTIGATION ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288417&extension=ts&play_token=WZxovi9lrY&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/6307.png?30534" group-title="FR|DOCUMENTAIRE",FR: DISCOVERY INVESTIGATION ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288418&extension=ts&play_token=YZR3FLRDvx&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?51374" group-title="FR|DOCUMENTAIRE",FR: DISCOVERY SCIENCE ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288415&extension=ts&play_token=GFmecNCyXV&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6698.jpg?55912" group-title="FR|DOCUMENTAIRE",FR: DISCOVERY SCIENCE ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288416&extension=ts&play_token=WW9esSJt7P&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1419.jpg?9152" group-title="FR|DOCUMENTAIRE",FR: DISCOVERY TV ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288414&extension=ts&play_token=RnI6zikF9O&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6289.png?82362" group-title="FR|DOCUMENTAIRE",FR: HISTOIRE ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288412&extension=ts&play_token=J6yz8bHx9W&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6289.png?49444" group-title="FR|DOCUMENTAIRE",FR: HISTOIRE ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288413&extension=ts&play_token=F0Y2iJq2qb&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/735.jpg?81565" group-title="FR|DOCUMENTAIRE",FR: NAT GEO WILD ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288409&extension=ts&play_token=hu7NgaAGQb&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/735.jpg?81565" group-title="FR|DOCUMENTAIRE",FR: NAT GEO WILD ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288410&extension=ts&play_token=MzdHXXGVuB&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1428.jpg?92494" group-title="FR|DOCUMENTAIRE",FR: NAT GEO ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=288411&extension=ts&play_token=JScnAmANEE&sn2=
+
+#EXTM3U
+#PLAYLIST: ALWAN BEST CHANNELS
+# Generated by The Architect 2099
+
+# === ALWAN SPORT HD (Recommended) ===
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN F1 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454134&extension=ts&play_token=xGDWBjQylx&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN SPORT 1 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454131&extension=ts&play_token=GaUV0GYNEx&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN SPORT 2 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454130&extension=ts&play_token=5Zowx2kSZG&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN SPORT 3 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454129&extension=ts&play_token=Vbci1gjuIf&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN SPORT 4 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454128&extension=ts&play_token=bkNK4eqsOW&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN SPORT 5 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454127&extension=ts&play_token=WZDWr2SdQc&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN SPORT 6 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454126&extension=ts&play_token=1fUcihI6Wo&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN UFC ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454132&extension=ts&play_token=xuYashNIIY&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT HD",F: ALWAN WWE ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454133&extension=ts&play_token=otJAuNOoHT&sn2=
+
+# === ALWAN SPORT SD ===
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT SD",F: ALWAN SPORT 1 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454125&extension=ts&play_token=LpQhWxGVdu&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT SD",F: ALWAN SPORT 2 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454124&extension=ts&play_token=Iqcq8yhBwJ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT SD",F: ALWAN SPORT 3 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454123&extension=ts&play_token=LyWv9OoKFH&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14464.png?ver=66992" group-title="AR|ALWAN SPORT SD",F: ALWAN SPORT 4 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454122&extension=ts&play_token=7yIpDZOj1E&sn2=
+
+# === ALWAN ENTERTAINMENT ===
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN AFLAM 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454108&extension=ts&play_token=V2zkAuZQy6&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN AFLAM 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454107&extension=ts&play_token=694TiaRg1q&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN AFLAM 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454106&extension=ts&play_token=ELrEe1jWmc&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN AFLAM 4 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454105&extension=ts&play_token=cLosAVjzUd&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN AGHANI ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454097&extension=ts&play_token=60tOTF8EeD&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN ALWATHAEQYE ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454098&extension=ts&play_token=m9ip1SR2Ku&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN ANIME ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454099&extension=ts&play_token=X1ukUtcHWi&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN ATFAL ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454096&extension=ts&play_token=8eDI3giLXz&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN BOLLYWOOD ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454100&extension=ts&play_token=88ndDjPhG8&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN KOREA ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454101&extension=ts&play_token=MIxwvhJEMe&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN MOSALSALAT ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454104&extension=ts&play_token=q5t73cYglK&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14465.png?ver=64087" group-title="AR|ALWAN ENTERTAINMENT",F: ALWAN TURKEY ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=454102&extension=ts&play_token=ijr7P83Cal&sn2=
