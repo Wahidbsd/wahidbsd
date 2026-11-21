@@ -1,217 +1,85 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsportnews.png" group-title="[LIVE]- beIN Sports",beIN Sports News HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76379.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport1.png" group-title="[LIVE]- beIN Sports",beIN Sports 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76380.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport2.png" group-title="[LIVE]- beIN Sports",beIN Sports 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76381.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport3.png" group-title="[LIVE]- beIN Sports",beIN Sports 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76382.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport4.png" group-title="[LIVE]- beIN Sports",beIN Sports 4 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76383.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport5.png" group-title="[LIVE]- beIN Sports",beIN Sports 5 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76384.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport6.png" group-title="[LIVE]- beIN Sports",beIN Sports 6 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76385.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport7.png" group-title="[LIVE]- beIN Sports",beIN Sports 7 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76386.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports 8 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76387.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports 9 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76388.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports English 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76389.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports English 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76390.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports English 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76391.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports English 4 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76392.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsportfr1.png" group-title="[LIVE]- beIN Sports",beIN Sports French 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76393.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsportfr2.png" group-title="[LIVE]- beIN Sports",beIN Sports French 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76394.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsportfr3.png" group-title="[LIVE]- beIN Sports",beIN Sports French 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76395.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76396.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76397.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76398.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 4 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76399.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports HD (Open)
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76400.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76401.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport1max.jpg" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76402.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_beinsport2max.jpg" group-title="[LIVE]- beIN Sports",beIN Sports Max 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76403.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Australia 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76777.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Australia 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76778.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN SPORTS USA
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76779.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Australia 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76781.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports French 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76782.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76783.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports French 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76784.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76785.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports French 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76786.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 1
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76787.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 2
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76788.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 3
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76789.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 4
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76790.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 5
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76791.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 6
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76792.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 7
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76793.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports English 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76794.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports English 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76795.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 5 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76796.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 6 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76797.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 5 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77552.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Australia 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77553.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Australia 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77554.ts
-#EXTINF:-1 tvg-logo="http://18.194.81.219/live/img/channels/television_blue.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77555.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports English 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77557.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77558.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77559.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77560.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77561.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77562.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77563.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77564.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 7 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77565.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 8 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77566.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 8
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77567.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports MENA 9
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77568.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77569.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Malaysia
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77570.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77781.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77784.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 10 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77792.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 4 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77824.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77986.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77994.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 9 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77995.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="[LIVE]- beIN Sports",beIN Sports Max 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77996.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="[LIVE]- beIN Sports",beIN Sports Max 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77997.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="[LIVE]- beIN Sports",beIN Sports Max 4 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77998.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="[LIVE]- beIN Sports",beIN Sports Max 5 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/77999.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Max 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78014.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78019.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 4 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78051.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78089.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78141.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="[LIVE]- beIN Sports",beIN Sports 1 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78142.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/BeinSports2.svg/revision/latest?cb=20230910185720" group-title="[LIVE]- beIN Sports",beIN Sports 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78143.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/BeIN_Sports_3_2017_Rectangle.png/revision/latest/scale-to-width-down/1000?cb=20251213114000" group-title="[LIVE]- beIN Sports",beIN Sports 3 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78144.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Logo_bein_sports_4.png/revision/latest/scale-to-width-down/1000?cb=20251213115820" group-title="[LIVE]- beIN Sports",beIN Sports 4 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78145.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/BeIN%2Bsports%2B5.png/revision/latest/scale-to-width-down/1000?cb=20251214104942" group-title="[LIVE]- beIN Sports",beIN Sports 5 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78146.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[LIVE]- beIN Sports",beIN Sports Haber
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78147.ts
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="[LIVE]- beIN Sports",beIN Sports Max 6 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78158.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 5 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78283.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 6 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78284.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 7 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78285.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 8 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78286.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/topics/bein_sport.png" group-title="[LIVE]- beIN Sports",beIN Sports Xtra 9 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78287.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- beIN Sports",beIN Sports Turkey 2 HD
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78330.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 1 | الوان 1
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76434.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 10 | الوان 10
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76435.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 2 | الوان 2
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76436.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 3 | الوان 3
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76437.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 4 | الوان 4
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76438.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 5 | الوان 5
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76439.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 6 | الوان 6
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76440.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 7 | الوان 7
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76441.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 8 | الوان 8
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76442.ts
-#EXTINF:-1 tvg-logo="https://logo.twoapistack.work/img/topics/alwan.jpg" group-title="[LIVE]- Alwan",Alwan 9 | الوان 9
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/76443.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Alwan",Alwan Aflam 1 | الوان افلام 1
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78271.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_panel_99e2c8ed6543782bd72f2c91862f530a.png?v=1793816739" group-title="[LIVE]- Alwan",Alwan Aflam 2 | الوان افلام 2
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78272.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_panel_3600b3230be8672f3942bf341357bb3b.png?v=1793818653" group-title="[LIVE]- Alwan",Alwan Atfal | الوان اطفال
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78273.ts
-#EXTINF:-1 tvg-logo="" group-title="[LIVE]- Alwan",Alwan Documentary | الوان الوثائقية
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78278.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_panel_37cd29c5f199c0f1d00d78fc66f487c7.png?v=1793829502" group-title="[LIVE]- Alwan",Alwan Mosalsalat | الوان مسلسلات
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78279.ts
-#EXTINF:-1 tvg-logo="http://logo.twoapistack.work/img/channels/live_tv_panel_fdf77afe39c61ef494e5c76b4f6d37ef.png?v=1793830571" group-title="[LIVE]- Alwan",Alwan Turkey | الوان تركي
-http://qimyclient.store/live/Qimy_281557/HRRAPWpwSe/78280.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",### beIN SP⚽RTS ᴿᴬᵂ ###
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285646&extension=ts&play_token=MpXURf9q72&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS NEWS ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285645&extension=ts&play_token=r5vPQZW59f&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS GLOBAL ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285644&extension=ts&play_token=JhjdbwPmjp&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 1 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285643&extension=ts&play_token=Ik3dtiL7zl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 2 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285642&extension=ts&play_token=lzENLMs7sQ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 3 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285641&extension=ts&play_token=LzLUWZmGpv&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 4 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285640&extension=ts&play_token=UflVyQ1jUC&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 5 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285639&extension=ts&play_token=mJt0JMmzMv&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 6 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285638&extension=ts&play_token=6cI7KtXEHl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 7 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285637&extension=ts&play_token=lFo0s4gpHg&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 8 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285636&extension=ts&play_token=CwjwSq78CJ&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 9 ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285635&extension=ts&play_token=HNEpcQgZbR&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 1 XTRA ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285634&extension=ts&play_token=n6dwC5cfd9&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",8K: beIN SP⚽RTS 2 XTRA ᴿᴬᵂ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=285633&extension=ts&play_token=JVbPnC1m9o&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",####### beIN SP⚽RTS SD #######
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263959&extension=ts&play_token=WTGJhm9GdY&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 1 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263958&extension=ts&play_token=w9VdstJy3v&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 2 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263957&extension=ts&play_token=rDsOuJEcxV&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 3 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263956&extension=ts&play_token=VParIjricN&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 4 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263955&extension=ts&play_token=adVFovR899&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 5 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263954&extension=ts&play_token=8AvX5Ep2cw&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 6 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263953&extension=ts&play_token=1pqXWWymmr&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 7 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263952&extension=ts&play_token=Z9ziRLXB8U&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 8 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263951&extension=ts&play_token=3kRws8QbWF&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS 9 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263950&extension=ts&play_token=CwHMos2ULj&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",####### beIN SP⚽RTS ᴴᴰ #######
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263977&extension=ts&play_token=67Zvs9kylV&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS AFC ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263976&extension=ts&play_token=9axOyrHxi4&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS AFC 1 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263975&extension=ts&play_token=UNUGh1k4Pl&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",BE: beIN SP⚽RTS AFC 2 ᴴᴰ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=263974&extension=ts&play_token=z1I43290Nb&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",##### beIN SP⚽RTS SD #####
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264170&extension=ts&play_token=YOwyvA6QWD&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 1 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264169&extension=ts&play_token=cZQyL1ECGu&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 2 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264168&extension=ts&play_token=A1vzjXoKWe&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 3 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264167&extension=ts&play_token=vNlCC3laBj&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 4 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264166&extension=ts&play_token=A4JKX74Tgm&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 5 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264165&extension=ts&play_token=Im70Ao1yAD&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 6 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264164&extension=ts&play_token=fHCSSQUD0l&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 7 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264163&extension=ts&play_token=UDNjEDutx0&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 8 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264162&extension=ts&play_token=ehrbTgQZLs&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 9 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264161&extension=ts&play_token=e7NsbmWMWN&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS FRENCH 1 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264160&extension=ts&play_token=PimZPLzam2&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS FRENCH 2 SD
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264159&extension=ts&play_token=ZTHVJzD2aV&sn2=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="Bein8k",##### beIN SP⚽RTS LQ #####
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264158&extension=ts&play_token=aNYwoNCrcU&sn2=
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein8k",NM: beIN SP⚽RTS 1 LQ
+http://pro.business-cloud-neo.com:80/play/live.php?mac=00:1A:79:00:A6:06&stream=264157&extension=ts&play_token=WFDyJ8zdhQ&sn2=
